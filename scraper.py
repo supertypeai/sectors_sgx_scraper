@@ -37,7 +37,7 @@ def read_page(url: str) -> BeautifulSoup | None:
   try:
     session = HTMLSession()
     response = session.get(url)
-    response.html.render(sleep=6, timeout=20)
+    response.html.render(sleep=5, timeout=20)
 
     soup = BeautifulSoup(response.html.html, "html.parser")
     return soup
@@ -55,8 +55,19 @@ def scrap_stock_page(symbol: str) -> dict | None:
   industry = None
   sub_industry = None
   sector = None
+  name = None
 
   if (soup is not None):
+    # Get Name
+    try:
+      name_elm = soup.find("span", {"class" : "widget-security-details-name"}).get_text()
+      names = name_elm.split(" ")
+      names = names[:-1]
+      name = " ".join(names)
+    except:
+      print(f"Failed to get Name data from {url}")
+      name = None
+
     # Get Industry
     try:
       industry = soup.find("span", {"class": "widget-security-details-general-industry"}).get_text()
@@ -82,9 +93,11 @@ def scrap_stock_page(symbol: str) -> dict | None:
       print(f"Failed to get Sector data from {url}")
       sector = None
 
-    if (industry is not None and sub_industry is not None and sector is not None):
+    if (industry is not None and sub_industry is not None and sector is not None and name is not None):
       print(f"Successfully scrap from {symbol} stock page")
     else:
+      if (name is None):
+        print(f"Detected None type for Name variable from {symbol} stock page")
       if (industry is None or sub_industry is None):
         print(f"Detected None type for Industry or SubIndustry variable from {symbol} stock page")
       if (sector is None):
@@ -92,6 +105,7 @@ def scrap_stock_page(symbol: str) -> dict | None:
     
     stock_data = dict()
     stock_data['stock_code'] = symbol
+    stock_data['name'] = name
     stock_data['industry'] = industry
     stock_data['sub_industry'] = sub_industry
     stock_data['sector'] = sector
@@ -111,7 +125,7 @@ def scrap_function(symbol_list, process_idx):
   # Iterate in symbol list
   for i in range(start_idx, len(symbol_list)):
 
-    symbol = symbol_list[i]['stock_code']
+    symbol = symbol_list[i]
     if (symbol is not None):
       scrapped_data = scrap_stock_page(symbol)
       all_data.append(scrapped_data)
