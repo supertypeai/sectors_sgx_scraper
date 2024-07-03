@@ -1,797 +1,956 @@
 [
   {
     "stock_code": "UV1",
-    "industry": "Real Estate, Real Estate Development & Operations",
+    "industry": "Real Estate",
+    "sub_industry": " Real Estate Development & Operations",
     "sector": "Construction"
   },
   {
     "stock_code": "570",
-    "industry": "Mineral Resources, Construction Materials",
+    "industry": "Mineral Resources",
+    "sub_industry": " Construction Materials",
     "sector": "Manufacturing"
   },
   {
     "stock_code": "KJ5",
-    "industry": "Industrial & Commercial Services, Construction & Engineering",
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Construction & Engineering",
     "sector": "Construction"
   },
   {
     "stock_code": "WPC",
-    "industry": "Transportation, Marine Freight & Logistics",
+    "industry": "Transportation",
+    "sub_industry": " Marine Freight & Logistics",
     "sector": "Financial and Insurance Activities"
   },
   {
     "stock_code": "1H8",
-    "industry": "Cyclical Consumer Products, Home Furnishings",
+    "industry": "Cyclical Consumer Products",
+    "sub_industry": " Home Furnishings",
     "sector": "Manufacturing"
   },
   {
     "stock_code": "F17",
-    "industry": "Real Estate, Real Estate Development & Operations",
+    "industry": "Real Estate",
+    "sub_industry": " Real Estate Development & Operations",
     "sector": "Real Estate Activities"
   },
   {
     "stock_code": "T55",
-    "industry": null,
-    "sector": null
+    "industry": "Collective Investments",
+    "sub_industry": " Closed End Funds",
+    "sector": "Financial and Insurance Activities"
   },
   {
     "stock_code": "BFU",
-    "industry": "Automobiles & Auto Parts, Auto, Truck & Motorcycle Parts",
+    "industry": "Automobiles & Auto Parts",
+    "sub_industry": " Auto",
     "sector": "Wholesale and Retail Trade"
   },
   {
     "stock_code": "8A1",
-    "industry": null,
-    "sector": null
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Business Support Services",
+    "sector": "Manufacturing"
   },
   {
     "stock_code": "V03",
-    "industry": "Technology Equipment, Electronic Equipment & Parts",
+    "industry": "Technology Equipment",
+    "sub_industry": " Electronic Equipment & Parts",
     "sector": "Manufacturing"
   },
   {
     "stock_code": "VC2",
-    "industry": "Food & Beverages, Food Processing",
+    "industry": "Food & Beverages",
+    "sub_industry": " Food Processing",
     "sector": "Wholesale and Retail Trade"
   },
   {
     "stock_code": "BTOU",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "U06",
-    "industry": "Real Estate, Real Estate Development & Operations",
+    "industry": "Real Estate",
+    "sub_industry": " Real Estate Development & Operations",
     "sector": "Real Estate Activities"
   },
   {
     "stock_code": "AZT",
-    "industry": "Food & Beverages, Food Processing",
+    "industry": "Food & Beverages",
+    "sub_industry": " Food Processing",
     "sector": "Manufacturing"
   },
   {
     "stock_code": "5VC",
-    "industry": null,
-    "sector": null
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Construction & Engineering",
+    "sector": "Construction"
   },
   {
     "stock_code": "V8Y",
-    "industry": "Healthcare Services, Healthcare Facilities & Services",
+    "industry": "Healthcare Services",
+    "sub_industry": " Healthcare Facilities & Services",
     "sector": "Financial and Insurance Activities"
   },
   {
     "stock_code": "PRU",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "BEH",
-    "industry": "Industrial & Commercial Services, Construction & Engineering",
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Construction & Engineering",
     "sector": "Construction"
   },
   {
     "stock_code": "PA3",
-    "industry": null,
-    "sector": null
+    "industry": "Real Estate",
+    "sub_industry": " Real Estate Development & Operations",
+    "sector": "Construction"
   },
   {
     "stock_code": "G07",
-    "industry": "Insurance, Life & Health Insurance",
+    "industry": "Insurance",
+    "sub_industry": " Life & Health Insurance",
     "sector": "Financial and Insurance Activities"
   },
   {
     "stock_code": "U13",
-    "industry": null,
-    "sector": null
+    "industry": "Insurance",
+    "sub_industry": " Multiline Insurance & Brokers",
+    "sector": "Financial and Insurance Activities"
   },
   {
     "stock_code": "OXMU",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "ZXY",
-    "industry": null,
-    "sector": null
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Construction & Engineering",
+    "sector": "Financial and Insurance Activities"
   },
   {
     "stock_code": "ZKX",
-    "industry": null,
-    "sector": null
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Construction & Engineering",
+    "sector": "Construction"
   },
   {
     "stock_code": "LIW",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "S7OU",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "YF8",
-    "industry": "Banking & Investment Services, Investment Management & Fund Operators",
+    "industry": "Banking & Investment Services",
+    "sub_industry": " Investment Management & Fund Operators",
     "sector": "Financial and Insurance Activities"
   },
   {
     "stock_code": "5UL",
-    "industry": null,
-    "sector": null
+    "industry": "Energy - Fossil Fuels",
+    "sub_industry": " Oil Related Services and Equipme",
+    "sector": "Mining and Quarrying"
   },
   {
     "stock_code": "543",
-    "industry": "Retailers, Miscellaneous Specialty Retailers",
+    "industry": "Retailers",
+    "sub_industry": " Miscellaneous Specialty Retailers",
     "sector": "Wholesale and Retail Trade"
   },
   {
     "stock_code": "1D3",
-    "industry": null,
-    "sector": null
+    "industry": "Cyclical Consumer Services",
+    "sub_industry": " Restaurants & Bars",
+    "sector": "Accommodation and Food Service Activities"
   },
   {
     "stock_code": "BBW",
-    "industry": "Software & IT Services, IT Services & Consulting",
+    "industry": "Software & IT Services",
+    "sub_industry": " IT Services & Consulting",
     "sector": "Information and Communications"
   },
   {
     "stock_code": "INCKEN",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "SK3",
-    "industry": null,
-    "sector": null
+    "industry": "Energy - Fossil Fuels",
+    "sub_industry": " Oil & Gas Exploration and Productio",
+    "sector": "Administrative and Support Service Activities"
   },
   {
     "stock_code": "1D5",
-    "industry": null,
-    "sector": null
+    "industry": "Real Estate",
+    "sub_industry": " Real Estate Development & Operations",
+    "sector": "Real Estate Activities"
   },
   {
     "stock_code": "BNE",
-    "industry": null,
-    "sector": null
+    "industry": "Food & Beverages",
+    "sub_industry": " Fishing & Farming",
+    "sector": "Agriculture and Fishing"
   },
   {
     "stock_code": "AP4",
-    "industry": "Healthcare Services, Medical Equipment, Supplies & Distribution",
+    "industry": "Healthcare Services",
+    "sub_industry": " Medical Equipment",
     "sector": "Manufacturing"
   },
   {
     "stock_code": "WVJ",
-    "industry": null,
-    "sector": null
+    "industry": "Retailers",
+    "sub_industry": " Apparel & Accessories Retailers",
+    "sector": "Information and Communications"
   },
   {
     "stock_code": "5G4",
-    "industry": "Real Estate, Real Estate Development & Operations",
+    "industry": "Real Estate",
+    "sub_industry": " Real Estate Development & Operations",
     "sector": "Real Estate Activities"
   },
   {
     "stock_code": "T4B",
-    "industry": "Food & Beverages, Non-Alcoholic Beverages",
+    "industry": "Food & Beverages",
+    "sub_industry": " Non-Alcoholic Beverages",
     "sector": "Manufacturing"
   },
   {
     "stock_code": "BTX",
-    "industry": null,
-    "sector": null
+    "industry": "Industrial Goods",
+    "sub_industry": " Industrial Machinery & Equipment",
+    "sector": "Manufacturing"
   },
   {
     "stock_code": "BQN",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "F13",
-    "industry": "Industrial Goods, Industrial Machinery & Equipment",
+    "industry": "Industrial Goods",
+    "sub_industry": " Industrial Machinery & Equipment",
     "sector": "Manufacturing"
   },
   {
     "stock_code": "E6R",
-    "industry": "Applied Resources, Forest & Wood Products",
+    "industry": "Applied Resources",
+    "sub_industry": " Forest & Wood Products",
     "sector": "Financial and Insurance Activities"
   },
   {
     "stock_code": "EG0",
-    "industry": null,
-    "sector": null
+    "industry": "Industrial Goods",
+    "sub_industry": " Shipbuilding",
+    "sector": "Professional, Scientific and Technical Activities"
   },
   {
     "stock_code": "G50",
-    "industry": null,
-    "sector": null
+    "industry": "Cyclical Consumer Products",
+    "sub_industry": " Recreational Products",
+    "sector": "Manufacturing"
   },
   {
     "stock_code": "CEDU",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "8K7",
-    "industry": "Healthcare Services, Medical Equipment, Supplies & Distribution",
+    "industry": "Healthcare Services",
+    "sub_industry": " Medical Equipment",
     "sector": "Manufacturing"
   },
   {
     "stock_code": "1J4",
-    "industry": null,
-    "sector": null
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Construction & Engineering",
+    "sector": "Manufacturing"
   },
   {
     "stock_code": "D5IU",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "ZB9",
-    "industry": "Mineral Resources, Iron & Steel",
-    "sector": "Wholesale and Retail Trade"
-  },
-  {
-    "stock_code": "BXE",
-    "industry": null,
+    "industry": "Mineral Resources",
+    "sub_industry": " Iron & Steel",
     "sector": null
   },
   {
+    "stock_code": "BXE",
+    "industry": "Technology Equipment",
+    "sub_industry": " Electronic Equipment & Parts",
+    "sector": "Manufacturing"
+  },
+  {
     "stock_code": "C09",
-    "industry": "Real Estate, Real Estate Development & Operations",
+    "industry": "Real Estate",
+    "sub_industry": " Real Estate Development & Operations",
     "sector": "Real Estate Activities"
   },
   {
     "stock_code": "S61",
-    "industry": "Transportation, Passenger Transportation, Ground & Sea",
-    "sector": "Transportation and Storage"
-  },
-  {
-    "stock_code": "MT1",
-    "industry": null,
+    "industry": "Transportation",
+    "sub_industry": " Passenger Transportation",
     "sector": null
   },
   {
+    "stock_code": "MT1",
+    "industry": "Industrial Goods",
+    "sub_industry": " Electrical Components & Equipment",
+    "sector": "Wholesale and Retail Trade"
+  },
+  {
     "stock_code": "DM0",
-    "industry": "Applied Resources, Paper Packaging",
+    "industry": "Applied Resources",
+    "sub_industry": " Paper Packaging",
     "sector": "Wholesale and Retail Trade"
   },
   {
     "stock_code": "693",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "B73",
-    "industry": "Collective Investments, Closed End Funds",
+    "industry": "Collective Investments",
+    "sub_industry": " Closed End Funds",
     "sector": "-"
   },
   {
     "stock_code": "A33",
-    "industry": "Real Estate, Real Estate Development & Operations",
+    "industry": "Real Estate",
+    "sub_industry": " Real Estate Development & Operations",
     "sector": "Mining and Quarrying"
   },
   {
     "stock_code": "42N",
-    "industry": "Technology Equipment, Communications & Networking",
-    "sector": "Professional, Scientific and Technical Activities"
+    "industry": "Technology Equipment",
+    "sub_industry": " Communications & Networking",
+    "sector": null
   },
   {
     "stock_code": "I49",
-    "industry": null,
-    "sector": null
+    "industry": "Banking & Investment Services",
+    "sub_industry": " Consumer Lending",
+    "sector": "Financial and Insurance Activities"
   },
   {
     "stock_code": "BS6",
-    "industry": "Industrial Goods, Shipbuilding",
-    "sector": null
-  },
-  {
-    "stock_code": "KUX",
-    "industry": "Financial Technology (Fintech) & Infrastructure, Blockchain & Cryptocurrency",
+    "industry": "Industrial Goods",
+    "sub_industry": " Shipbuilding",
     "sector": "Manufacturing"
   },
   {
-    "stock_code": "BKK",
-    "industry": null,
+    "stock_code": "KUX",
+    "industry": "Financial Technology (Fintech) & Infrastructure",
+    "sub_industry": " Blockchain & Cryptocurrency",
     "sector": null
+  },
+  {
+    "stock_code": "BKK",
+    "industry": "Chemicals",
+    "sub_industry": " Specialty Chemicals",
+    "sector": "Manufacturing"
   },
   {
     "stock_code": "C2PU",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "554",
-    "industry": null,
-    "sector": null
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Construction & Engineering",
+    "sector": "Construction"
   },
   {
     "stock_code": "HMN",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "5CR",
-    "industry": null,
-    "sector": null
+    "industry": "Industrial Goods",
+    "sub_industry": " Industrial Machinery & Equipment",
+    "sector": "Manufacturing"
   },
   {
     "stock_code": "EHG",
-    "industry": "Healthcare Services, Healthcare Facilities & Services",
+    "industry": "Healthcare Services",
+    "sub_industry": " Healthcare Facilities & Services",
     "sector": "Health and Social Services"
   },
   {
     "stock_code": "KUO",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "M04",
-    "industry": null,
-    "sector": null
+    "industry": "Cyclical Consumer Services",
+    "sub_industry": " Hotels",
+    "sector": "Accommodation and Food Service Activities"
   },
   {
     "stock_code": "R14",
-    "industry": "Energy - Fossil Fuels, Integrated Oil & Gas",
+    "industry": "Energy - Fossil Fuels",
+    "sub_industry": " Integrated Oil & Gas",
     "sector": "Transportation and Storage"
   },
   {
     "stock_code": "BWM",
-    "industry": null,
-    "sector": null
+    "industry": "Renewable Energy",
+    "sub_industry": " Renewable Energy Equipment & Services",
+    "sector": "Water Supply; Sewerage, Waste Management and Remediation Activities"
   },
   {
     "stock_code": "5G2",
-    "industry": "Energy - Fossil Fuels, Oil Related Services and Equipme",
+    "industry": "Energy - Fossil Fuels",
+    "sub_industry": " Oil Related Services and Equipme",
     "sector": "Mining and Quarrying"
   },
   {
     "stock_code": "F99",
-    "industry": "Food & Beverages, Food Processing",
+    "industry": "Food & Beverages",
+    "sub_industry": " Food Processing",
     "sector": "Manufacturing"
   },
   {
     "stock_code": "5GZ",
-    "industry": "Mineral Resources, Construction Materials",
+    "industry": "Mineral Resources",
+    "sub_industry": " Construction Materials",
     "sector": "Manufacturing"
   },
   {
     "stock_code": "BLZ",
-    "industry": null,
-    "sector": null
+    "industry": "Energy - Fossil Fuels",
+    "sub_industry": " Oil Related Services and Equipme",
+    "sector": "Professional, Scientific and Technical Activities"
   },
   {
     "stock_code": "K75",
-    "industry": "Industrial & Commercial Services, Construction & Engineering",
-    "sector": "Construction"
+    "industry": null,
+    "sub_industry": null,
+    "sector": null
   },
   {
     "stock_code": "5CP",
-    "industry": "Financial Technology (Fintech) & Infrastructure, Financial Technology (Fintech)",
+    "industry": "Financial Technology (Fintech) & Infrastructure",
+    "sub_industry": " Financial Technology (Fintech)",
     "sector": "Information and Communications"
   },
   {
     "stock_code": "E27",
-    "industry": "Cyclical Consumer Services, Advertising & Marketing",
+    "industry": "Cyclical Consumer Services",
+    "sub_industry": " Advertising & Marketing",
     "sector": "Financial and Insurance Activities"
   },
   {
     "stock_code": "I15",
-    "industry": null,
-    "sector": null
+    "industry": "Retailers",
+    "sub_industry": " Department Stores",
+    "sector": "Wholesale and Retail Trade"
   },
   {
     "stock_code": "B28",
-    "industry": "Cyclical Consumer Services, Hotels, Motels & Cruise Lines",
-    "sector": null
+    "industry": "Cyclical Consumer Services",
+    "sub_industry": " Hotels",
+    "sector": "Real Estate Activities"
   },
   {
     "stock_code": "BAZ",
-    "industry": null,
-    "sector": null
+    "industry": "Mineral Resources",
+    "sub_industry": " Construction Materials",
+    "sector": "Manufacturing"
   },
   {
     "stock_code": "O10",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "C07",
-    "industry": "Consumer Goods Conglomerates, Consumer Goods Conglomerates",
+    "industry": "Consumer Goods Conglomerates",
+    "sub_industry": " Consumer Goods Conglomerates",
     "sector": "Manufacturing"
   },
   {
     "stock_code": "AU8U",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "N0Z",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "5HT",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "569",
-    "industry": "Healthcare Services, Medical Equipment, Supplies & Distribution",
+    "industry": "Healthcare Services",
+    "sub_industry": " Medical Equipment",
     "sector": "Manufacturing"
   },
   {
     "stock_code": "ER0",
-    "industry": null,
-    "sector": null
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Construction & Engineering",
+    "sector": "Real Estate Activities"
   },
   {
     "stock_code": "1J5",
-    "industry": null,
-    "sector": null
+    "industry": "Pharmaceuticals & Medical Research",
+    "sub_industry": " Pharmaceuticals",
+    "sector": "Wholesale and Retail Trade"
   },
   {
     "stock_code": "LYY",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "5IF",
-    "industry": null,
-    "sector": null
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Construction & Engineering",
+    "sector": "Electricity, Gas, Steam and Air-Conditioning Supply"
   },
   {
     "stock_code": "VI2",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "A7RU",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "41F",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "G92",
-    "industry": null,
-    "sector": null
+    "industry": "Transportation",
+    "sub_industry": " Airport Services",
+    "sector": "Other Service Activities"
   },
   {
     "stock_code": "QZG",
-    "industry": "Technology Equipment, Computer Hardware",
+    "industry": "Technology Equipment",
+    "sub_industry": " Computer Hardware",
     "sector": "Wholesale and Retail Trade"
   },
   {
     "stock_code": "A50",
-    "industry": null,
-    "sector": null
+    "industry": "Healthcare Services",
+    "sub_industry": " Healthcare Facilities & Services",
+    "sector": "Health and Social Services"
   },
   {
     "stock_code": "I06",
-    "industry": null,
-    "sector": null
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Diversified Industrial Goods Wholesale",
+    "sector": "Wholesale and Retail Trade"
   },
   {
     "stock_code": "BFT",
-    "industry": null,
-    "sector": null
+    "industry": "Retailers",
+    "sub_industry": " Home Improvement Products & Services Retailers",
+    "sector": "Manufacturing"
   },
   {
     "stock_code": "5MD",
-    "industry": "Mineral Resources, Aluminum",
+    "industry": "Mineral Resources",
+    "sub_industry": " Aluminum",
     "sector": "Manufacturing"
   },
   {
     "stock_code": "M14",
-    "industry": "Technology Equipment, Office Equipment",
+    "industry": "Technology Equipment",
+    "sub_industry": " Office Equipment",
     "sector": "Manufacturing"
   },
   {
     "stock_code": "P9D",
-    "industry": null,
-    "sector": null
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Construction & Engineering",
+    "sector": "Manufacturing"
   },
   {
     "stock_code": "B69",
-    "industry": "Industrial Goods, Industrial Machinery & Equipment",
+    "industry": "Industrial Goods",
+    "sub_industry": " Industrial Machinery & Equipment",
     "sector": "Manufacturing"
   },
   {
     "stock_code": "BTM",
-    "industry": null,
-    "sector": null
+    "industry": "Transportation",
+    "sub_industry": " Passenger Transportation",
+    "sector": "Manufacturing"
   },
   {
     "stock_code": "DCRU",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "BQM",
-    "industry": null,
-    "sector": null
+    "industry": "Industrial Goods",
+    "sub_industry": " Heavy Machinery & Vehicles",
+    "sector": "Transportation and Storage"
   },
   {
     "stock_code": "5VJ",
-    "industry": "Automobiles & Auto Parts, Tires & Rubber Products",
+    "industry": "Automobiles & Auto Parts",
+    "sub_industry": " Tires & Rubber Products",
     "sector": "Manufacturing"
   },
   {
     "stock_code": "N08",
-    "industry": null,
-    "sector": null
+    "industry": "Applied Resources",
+    "sub_industry": " Paper Packaging",
+    "sector": "Administrative and Support Service Activities"
   },
   {
     "stock_code": "P8Z",
-    "industry": "Food & Beverages, Food Processing",
+    "industry": "Food & Beverages",
+    "sub_industry": " Food Processing",
     "sector": "Agriculture and Fishing"
   },
   {
     "stock_code": "1F3",
-    "industry": "Real Estate, Real Estate Development & Operations",
-    "sector": "Real Estate Activities"
+    "industry": "Real Estate",
+    "sub_industry": " Real Estate Development & Operations",
+    "sector": null
   },
   {
     "stock_code": "BCV",
-    "industry": "Food & Beverages, Fishing & Farming",
-    "sector": "Agriculture and Fishing"
+    "industry": null,
+    "sub_industry": null,
+    "sector": null
   },
   {
     "stock_code": "T13",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "5QR",
-    "industry": null,
-    "sector": null
+    "industry": "Industrial Goods",
+    "sub_industry": " Industrial Machinery & Equipment",
+    "sector": "Manufacturing"
   },
   {
     "stock_code": "AZR",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "LVR",
-    "industry": "Software & IT Services, Internet Services",
-    "sector": "Financial and Insurance Activities"
+    "industry": null,
+    "sub_industry": null,
+    "sector": null
   },
   {
     "stock_code": "BHU",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "BTJ",
-    "industry": "Transportation, Air Freight & Logistics",
-    "sector": "Wholesale and Retail Trade"
+    "industry": null,
+    "sub_industry": null,
+    "sector": null
   },
   {
     "stock_code": "UD1U",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "V3M",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "583",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "5DS",
-    "industry": "Chemicals, Diversified Chemicals",
+    "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "1H2",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "TQ5",
-    "industry": null,
-    "sector": null
+    "industry": "Real Estate",
+    "sub_industry": " Real Estate Development & Operations",
+    "sector": "Real Estate Activities"
   },
   {
     "stock_code": "BTG",
-    "industry": "Mineral Resources, Iron & Steel",
+    "industry": "Mineral Resources",
+    "sub_industry": " Iron & Steel",
     "sector": "Wholesale and Retail Trade"
   },
   {
     "stock_code": "AWZ",
-    "industry": "Technology Equipment, Computer Hardware",
+    "industry": "Technology Equipment",
+    "sub_industry": " Computer Hardware",
     "sector": "Information and Communications"
   },
   {
     "stock_code": "1A4",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "M05",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "T24",
-    "industry": "Real Estate, Real Estate Development & Operations",
-    "sector": "Real Estate Activities"
+    "industry": null,
+    "sub_industry": null,
+    "sector": null
   },
   {
     "stock_code": "H13",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "Y35",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "40E",
-    "industry": "Cyclical Consumer Services, Entertainment Production",
-    "sector": "Financial and Insurance Activities"
+    "industry": null,
+    "sub_industry": null,
+    "sector": null
   },
   {
     "stock_code": "MZH",
-    "industry": "Chemicals, Specialty Chemicals",
+    "industry": "Chemicals",
+    "sub_industry": " Specialty Chemicals",
     "sector": "Manufacturing"
   },
   {
     "stock_code": "CHJ",
-    "industry": "Industrial & Commercial Services, Business Support Services",
-    "sector": "Financial and Insurance Activities"
+    "industry": null,
+    "sub_industry": null,
+    "sector": null
   },
   {
     "stock_code": "N01",
-    "industry": "Technology Equipment, Communications & Networking",
+    "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "C33",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "FRQ",
-    "industry": "Healthcare Services, Healthcare Facilities & Services",
-    "sector": "Health and Social Services"
+    "industry": null,
+    "sub_industry": null,
+    "sector": null
   },
   {
     "stock_code": "BLH",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "5EF",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "1D1",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "5UF",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "532",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "EMI",
-    "industry": "Food & Beverages, Distillers & Wineries",
-    "sector": "Manufacturing"
+    "industry": null,
+    "sub_industry": null,
+    "sector": null
   },
   {
     "stock_code": "NHD",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "B58",
-    "industry": "Cyclical Consumer Services, Hotels, Motels & Cruise Lines",
-    "sector": "Accommodation and Food Service Activities"
+    "industry": null,
+    "sub_industry": null,
+    "sector": null
   },
   {
     "stock_code": "5WA",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "N32",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "O9E",
-    "industry": "Retailers, Department Stores",
-    "sector": "Financial and Insurance Activities"
+    "industry": null,
+    "sub_industry": null,
+    "sector": null
   },
   {
     "stock_code": "EB7",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "5G9",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "5FW",
-    "industry": "Industrial & Commercial Services, Environmental Services & Equipment",
-    "sector": "Construction"
-  },
-  {
-    "stock_code": "Z4D",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
+    "stock_code": "Z4D",
+    "industry": "Healthcare Services",
+    "sub_industry": " Healthcare Facilities & Services",
+    "sector": "Health and Social Services"
+  },
+  {
     "stock_code": "RE4",
-    "industry": "Energy - Fossil Fuels, Coal",
-    "sector": "Mining and Quarrying"
+    "industry": null,
+    "sub_industry": null,
+    "sector": null
   },
   {
     "stock_code": "5BI",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "42L",
-    "industry": "Retailers, Apparel & Accessories Retailers",
-    "sector": "Wholesale and Retail Trade"
+    "industry": null,
+    "sub_industry": null,
+    "sector": null
   },
   {
     "stock_code": "5IE",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "URR",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "T12",
-    "industry": "Applied Resources, Paper Packaging",
-    "sector": "Manufacturing"
+    "industry": null,
+    "sub_industry": null,
+    "sector": null
   },
   {
     "stock_code": "5UA",
     "industry": null,
+    "sub_industry": null,
     "sector": null
   }
 ]

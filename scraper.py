@@ -4,6 +4,7 @@ import json
 import logging
 import requests
 import os
+import time
 
 # Set the logging level for the 'websockets' logger
 logging.getLogger('websockets').setLevel(logging.WARNING)
@@ -36,7 +37,7 @@ def read_page(url: str) -> BeautifulSoup | None:
   try:
     session = HTMLSession()
     response = session.get(url)
-    response.html.render(sleep=2, timeout=10)
+    response.html.render(sleep=6, timeout=20)
 
     soup = BeautifulSoup(response.html.html, "html.parser")
     return soup
@@ -52,6 +53,7 @@ def scrap_stock_page(symbol: str) -> dict | None:
   soup = read_page(url)
 
   industry = None
+  sub_industry = None
   sector = None
 
   if (soup is not None):
@@ -60,6 +62,9 @@ def scrap_stock_page(symbol: str) -> dict | None:
       industry = soup.find("span", {"class": "widget-security-details-general-industry"}).get_text()
       if (industry is not None and len(industry) > 0): # Handling empty string or not found
         industry = industry.replace("Industry: ", "")
+        industries = industry.split(",")
+        industry = industries[0]
+        sub_industry = industries[1]
       else:
         industry = None
     except:
@@ -77,12 +82,20 @@ def scrap_stock_page(symbol: str) -> dict | None:
       print(f"Failed to get Sector data from {url}")
       sector = None
 
+    if (industry is not None and sub_industry is not None and sector is not None):
+      print(f"Successfully scrap from {symbol} stock page")
+    else:
+      if (industry is None or sub_industry is None):
+        print(f"Detected None type for Industry or SubIndustry variable from {symbol} stock page")
+      if (sector is None):
+        print(f"Detected None type for Sector variable from {symbol} stock page")
+    
     stock_data = dict()
     stock_data['stock_code'] = symbol
     stock_data['industry'] = industry
+    stock_data['sub_industry'] = sub_industry
     stock_data['sector'] = sector
 
-    print(f"Successfully scrap from {symbol} stock page")
     return stock_data
   else:
     print(f"None type of BeautifulSoup")
@@ -107,6 +120,7 @@ def scrap_function(symbol_list, process_idx):
       print(f"CHECKPOINT || P{process_idx} {i} Data")
     
     count += 1
+    time.sleep(0.2)
   
   # Save last
   filename = f"P{process_idx}_data.json"
