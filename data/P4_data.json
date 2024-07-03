@@ -1,950 +1,1038 @@
 [
   {
-    "stock_code": "H15",
-    "industry": "Cyclical Consumer Services",
-    "sub_industry": " Hotels",
-    "sector": "Accommodation and Food Service Activities"
-  },
-  {
-    "stock_code": "P40U",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "1D4",
-    "industry": "Healthcare Services",
-    "sub_industry": " Healthcare Facilities & Services",
-    "sector": "Health and Social Services"
-  },
-  {
-    "stock_code": "5SR",
-    "industry": "Retailers",
-    "sub_industry": " Department Stores",
-    "sector": "Real Estate Activities"
-  },
-  {
-    "stock_code": "1F0",
-    "industry": "Cyclical Consumer Services",
-    "sub_industry": " Advertising & Marketing",
-    "sector": "Professional, Scientific and Technical Activities"
-  },
-  {
-    "stock_code": "BEI",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "NR7",
-    "industry": "Academic & Educational Services",
-    "sub_industry": " Professional & Business Education",
-    "sector": "Education"
-  },
-  {
-    "stock_code": "S20",
-    "industry": "Mineral Resources",
-    "sub_industry": " Specialty Mining & Metals",
-    "sector": "Real Estate Activities"
-  },
-  {
-    "stock_code": "YYN",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "BFK",
-    "industry": "Pharmaceuticals & Medical Research",
-    "sub_industry": " Pharmaceuticals",
-    "sector": "Manufacturing"
-  },
-  {
-    "stock_code": "C6L",
-    "industry": "Transportation",
-    "sub_industry": " Airlines",
-    "sector": "Transportation and Storage"
-  },
-  {
-    "stock_code": "SES",
-    "industry": "Industrial & Commercial Services",
-    "sub_industry": " Environmental Services & Equipment",
-    "sector": "Manufacturing"
-  },
-  {
-    "stock_code": "HQU",
-    "industry": "Food & Beverages",
-    "sub_industry": " Food Processing",
-    "sector": "Manufacturing"
-  },
-  {
-    "stock_code": "F83",
-    "industry": "Transportation",
-    "sub_industry": " Marine Freight & Logistics",
-    "sector": "Transportation and Storage"
-  },
-  {
-    "stock_code": "1130",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "5E2",
-    "industry": "Industrial Goods",
-    "sub_industry": " Shipbuilding",
-    "sector": "Manufacturing"
-  },
-  {
-    "stock_code": "BHD",
-    "industry": "Real Estate",
-    "sub_industry": " Real Estate Development & Operations",
-    "sector": "Real Estate Activities"
-  },
-  {
-    "stock_code": "AWG",
-    "industry": "Mineral Resources",
-    "sub_industry": " Aluminum",
-    "sector": "Manufacturing"
-  },
-  {
-    "stock_code": "L02",
-    "industry": "Utilities",
-    "sub_industry": " Electric Utilities",
-    "sector": "Administrative and Support Service Activities"
-  },
-  {
-    "stock_code": "5TI",
-    "industry": "Retailers",
-    "sub_industry": " Home Furnishings Retailers",
-    "sector": "Wholesale and Retail Trade"
-  },
-  {
-    "stock_code": "BGO",
-    "industry": "Energy - Fossil Fuels",
-    "sub_industry": " Oil Related Services and Equipme",
-    "sector": "Mining and Quarrying"
-  },
-  {
-    "stock_code": "NO4",
-    "industry": "Energy - Fossil Fuels",
-    "sub_industry": " Oil Related Services and Equipme",
-    "sector": "Manufacturing"
-  },
-  {
-    "stock_code": "S71",
-    "industry": "Technology Equipment",
-    "sub_industry": " Semiconductor Equipment & Testing",
-    "sector": null
-  },
-  {
-    "stock_code": "500",
-    "industry": "Industrial Goods",
-    "sub_industry": " Electrical Components & Equipment",
-    "sector": "Manufacturing"
-  },
-  {
-    "stock_code": "5PO",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "BN4",
-    "industry": "Consumer Goods Conglomerates",
-    "sub_industry": " Consumer Goods Conglomerates",
-    "sector": "Manufacturing"
-  },
-  {
-    "stock_code": "5DP",
-    "industry": "Real Estate",
-    "sub_industry": " Real Estate Development & Operations",
-    "sector": "Real Estate Activities"
-  },
-  {
-    "stock_code": "Y3D",
-    "industry": "Retailers",
-    "sub_industry": " Computer & Electronics Retailers",
-    "sector": "Information and Communications"
-  },
-  {
-    "stock_code": "5I4",
-    "industry": "Cyclical Consumer Services",
-    "sub_industry": " Hotels",
-    "sector": "Transportation and Storage"
-  },
-  {
-    "stock_code": "594",
-    "industry": "Energy - Fossil Fuels",
-    "sub_industry": " Integrated Oil & Gas",
-    "sector": "Mining and Quarrying"
-  },
-  {
-    "stock_code": "H20",
-    "industry": "Industrial Goods",
-    "sub_industry": " Industrial Machinery & Equipment",
-    "sector": "Wholesale and Retail Trade"
-  },
-  {
-    "stock_code": "5UN",
-    "industry": "Energy - Fossil Fuels",
-    "sub_industry": " Coal",
-    "sector": "Mining and Quarrying"
-  },
-  {
-    "stock_code": "41O",
-    "industry": "Real Estate",
-    "sub_industry": " Real Estate Development & Operations",
-    "sector": null
-  },
-  {
-    "stock_code": "BLTA",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "5DD",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "QES",
-    "industry": "Chemicals",
-    "sub_industry": " Specialty Chemicals",
-    "sector": "Manufacturing"
-  },
-  {
-    "stock_code": "Q01",
-    "industry": "Food & Beverages",
-    "sub_industry": " Food Processing",
-    "sector": "Manufacturing"
-  },
-  {
-    "stock_code": "BLU",
-    "industry": "Automobiles & Auto Parts",
-    "sub_industry": " Tires & Rubber Products",
-    "sector": "Financial and Insurance Activities"
-  },
-  {
-    "stock_code": "B26",
-    "industry": "Technology Equipment",
-    "sub_industry": " Computer Hardware",
-    "sector": "Wholesale and Retail Trade"
-  },
-  {
-    "stock_code": "LONN",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "PH0",
-    "industry": "Real Estate",
-    "sub_industry": " Real Estate Development & Operations",
-    "sector": null
-  },
-  {
-    "stock_code": "F34",
-    "industry": "Food & Beverages",
-    "sub_industry": " Food Processing",
-    "sector": "Manufacturing"
-  },
-  {
-    "stock_code": "G0I",
-    "industry": "Cyclical Consumer Products",
-    "sub_industry": " Construction Supplies & Fixtures",
-    "sector": "Manufacturing"
-  },
-  {
-    "stock_code": "K03",
-    "industry": "Food & Beverages",
-    "sub_industry": " Food Processing",
-    "sector": "Wholesale and Retail Trade"
-  },
-  {
-    "stock_code": "BPF",
-    "industry": "Automobiles & Auto Parts",
-    "sub_industry": " Auto",
-    "sector": "Manufacturing"
-  },
-  {
-    "stock_code": "M15",
-    "industry": "Chemicals",
-    "sub_industry": " Specialty Chemicals",
-    "sector": "Wholesale and Retail Trade"
-  },
-  {
-    "stock_code": "B0Z",
-    "industry": "Food & Beverages",
-    "sub_industry": " Fishing & Farming",
-    "sector": "Agriculture and Fishing"
-  },
-  {
-    "stock_code": "42T",
-    "industry": "Banking & Investment Services",
-    "sub_industry": " Investment Management & Fund Operators",
-    "sector": "Professional, Scientific and Technical Activities"
-  },
-  {
-    "stock_code": "69",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "RXS",
-    "industry": "Energy - Fossil Fuels",
-    "sub_industry": " Oil & Gas Transportation Servic",
-    "sector": "Mining and Quarrying"
-  },
-  {
-    "stock_code": "5TJ",
-    "industry": "Industrial Goods",
-    "sub_industry": " Electrical Components & Equipment",
-    "sector": "Manufacturing"
-  },
-  {
-    "stock_code": "YYB",
-    "industry": "Industrial & Commercial Services",
-    "sub_industry": " Employment Services",
-    "sector": null
-  },
-  {
-    "stock_code": "1R6",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "1A0",
-    "industry": "Cyclical Consumer Services",
-    "sub_industry": " Restaurants & Bars",
-    "sector": "Accommodation and Food Service Activities"
-  },
-  {
-    "stock_code": "BSL",
-    "industry": "Healthcare Services",
-    "sub_industry": " Healthcare Facilities & Services",
-    "sector": "Health and Social Services"
-  },
-  {
-    "stock_code": "NXR",
-    "industry": "Technology Equipment",
-    "sub_industry": " Integrated Hardware & Software",
-    "sector": "Information and Communications"
-  },
-  {
-    "stock_code": "UD2",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "MSC",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "5OR",
-    "industry": "Industrial Goods",
-    "sub_industry": " Electrical Components & Equipment",
-    "sector": "Manufacturing"
-  },
-  {
-    "stock_code": "AVJ",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "ADN",
-    "industry": "Real Estate",
-    "sub_industry": " Real Estate Development & Operations",
-    "sector": "Real Estate Activities"
-  },
-  {
-    "stock_code": "I11",
-    "industry": "Utilities",
-    "sub_industry": " Natural Gas Utilities",
-    "sector": "Financial and Insurance Activities"
-  },
-  {
-    "stock_code": "5DO",
-    "industry": "Cyclical Consumer Services",
-    "sub_industry": " Restaurants & Bars",
-    "sector": "Accommodation and Food Service Activities"
-  },
-  {
-    "stock_code": "BIP",
-    "industry": "Transportation",
-    "sub_industry": " Air Freight & Logistics",
-    "sector": null
-  },
-  {
-    "stock_code": "5EB",
-    "industry": "Industrial Goods",
-    "sub_industry": " Industrial Machinery & Equipment",
-    "sector": "Manufacturing"
-  },
-  {
-    "stock_code": "C06",
-    "industry": "Industrial & Commercial Services",
-    "sub_industry": " Construction & Engineering",
-    "sector": "Construction"
-  },
-  {
-    "stock_code": "CGN",
-    "industry": "Personal & Household Products & Services",
-    "sub_industry": " Personal Products",
-    "sector": "Wholesale and Retail Trade"
-  },
-  {
-    "stock_code": "E3B",
-    "industry": "Industrial & Commercial Services",
-    "sub_industry": " Construction & Engineering",
-    "sector": "Construction"
-  },
-  {
-    "stock_code": "1145",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "43Q",
-    "industry": "Industrial & Commercial Services",
-    "sub_industry": " Employment Services",
-    "sector": "Administrative and Support Service Activities"
-  },
-  {
-    "stock_code": "S35",
-    "industry": "Banking & Investment Services",
-    "sub_industry": " Banks",
-    "sector": "Financial and Insurance Activities"
-  },
-  {
-    "stock_code": "S85",
-    "industry": "Cyclical Consumer Services",
-    "sub_industry": " Leisure & Recreation",
-    "sector": "Arts, Entertainment & Recreation"
-  },
-  {
-    "stock_code": "BRS",
-    "industry": "Cyclical Consumer Products",
-    "sub_industry": " Recreational Products",
-    "sector": "Wholesale and Retail Trade"
-  },
-  {
-    "stock_code": "579",
-    "industry": "Food & Drug Retailing",
-    "sub_industry": " Food Retail & Distribution",
-    "sector": "Agriculture and Fishing"
-  },
-  {
-    "stock_code": "5ML",
-    "industry": "Cyclical Consumer Services",
-    "sub_industry": " Restaurants & Bars",
-    "sector": "Accommodation and Food Service Activities"
-  },
-  {
-    "stock_code": "CRPU",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "AVX",
-    "industry": "Cyclical Consumer Services",
-    "sub_industry": " Hotels",
-    "sector": "Accommodation and Food Service Activities"
-  },
-  {
-    "stock_code": "5NF",
-    "industry": "Industrial Goods",
-    "sub_industry": " Shipbuilding",
-    "sector": "Manufacturing"
-  },
-  {
-    "stock_code": "XCF",
-    "industry": "Cyclical Consumer Products",
-    "sub_industry": " Apparel & Accessories",
-    "sector": "Manufacturing"
-  },
-  {
-    "stock_code": "BFI",
-    "industry": "Industrial & Commercial Services",
-    "sub_industry": " Construction & Engineering",
-    "sector": "Construction"
-  },
-  {
-    "stock_code": "LJ3",
-    "industry": "Real Estate",
-    "sub_industry": " Real Estate Development & Operations",
-    "sector": "Accommodation and Food Service Activities"
-  },
-  {
-    "stock_code": "AZA",
-    "industry": "Cyclical Consumer Services",
-    "sub_industry": " Hotels",
-    "sector": "Real Estate Activities"
-  },
-  {
-    "stock_code": "CJLU",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "5WG",
-    "industry": "Cyclical Consumer Products",
-    "sub_industry": " Appliances",
-    "sector": "Manufacturing"
-  },
-  {
-    "stock_code": "BTY",
-    "industry": "Chemicals",
-    "sub_industry": " Commodity Chemicals",
-    "sector": "Manufacturing"
-  },
-  {
-    "stock_code": "42S",
-    "industry": "Real Estate",
-    "sub_industry": " Real Estate Development & Operations",
-    "sector": "Real Estate Activities"
-  },
-  {
-    "stock_code": "LS9",
-    "industry": "Industrial & Commercial Services",
-    "sub_industry": " Environmental Services & Equipment",
-    "sector": "Professional, Scientific and Technical Activities"
-  },
-  {
-    "stock_code": "AGS",
-    "industry": "Retailers",
-    "sub_industry": " Apparel & Accessories Retailers",
-    "sector": "Wholesale and Retail Trade"
-  },
-  {
-    "stock_code": "1L2",
-    "industry": "Industrial & Commercial Services",
-    "sub_industry": " Construction & Engineering",
-    "sector": "Financial and Insurance Activities"
-  },
-  {
-    "stock_code": "40N",
-    "industry": "Industrial & Commercial Services",
-    "sub_industry": " Business Support Supplies",
-    "sector": "Manufacturing"
-  },
-  {
-    "stock_code": "D05",
-    "industry": "Banking & Investment Services",
-    "sub_industry": " Banks",
-    "sector": "Financial and Insurance Activities"
-  },
-  {
-    "stock_code": "600",
-    "industry": "Utilities",
-    "sub_industry": " Water Utilities",
-    "sector": "Financial and Insurance Activities"
-  },
-  {
-    "stock_code": "1V3",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
     "stock_code": "TCU",
+    "name": "CreditBureauAsia",
     "industry": "Industrial & Commercial Services",
     "sub_industry": " Professional Information Services",
     "sector": "Administrative and Support Service Activities"
   },
   {
-    "stock_code": "BTE",
+    "stock_code": "XVG",
+    "name": "Aedge Group",
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Construction & Engineering",
+    "sector": "Financial and Insurance Activities"
+  },
+  {
+    "stock_code": "A04",
+    "name": "ASL Marine",
+    "industry": "Industrial Goods",
+    "sub_industry": " Shipbuilding",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "42D",
+    "name": "NauticAWT",
+    "industry": "Cyclical Consumer Services",
+    "sub_industry": " Restaurants & Bars",
+    "sector": "Wholesale and Retail Trade"
+  },
+  {
+    "stock_code": "XJB",
+    "name": "GHY Culture",
+    "industry": "Cyclical Consumer Services",
+    "sub_industry": " Entertainment Production",
+    "sector": "Information and Communications"
+  },
+  {
+    "stock_code": "42S",
+    "name": "Astaka",
     "industry": "Real Estate",
     "sub_industry": " Real Estate Development & Operations",
     "sector": "Real Estate Activities"
   },
   {
-    "stock_code": "5FL",
-    "industry": "Energy - Fossil Fuels",
-    "sub_industry": " Oil Related Services and Equipme",
-    "sector": null
-  },
-  {
-    "stock_code": "Y8E",
-    "industry": "Chemicals",
-    "sub_industry": " Commodity Chemicals",
-    "sector": "Financial and Insurance Activities"
-  },
-  {
-    "stock_code": "P15",
-    "industry": "Holding Companies",
-    "sub_industry": " Investment Holding Companies",
-    "sector": "Financial and Insurance Activities"
-  },
-  {
-    "stock_code": "5OQ",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "5SY",
-    "industry": "Real Estate",
-    "sub_industry": " Real Estate Services",
-    "sector": "Financial and Insurance Activities"
-  },
-  {
-    "stock_code": "S59",
-    "industry": "Transportation",
-    "sub_industry": " Airport Services",
-    "sector": null
-  },
-  {
-    "stock_code": "SGR",
-    "industry": "Industrial & Commercial Services",
-    "sub_industry": " Employment Services",
-    "sector": "Administrative and Support Service Activities"
-  },
-  {
-    "stock_code": "TOPGLOV",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "42R",
-    "industry": "Cyclical Consumer Services",
-    "sub_industry": " Restaurants & Bars",
-    "sector": "Accommodation and Food Service Activities"
-  },
-  {
-    "stock_code": "1298",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "S56",
-    "industry": "Transportation",
-    "sub_industry": " Marine Freight & Logistics",
-    "sector": "Transportation and Storage"
-  },
-  {
-    "stock_code": "5AL",
-    "industry": "Energy - Fossil Fuels",
-    "sub_industry": " Oil Related Services and Equipme",
-    "sector": "Manufacturing"
-  },
-  {
-    "stock_code": "8AZ",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "E9L",
-    "industry": "Banking & Investment Services",
-    "sub_industry": " Corporate Financial Services",
+    "stock_code": "I15",
+    "name": "Isetan",
+    "industry": "Retailers",
+    "sub_industry": " Department Stores",
     "sector": "Wholesale and Retail Trade"
-  },
-  {
-    "stock_code": "U11",
-    "industry": "Banking & Investment Services",
-    "sub_industry": " Banks",
-    "sector": "Financial and Insurance Activities"
-  },
-  {
-    "stock_code": "AWV",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "Q5T",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "NPL",
-    "industry": "Personal & Household Products & Services",
-    "sub_industry": " Personal Services",
-    "sector": "Health and Social Services"
-  },
-  {
-    "stock_code": "XHV",
-    "industry": "Holding Companies",
-    "sub_industry": " Investment Holding Companies",
-    "sector": "Professional, Scientific and Technical Activities"
-  },
-  {
-    "stock_code": "RDR",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "C05",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "JYEU",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "D03",
-    "industry": "Food & Beverages",
-    "sub_industry": " Food Processing",
-    "sector": "Wholesale and Retail Trade"
-  },
-  {
-    "stock_code": "41H",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "5344",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "D8DU",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "STA",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "BJD",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "BKA",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "42F",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "5AI",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "5IC",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "C9Q",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "9CI",
-    "industry": "Real Estate",
-    "sub_industry": " Real Estate Services",
-    "sector": "Financial and Insurance Activities"
-  },
-  {
-    "stock_code": "GU5",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "5RE",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "AWX",
-    "industry": "Technology Equipment",
-    "sub_industry": " Semiconductors",
-    "sector": "Manufacturing"
   },
   {
     "stock_code": "505",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
+    "name": "AsiaMedic",
+    "industry": "Healthcare Services",
+    "sub_industry": " Healthcare Facilities & Services",
+    "sector": "Health and Social Services"
   },
   {
-    "stock_code": "AJBU",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
+    "stock_code": "A50",
+    "name": "Thomson Medical",
+    "industry": "Healthcare Services",
+    "sub_industry": " Healthcare Facilities & Services",
+    "sector": "Health and Social Services"
+  },
+  {
+    "stock_code": "49B",
+    "name": "AMOS Group",
+    "industry": "Industrial Goods",
+    "sub_industry": " Industrial Machinery & Equipment",
+    "sector": "Professional, Scientific and Technical Activities"
+  },
+  {
+    "stock_code": "J36",
+    "name": "JMH USD",
+    "industry": "Consumer Goods Conglomerates",
+    "sub_industry": " Consumer Goods Conglomerates",
+    "sector": "Professional, Scientific and Technical Activities"
+  },
+  {
+    "stock_code": "K29",
+    "name": "Karin Tech",
+    "industry": "Technology Equipment",
+    "sub_industry": " Computer Hardware",
+    "sector": "Information and Communications"
+  },
+  {
+    "stock_code": "A78",
+    "name": "Shen Yao",
+    "industry": "Mineral Resources",
+    "sub_industry": " Gold",
+    "sector": "Mining and Quarrying"
+  },
+  {
+    "stock_code": "8AZ",
+    "name": "Aztech Gbl",
+    "industry": "Technology Equipment",
+    "sub_industry": " Electronic Equipment & Parts",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "AOF",
+    "name": "Amplefield Ltd",
+    "industry": "Real Estate",
+    "sub_industry": " Real Estate Development & Operations",
+    "sector": "Professional, Scientific and Technical Activities"
+  },
+  {
+    "stock_code": "504",
+    "name": "HS Optimus",
+    "industry": "Cyclical Consumer Products",
+    "sub_industry": " Home Furnishings",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "EHG",
+    "name": "Econ Healthcare",
+    "industry": "Healthcare Services",
+    "sub_industry": " Healthcare Facilities & Services",
+    "sector": "Health and Social Services"
+  },
+  {
+    "stock_code": "M05",
+    "name": "MTQ",
+    "industry": "Energy - Fossil Fuels",
+    "sub_industry": " Oil Related Services and Equipme",
+    "sector": "Financial and Insurance Activities"
+  },
+  {
+    "stock_code": "AP4",
+    "name": "Riverstone",
+    "industry": "Healthcare Services",
+    "sub_industry": " Medical Equipment",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "541",
+    "name": "Abundance Intl",
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Commercial Printing Services",
+    "sector": "Wholesale and Retail Trade"
+  },
+  {
+    "stock_code": "532",
+    "name": "DISA",
+    "industry": "Software & IT Services",
+    "sub_industry": " Software",
+    "sector": "Professional, Scientific and Technical Activities"
+  },
+  {
+    "stock_code": "AWC",
+    "name": "Brook Crompton",
+    "industry": "Industrial Goods",
+    "sub_industry": " Electrical Components & Equipment",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "O08",
+    "name": "Ossia Intl",
+    "industry": "Retailers",
+    "sub_industry": " Apparel & Accessories Retailers",
+    "sector": "Wholesale and Retail Trade"
   },
   {
     "stock_code": "566",
+    "name": "SHS",
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Construction & Engineering",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "AWI",
+    "name": "Thakral",
+    "industry": "Real Estate",
+    "sub_industry": " Real Estate Development & Operations",
+    "sector": "Wholesale and Retail Trade"
+  },
+  {
+    "stock_code": "AXB",
+    "name": "Yongnam",
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Construction & Engineering",
+    "sector": "Construction"
+  },
+  {
+    "stock_code": "P15",
+    "name": "Pacific Century",
+    "industry": "Holding Companies",
+    "sub_industry": " Investment Holding Companies",
+    "sector": "Financial and Insurance Activities"
+  },
+  {
+    "stock_code": "N0Z",
+    "name": "Combine Will",
+    "industry": "Personal & Household Products & Services",
+    "sub_industry": " Personal Products",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "1H2",
+    "name": "Olive Tree",
+    "industry": "Real Estate",
+    "sub_industry": " Real Estate Development & Operations",
+    "sector": "Real Estate Activities"
+  },
+  {
+    "stock_code": "P8Z",
+    "name": "Bumitama Agri",
+    "industry": "Food & Beverages",
+    "sub_industry": " Food Processing",
+    "sector": "Agriculture and Fishing"
+  },
+  {
+    "stock_code": "579",
+    "name": "Oceanus",
+    "industry": "Food & Drug Retailing",
+    "sub_industry": " Food Retail & Distribution",
+    "sector": "Agriculture and Fishing"
+  },
+  {
+    "stock_code": "575",
+    "name": "ASTI",
+    "industry": "Technology Equipment",
+    "sub_industry": " Semiconductor Equipment & Testing",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "B69",
+    "name": "Broadway Ind",
+    "industry": "Industrial Goods",
+    "sub_industry": " Industrial Machinery & Equipment",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "5QR",
+    "name": "MSM Intl",
+    "industry": "Industrial Goods",
+    "sub_industry": " Industrial Machinery & Equipment",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "595",
+    "name": "GKE",
+    "industry": "Transportation",
+    "sub_industry": " Air Freight & Logistics",
+    "sector": "Transportation and Storage"
+  },
+  {
+    "stock_code": "BAZ",
+    "name": "Lion Asiapac",
+    "industry": "Mineral Resources",
+    "sub_industry": " Construction Materials",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "BEC",
+    "name": "BRC Asia",
+    "industry": "Cyclical Consumer Products",
+    "sub_industry": " Construction Supplies & Fixtures",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "BCD",
+    "name": "China Yuanbang",
+    "industry": "Real Estate",
+    "sub_industry": " Real Estate Development & Operations",
+    "sector": "Real Estate Activities"
+  },
+  {
+    "stock_code": "STG",
+    "name": "Sri Trang Gloves",
+    "industry": "Healthcare Services",
+    "sub_industry": " Medical Equipment",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "581",
+    "name": "Sunrise Shares",
+    "industry": "Real Estate",
+    "sub_industry": " Real Estate Services",
+    "sector": "Wholesale and Retail Trade"
+  },
+  {
+    "stock_code": "BCV",
+    "name": "Qian Hu",
+    "industry": "Food & Beverages",
+    "sub_industry": " Fishing & Farming",
+    "sector": "Agriculture and Fishing"
+  },
+  {
+    "stock_code": "S68",
+    "name": "SGX",
+    "industry": "Banking & Investment Services",
+    "sub_industry": " Financial & Commodity Market Operators",
+    "sector": "Financial and Insurance Activities"
+  },
+  {
+    "stock_code": "5AL",
+    "name": "Annica",
+    "industry": "Energy - Fossil Fuels",
+    "sub_industry": " Oil Related Services and Equipme",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "5AU",
+    "name": "AP Oil",
+    "industry": "Chemicals",
+    "sub_industry": " Specialty Chemicals",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "S69",
+    "name": "Serial System",
+    "industry": "Industrial Goods",
+    "sub_industry": " Electrical Components & Equipment",
+    "sector": "Wholesale and Retail Trade"
+  },
+  {
+    "stock_code": "5EF",
+    "name": "Adventus",
+    "industry": "Real Estate",
+    "sub_industry": " Real Estate Development & Operations",
+    "sector": "Administrative and Support Service Activities"
+  },
+  {
+    "stock_code": "T12",
+    "name": "Tat Seng Pkg",
+    "industry": "Applied Resources",
+    "sub_industry": " Paper Packaging",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "5DM",
+    "name": "Ying Li Intl",
+    "industry": "Real Estate",
+    "sub_industry": " Real Estate Development & Operations",
+    "sector": "Real Estate Activities"
+  },
+  {
+    "stock_code": "U09",
+    "name": "Avarga",
+    "industry": "Cyclical Consumer Products",
+    "sub_industry": " Construction Supplies & Fixtures",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "T82U",
+    "name": "",
     "industry": null,
     "sub_industry": null,
     "sector": null
   },
   {
     "stock_code": "OTS",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
+    "name": "OTS Holdings",
+    "industry": "Food & Beverages",
+    "sub_industry": " Food Processing",
+    "sector": "Manufacturing"
   },
   {
-    "stock_code": "MF6",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
+    "stock_code": "1AZ",
+    "name": "Audience",
+    "industry": "Cyclical Consumer Services",
+    "sub_industry": " Consumer Publishing",
+    "sector": "Information and Communications"
   },
   {
-    "stock_code": "1Y1",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
+    "stock_code": "UD2",
+    "name": "Japfa",
+    "industry": "Food & Beverages",
+    "sub_industry": " Food Processing",
+    "sector": "Agriculture and Fishing"
   },
   {
-    "stock_code": "5WV",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "5VP",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "U9E",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "8YY",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "QS9",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "5MZ",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "595",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "CMOU",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "BKV",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "533",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "BCZ",
-    "industry": "Retailers",
-    "sub_industry": " Apparel & Accessories Retailers",
-    "sector": "Wholesale and Retail Trade"
-  },
-  {
-    "stock_code": "BQC",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "BDA",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "CTO",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "ACV",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "OAJ",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "5RA",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "5G3",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
-  },
-  {
-    "stock_code": "834",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
+    "stock_code": "5DO",
+    "name": "Sakae",
+    "industry": "Cyclical Consumer Services",
+    "sub_industry": " Restaurants & Bars",
+    "sector": "Accommodation and Food Service Activities"
   },
   {
     "stock_code": "Y06",
+    "name": "Green Build",
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Construction & Engineering",
+    "sector": "Professional, Scientific and Technical Activities"
+  },
+  {
+    "stock_code": "WVJ",
+    "name": "Ntegrator Hldg",
+    "industry": "Retailers",
+    "sub_industry": " Apparel & Accessories Retailers",
+    "sector": "Information and Communications"
+  },
+  {
+    "stock_code": "9CI",
+    "name": "CapitaLandInvest",
+    "industry": "Real Estate",
+    "sub_industry": " Real Estate Services",
+    "sector": "Financial and Insurance Activities"
+  },
+  {
+    "stock_code": "VI2",
+    "name": "TC Auto",
+    "industry": "Automobiles & Auto Parts",
+    "sub_industry": " Auto & Truck Manufacturers",
+    "sector": "Wholesale and Retail Trade"
+  },
+  {
+    "stock_code": "WPC",
+    "name": "Vallianz",
+    "industry": "Transportation",
+    "sub_industry": " Marine Freight & Logistics",
+    "sector": "Financial and Insurance Activities"
+  },
+  {
+    "stock_code": "DHLU",
+    "name": "",
     "industry": null,
     "sub_industry": null,
     "sector": null
+  },
+  {
+    "stock_code": "1V3",
+    "name": "Mooreast",
+    "industry": "Mineral Resources",
+    "sub_industry": " Iron & Steel",
+    "sector": "Professional, Scientific and Technical Activities"
+  },
+  {
+    "stock_code": "Z74",
+    "name": "Singtel",
+    "industry": "Telecommunications Services",
+    "sub_industry": " Integrated Telecommunications Services",
+    "sector": "Information and Communications"
+  },
+  {
+    "stock_code": "Y35",
+    "name": "AnAn Intl",
+    "industry": "Energy - Fossil Fuels",
+    "sub_industry": " Oil & Gas Refining and Marketin",
+    "sector": "Wholesale and Retail Trade"
+  },
+  {
+    "stock_code": "YF8",
+    "name": "YZJ Fin Hldg",
+    "industry": "Banking & Investment Services",
+    "sub_industry": " Investment Management & Fund Operators",
+    "sector": "Financial and Insurance Activities"
+  },
+  {
+    "stock_code": "Z59",
+    "name": "Yoma Strategic",
+    "industry": "Real Estate",
+    "sub_industry": " Real Estate Development & Operations",
+    "sector": "Real Estate Activities"
+  },
+  {
+    "stock_code": "1R6",
+    "name": "Avi-Tech Hldg",
+    "industry": "Technology Equipment",
+    "sub_industry": " Semiconductors",
+    "sector": "Financial and Insurance Activities"
+  },
+  {
+    "stock_code": "B9S",
+    "name": "CosmoSteel",
+    "industry": "Mineral Resources",
+    "sub_industry": " Iron & Steel",
+    "sector": "Wholesale and Retail Trade"
+  },
+  {
+    "stock_code": "BAI",
+    "name": "Digilife Tech",
+    "industry": "Telecommunications Services",
+    "sub_industry": " Integrated Telecommunications Services",
+    "sector": "Wholesale and Retail Trade"
+  },
+  {
+    "stock_code": "HQU",
+    "name": "Oiltek",
+    "industry": "Food & Beverages",
+    "sub_industry": " Food Processing",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "BDX",
+    "name": "GSH",
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Business Support Services",
+    "sector": "Real Estate Activities"
+  },
+  {
+    "stock_code": "BCY",
+    "name": "Powermatic Data",
+    "industry": "Technology Equipment",
+    "sub_industry": " Communications & Networking",
+    "sector": "Real Estate Activities"
+  },
+  {
+    "stock_code": "ENV",
+    "name": "LS 2 Holdings",
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Environmental Services & Equipment",
+    "sector": "Financial and Insurance Activities"
+  },
+  {
+    "stock_code": "BEZ",
+    "name": "Beng Kuang",
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Construction & Engineering",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "BEI",
+    "name": "LHT",
+    "industry": "Applied Resources",
+    "sub_industry": " Forest & Wood Products",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "LVR",
+    "name": "17LIVE GROUP",
+    "industry": "Software & IT Services",
+    "sub_industry": " Internet Services",
+    "sector": "Financial and Insurance Activities"
+  },
+  {
+    "stock_code": "BFU",
+    "name": "Tye Soon",
+    "industry": "Automobiles & Auto Parts",
+    "sub_industry": " Auto",
+    "sector": "Wholesale and Retail Trade"
+  },
+  {
+    "stock_code": "BIP",
+    "name": "Vibrant Group",
+    "industry": "Transportation",
+    "sub_industry": " Air Freight & Logistics",
+    "sector": "Transportation and Storage"
+  },
+  {
+    "stock_code": "VC2",
+    "name": "Olam Group",
+    "industry": "Food & Beverages",
+    "sub_industry": " Food Processing",
+    "sector": "Wholesale and Retail Trade"
+  },
+  {
+    "stock_code": "NXR",
+    "name": "iWOW Tech",
+    "industry": "Technology Equipment",
+    "sub_industry": " Integrated Hardware & Software",
+    "sector": "Information and Communications"
+  },
+  {
+    "stock_code": "BJV",
+    "name": "Yamada Green Res",
+    "industry": "Food & Beverages",
+    "sub_industry": " Food Processing",
+    "sector": "Agriculture and Fishing"
+  },
+  {
+    "stock_code": "BLH",
+    "name": "Hai Leck",
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Business Support Services",
+    "sector": "Mining and Quarrying"
+  },
+  {
+    "stock_code": "NLC",
+    "name": "5E Resources",
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Environmental Services & Equipment",
+    "sector": "Water Supply; Sewerage, Waste Management and Remediation Activities"
+  },
+  {
+    "stock_code": "NIO",
+    "name": "NIO Inc. USD OV",
+    "industry": "Automobiles & Auto Parts",
+    "sub_industry": " Auto & Truck Manufacturers",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "BKV",
+    "name": "Shenshan",
+    "industry": "Food & Beverages",
+    "sub_industry": " Fishing & Farming",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "BMGU",
+    "name": "",
+    "industry": null,
+    "sub_industry": null,
+    "sector": null
+  },
+  {
+    "stock_code": "EMI",
+    "name": "Emperador Inc.",
+    "industry": "Food & Beverages",
+    "sub_industry": " Distillers & Wineries",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "BQC",
+    "name": "A-Smart",
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Commercial Printing Services",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "BKZ",
+    "name": "Suntar Eco-City",
+    "industry": "Pharmaceuticals & Medical Research",
+    "sub_industry": " Pharmaceuticals",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "V8Y",
+    "name": "Quantum Health",
+    "industry": "Healthcare Services",
+    "sub_industry": " Healthcare Facilities & Services",
+    "sector": "Financial and Insurance Activities"
+  },
+  {
+    "stock_code": "SEJ",
+    "name": "NoonTalk Media",
+    "industry": "Cyclical Consumer Services",
+    "sub_industry": " Entertainment Production",
+    "sector": "Information and Communications"
+  },
+  {
+    "stock_code": "BXE",
+    "name": "CDW",
+    "industry": "Technology Equipment",
+    "sub_industry": " Electronic Equipment & Parts",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "BQD",
+    "name": "Envictus",
+    "industry": "Cyclical Consumer Services",
+    "sub_industry": " Restaurants & Bars",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "YK9",
+    "name": "YKGI",
+    "industry": "Cyclical Consumer Services",
+    "sub_industry": " Restaurants & Bars",
+    "sector": "Financial and Insurance Activities"
+  },
+  {
+    "stock_code": "T43",
+    "name": "Yunnan Energy",
+    "industry": "Cyclical Consumer Products",
+    "sub_industry": " Construction Supplies & Fixtures",
+    "sector": "Wholesale and Retail Trade"
+  },
+  {
+    "stock_code": "BSL",
+    "name": "Raffles Medical",
+    "industry": "Healthcare Services",
+    "sub_industry": " Healthcare Facilities & Services",
+    "sector": "Health and Social Services"
+  },
+  {
+    "stock_code": "BVQ",
+    "name": "Procurri",
+    "industry": "Software & IT Services",
+    "sub_industry": " IT Services & Consulting",
+    "sector": "Wholesale and Retail Trade"
+  },
+  {
+    "stock_code": "TPED",
+    "name": "",
+    "industry": null,
+    "sub_industry": null,
+    "sector": null
+  },
+  {
+    "stock_code": "TCPD",
+    "name": "",
+    "industry": null,
+    "sub_industry": null,
+    "sector": null
+  },
+  {
+    "stock_code": "C09",
+    "name": "CityDev",
+    "industry": "Real Estate",
+    "sub_industry": " Real Estate Development & Operations",
+    "sector": "Real Estate Activities"
+  },
+  {
+    "stock_code": "CC3",
+    "name": "StarHub",
+    "industry": "Telecommunications Services",
+    "sub_industry": " Wireless Telecommunications Services",
+    "sector": "Information and Communications"
+  },
+  {
+    "stock_code": "TATD",
+    "name": "",
+    "industry": null,
+    "sub_industry": null,
+    "sector": null
+  },
+  {
+    "stock_code": "UUK",
+    "name": "Pasture Holdings",
+    "industry": "Healthcare Services",
+    "sub_industry": " Advanced Medical Equipment & Technology",
+    "sector": "Wholesale and Retail Trade"
+  },
+  {
+    "stock_code": "CJLU",
+    "name": "",
+    "industry": null,
+    "sub_industry": null,
+    "sector": null
+  },
+  {
+    "stock_code": "C41",
+    "name": "Cortina",
+    "industry": "Retailers",
+    "sub_industry": " Apparel & Accessories Retailers",
+    "sector": "Professional, Scientific and Technical Activities"
+  },
+  {
+    "stock_code": "NPL",
+    "name": "Niks Prof",
+    "industry": "Personal & Household Products & Services",
+    "sub_industry": " Personal Services",
+    "sector": "Health and Social Services"
+  },
+  {
+    "stock_code": "CTO",
+    "name": "Hong Lai Huat",
+    "industry": "Real Estate",
+    "sub_industry": " Real Estate Development & Operations",
+    "sector": "Real Estate Activities"
+  },
+  {
+    "stock_code": "DCRU",
+    "name": "",
+    "industry": null,
+    "sub_industry": null,
+    "sector": null
+  },
+  {
+    "stock_code": "9G2",
+    "name": "SAM Holdings",
+    "industry": null,
+    "sub_industry": null,
+    "sector": "Health and Social Services"
+  },
+  {
+    "stock_code": "D03",
+    "name": "Del Monte Pac",
+    "industry": "Food & Beverages",
+    "sub_industry": " Food Processing",
+    "sector": "Wholesale and Retail Trade"
+  },
+  {
+    "stock_code": "CWBU",
+    "name": "",
+    "industry": null,
+    "sub_industry": null,
+    "sector": null
+  },
+  {
+    "stock_code": "H22",
+    "name": "Hong Leong Asia",
+    "industry": "Automobiles & Auto Parts",
+    "sub_industry": " Auto",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "F1E",
+    "name": "Low Keng Huat",
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Construction & Engineering",
+    "sector": "Construction"
+  },
+  {
+    "stock_code": "E5H",
+    "name": "Golden Agri-Res",
+    "industry": "Food & Beverages",
+    "sub_industry": " Food Processing",
+    "sector": "Agriculture and Fishing"
+  },
+  {
+    "stock_code": "DU4",
+    "name": "Mermaid Maritime",
+    "industry": "Energy - Fossil Fuels",
+    "sub_industry": " Oil & Gas Exploration and Productio",
+    "sector": "Mining and Quarrying"
+  },
+  {
+    "stock_code": "H02",
+    "name": "Haw Par",
+    "industry": "Pharmaceuticals & Medical Research",
+    "sub_industry": " Pharmaceuticals",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "H15",
+    "name": "HPL",
+    "industry": "Cyclical Consumer Services",
+    "sub_industry": " Hotels",
+    "sector": "Accommodation and Food Service Activities"
+  },
+  {
+    "stock_code": "L02",
+    "name": "Metis Energy",
+    "industry": "Utilities",
+    "sub_industry": " Electric Utilities",
+    "sector": "Administrative and Support Service Activities"
+  },
+  {
+    "stock_code": "MZH",
+    "name": "Nanofilm",
+    "industry": "Chemicals",
+    "sub_industry": " Specialty Chemicals",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "O9E",
+    "name": "Parkson Retail",
+    "industry": "Retailers",
+    "sub_industry": " Department Stores",
+    "sector": "Financial and Insurance Activities"
+  },
+  {
+    "stock_code": "J85",
+    "name": "",
+    "industry": null,
+    "sub_industry": null,
+    "sector": null
+  },
+  {
+    "stock_code": "J2T",
+    "name": "Hock Lian Seng",
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Construction & Engineering",
+    "sector": "Construction"
+  },
+  {
+    "stock_code": "5OQ",
+    "name": "Teho Intl",
+    "industry": "Industrial Goods",
+    "sub_industry": " Industrial Machinery & Equipment",
+    "sector": "Wholesale and Retail Trade"
+  },
+  {
+    "stock_code": "LYY",
+    "name": "SinoCloud Grp",
+    "industry": "Software & IT Services",
+    "sub_industry": " IT Services & Consulting",
+    "sector": "Information and Communications"
+  },
+  {
+    "stock_code": "KUX",
+    "name": "OIO",
+    "industry": "Financial Technology (Fintech) & Infrastructure",
+    "sub_industry": " Blockchain & Cryptocurrency",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "LS9",
+    "name": "Leader Env",
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Environmental Services & Equipment",
+    "sector": "Professional, Scientific and Technical Activities"
+  },
+  {
+    "stock_code": "N01",
+    "name": "NeraTel",
+    "industry": "Technology Equipment",
+    "sub_industry": " Communications & Networking",
+    "sector": "Information and Communications"
+  },
+  {
+    "stock_code": "MV4",
+    "name": "Mewah Intl",
+    "industry": "Food & Beverages",
+    "sub_industry": " Food Processing",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "P34",
+    "name": "Delfi",
+    "industry": "Food & Beverages",
+    "sub_industry": " Food Processing",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "P9D",
+    "name": "Civmec",
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Construction & Engineering",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "OXMU",
+    "name": "",
+    "industry": null,
+    "sub_industry": null,
+    "sector": null
+  },
+  {
+    "stock_code": "O5RU",
+    "name": "",
+    "industry": null,
+    "sub_industry": null,
+    "sector": null
+  },
+  {
+    "stock_code": "OYY",
+    "name": "PropNex",
+    "industry": "Real Estate",
+    "sub_industry": " Real Estate Services",
+    "sector": "Real Estate Activities"
+  },
+  {
+    "stock_code": "S20",
+    "name": "Straits Trading",
+    "industry": "Mineral Resources",
+    "sub_industry": " Specialty Mining & Metals",
+    "sector": "Real Estate Activities"
+  },
+  {
+    "stock_code": "ODBU",
+    "name": "",
+    "industry": null,
+    "sub_industry": null,
+    "sector": null
+  },
+  {
+    "stock_code": "P74",
+    "name": "ChinaKangdaFood",
+    "industry": "Food & Beverages",
+    "sub_industry": " Food Processing",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "OTX",
+    "name": "Medinex",
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Business Support Services",
+    "sector": "Health and Social Services"
+  },
+  {
+    "stock_code": "QES",
+    "name": "ChinaSunsine",
+    "industry": "Chemicals",
+    "sub_industry": " Specialty Chemicals",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "RCU",
+    "name": "Revez",
+    "industry": "Software & IT Services",
+    "sub_industry": " IT Services & Consulting",
+    "sector": "Financial and Insurance Activities"
+  },
+  {
+    "stock_code": "S29",
+    "name": "Stamford Tyres",
+    "industry": "Automobiles & Auto Parts",
+    "sub_industry": " Tires & Rubber Products",
+    "sector": "Manufacturing"
+  },
+  {
+    "stock_code": "QNS",
+    "name": "SouthernAlliance",
+    "industry": "Mineral Resources",
+    "sub_industry": " Iron & Steel",
+    "sector": "Mining and Quarrying"
+  },
+  {
+    "stock_code": "S19",
+    "name": "SingShipping",
+    "industry": "Industrial Goods",
+    "sub_industry": " Shipbuilding",
+    "sector": "Administrative and Support Service Activities"
+  },
+  {
+    "stock_code": "QSD",
+    "name": "",
+    "industry": null,
+    "sub_industry": null,
+    "sector": null
+  },
+  {
+    "stock_code": "UD1U",
+    "name": "",
+    "industry": null,
+    "sub_industry": null,
+    "sector": null
+  },
+  {
+    "stock_code": "ZKX",
+    "name": "Ever Glory",
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Construction & Engineering",
+    "sector": "Construction"
+  },
+  {
+    "stock_code": "SGR",
+    "name": "Sheffield Green",
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Employment Services",
+    "sector": "Administrative and Support Service Activities"
+  },
+  {
+    "stock_code": "WKS",
+    "name": "WinkingStudios",
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Business Support Services",
+    "sector": "Information and Communications"
+  },
+  {
+    "stock_code": "LMS",
+    "name": "LMS Compliance",
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Business Support Services",
+    "sector": "Professional, Scientific and Technical Activities"
+  },
+  {
+    "stock_code": "STC",
+    "name": "Comba",
+    "industry": "Technology Equipment",
+    "sub_industry": " Communications & Networking",
+    "sector": "Information and Communications"
   }
 ]

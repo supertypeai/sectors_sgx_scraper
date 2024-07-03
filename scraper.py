@@ -124,10 +124,16 @@ def scrap_function(symbol_list, process_idx):
 
   # Iterate in symbol list
   for i in range(start_idx, len(symbol_list)):
-
+    attempt_count = 0
     symbol = symbol_list[i]
     if (symbol is not None):
       scrapped_data = scrap_stock_page(symbol)
+
+      # Handling for page that returns None although it should not
+      while (scrapped_data['industry'] is None and scrapped_data['sector'] is None and attempt_count < 3):
+        scrapped_data = scrap_stock_page(symbol)
+        attempt_count += 1
+  
       all_data.append(scrapped_data)
 
     if (i % 10 == 0 and count != 0):

@@ -1,632 +1,593 @@
-company_name,stock_code,ric_code,sector_code,industry,sub_industry,sector
-Thai Beverage PCL,Y92,TBEV.SI,5410,Food & Beverages, Distillers & Wineries,Manufacturing
-TT International Ltd,T09,TINL.SI,5340,Retailers, Computer & Electronics Retailers,Wholesale and Retail Trade
-Digilife Technologies Ltd,BAI,DIGI.SI,5740,Telecommunications Services, Integrated Telecommunications Services,Wholesale and Retail Trade
-Mercurius Capital Investment Ltd,5RF,MERC.SI,6010,Real Estate, Real Estate Development & Operations,Real Estate Activities
-ProsperCap Corporation Ltd,PPC,PROS.SI,5330,Cyclical Consumer Services, Hotels,Accommodation and Food Service Activities
-Wilton Resources Corporation Ltd,5F7,WILT.SI,5120,Mineral Resources, Gold,Mining and Quarrying
-Zico Holdings Inc,40W,ZICO.SI,5510,Banking & Investment Services, Diversified Investment Services,Financial and Insurance Activities
-Soup Holdings Ltd,5KI,SOUP.SI,5330,Cyclical Consumer Services, Restaurants & Bars,Administrative and Support Service Activities
-Triyards Holdings Ltd,RC5,TRIY.SI,5010,Energy - Fossil Fuels, Oil Related Services and Equipme,Manufacturing
-AcroMeta Group Ltd,43F,ACRO.SI,5220,Industrial & Commercial Services, Construction & Engineering,Health and Social Services
-CASA Holdings Ltd,C04,CASA.SI,5320,Cyclical Consumer Products, Appliances,Wholesale and Retail Trade
-Frasers Logistics & Commercial Trust,BUOU,FRAE.SI,6010,,,
-CSE Global Ltd.,544,CSES.SI,5720,Software & IT Services, IT Services & Consulting,Administrative and Support Service Activities
-Hengyang Petrochemical Logistics Ltd.,5PD,HNYG.SI,5010,Energy - Fossil Fuels, Oil & Gas Transportation Servic,Transportation and Storage
-Jiutian Chemical Group Limited,C8R,JUTN.SI,5110,Chemicals, Commodity Chemicals,Manufacturing
-GCCP Resources Ltd,41T,GCCP.SI,5120,Mineral Resources, Construction Materials,Mining and Quarrying
-UMS Holdings Ltd,558,UMSH.SI,5710,Technology Equipment, Semiconductor Equipment & Testing,Manufacturing
-Soilbuild Construction Group Ltd,S7P,SOIL.SI,5220,Industrial & Commercial Services, Construction & Engineering,
-XMH Holdings Ltd,BQF,XMHL.SI,5210,Industrial Goods, Electrical Components & Equipment,Wholesale and Retail Trade
-Interra Resources Ltd,5GI,INTR.SI,5010,Energy - Fossil Fuels, Oil & Gas Exploration and Productio,Mining and Quarrying
-Keppel Management Ltd,K17,KLANsi.CEX,5320,,,
-Sanli Environmental Ltd,1E3,SANL.SI,5220,Industrial & Commercial Services, Construction & Engineering,"Water Supply; Sewerage, Waste Management and Remediation Activities"
-OUE Real Estate Investment Trust,TS0U,OUEI.SI,6010,,,
-AIMS APAC REIT,O5RU,AIMA.SI,6010,,,
-Pacific Andes Resources Development Ltd,P11,PACF.SI,5410,,,
-Nio Inc - ADR,NIO,NIO.N,5310,Automobiles & Auto Parts, Auto & Truck Manufacturers,Manufacturing
-Hutchison Port Holdings Trust,NS8U,HPHT.SI,5240,,,
-Edition Ltd,5HG,EDIT.SI,5410,,,
-Spindex Industries Ltd,564,SNEX.SI,5210,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
-AusGroup Ltd,5GJ,AUSG.SI,5010,Energy - Fossil Fuels, Oil Related Services and Equipme,Manufacturing
-Alliance Healthcare Group Ltd,MIJ,ALLA.SI,5610,,,
-GSH Corporation Ltd,BDX,GSHC.SI,5220,Industrial & Commercial Services, Business Support Services,Real Estate Activities
-Santak Holdings Ltd,580,SATK.SI,5210,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
-Haw Par Corporation Ltd,H02,HPAR.SI,5620,Pharmaceuticals & Medical Research, Pharmaceuticals,Manufacturing
-Asia Enterprises Holding Limited,A55,AEHL.SI,5120,Mineral Resources, Iron & Steel,Manufacturing
-Jadason Enterprises Limited,J03,JADA.SI,5710,Technology Equipment, Semiconductors,Wholesale and Retail Trade
-CapitaLand Limited,C31,CATL.SI,6010,,,
-Genting Singapore Ltd,G13,GENS.SI,5330,Cyclical Consumer Services, Casinos & Gaming,Accommodation and Food Service Activities
-Shen Yao Holdings Ltd,A78,SHEY.SI,5120,Mineral Resources, Gold,Mining and Quarrying
-MYP Ltd,F86,MYPL.SI,6010,Real Estate, Real Estate Development & Operations,Financial and Insurance Activities
-ISDN Holdings Limited,I07,ISDN.SI,5210,Industrial Goods, Electrical Components & Equipment,"Professional, Scientific and Technical Activities"
-Frasers Centrepoint Trust,J69U,FCRT.SI,6010,,,
-Camsing Healthcare Ltd,BAC,CAMS.SI,5340,Retailers, Miscellaneous Specialty Retailers,Wholesale and Retail Trade
-Datapulse Technology Limited,BKW,DATA.SI,5330,Cyclical Consumer Services, Hotels,Manufacturing
-Hock Lian Seng Holdings Limited,J2T,HLSG.SI,5220,Industrial & Commercial Services, Construction & Engineering,Construction
-CH Offshore Ltd,C13,CHOF.SI,5010,Energy - Fossil Fuels, Oil Related Services and Equipme,Transportation and Storage
-Mary Chia Holdings Ltd,5OX,MARY.SI,5420,,,
-Mapletree Industrial Trust,ME8U,MAPI.SI,6010,,,
-Federal International (2000) Ltd,BDU,FEDL.SI,5010,Energy - Fossil Fuels, Oil Related Services and Equipme,Mining and Quarrying
-Union Gas Holdings Ltd,1F2,UNIO.SI,5910,Utilities, Natural Gas Utilities,Wholesale and Retail Trade
-United Overseas Australia Limited,UOS,UOS.AX,6010,,,
-Hs Optimus Holdings Ltd,504,HSOP.SI,5320,Cyclical Consumer Products, Home Furnishings,Manufacturing
-Valuemax Group Ltd,T6I,VAMG.SI,5340,Retailers, Apparel & Accessories Retailers,Financial and Insurance Activities
-Goodland Group Ltd,5PC,GLGP.SI,6010,,,
-Koh Brothers Eco Engineering Ltd,5HV,KBEE.SI,5220,Industrial & Commercial Services, Construction & Engineering,Manufacturing
-Sapphire Corporation Ltd,BRD,SAPP.SI,5220,Industrial & Commercial Services, Construction & Engineering,"Professional, Scientific and Technical Activities"
-Daiwa House Logistics Trust,DHLU,DAIW.SI,6010,,,
-IHH Healthcare Bhd,IHH,IHHH.KL,5610,,,
-Pan Hong Holdings Group Ltd,P36,PANH.SI,6010,Real Estate, Real Estate Development & Operations,Real Estate Activities
-Darco Water Technologies Limited,BLR,DRWT.SI,5910,Utilities, Water Utilities,Administrative and Support Service Activities
-Food Empire Holdings Ltd,F03,FEMP.SI,5410,,,
-JB Foods Ltd,BEW,JBFO.SI,5410,,,
-PEC Ltd,IX2,PECL.SI,5010,Energy - Fossil Fuels, Oil Related Services and Equipme,"Professional, Scientific and Technical Activities"
-Yeo Hiap Seng Ltd,Y03,YHSS.SI,5410,Food & Beverages, Food Processing,Manufacturing
-Mindchamps Preschool Ltd,CNE,MIND.SI,5420,Personal & Household Products & Services, Personal Services,"Professional, Scientific and Technical Activities"
-Q & M Dental Group (Singapore) Limited,QC7,QMDT.SI,5610,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
-Singapore Shipping Corporation Ltd,S19,SSHP.SI,5210,Industrial Goods, Shipbuilding,Administrative and Support Service Activities
-Engro Corporation Ltd,S44,ENGR.SI,5120,Mineral Resources, Construction Materials,Manufacturing
-Hong Fok Corporation Ltd,H30,HONG.SI,6010,,,
-Zhongxin Fruit and Juice Ltd,5EG,ZHON.SI,5410,Food & Beverages, Food Processing,Manufacturing
-DFI Retail Group Holdings Ltd,D01,DFIR.SI,5430,Food & Drug Retailing, Food Retail & Distribution,Wholesale and Retail Trade
-Boustead Singapore Limited,F9D,BTSS.SI,5220,Industrial & Commercial Services, Construction & Engineering,"Professional, Scientific and Technical Activities"
-Fuji Offset Plates Manufacturing Ltd,508,FOPS.SI,5210,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
-AnnAik Ltd,A52,AAIK.SI,5120,Mineral Resources, Iron & Steel,Wholesale and Retail Trade
-Koyo International Ltd,5OC,KOYO.SI,5220,Industrial & Commercial Services, Construction & Engineering,"Professional, Scientific and Technical Activities"
-Singapura Finance Ltd,S23,SBDS.SI,5510,Banking & Investment Services, Banks,Financial and Insurance Activities
-Sats Ltd,S58,SATS.SI,5240,Transportation, Airport Services,Manufacturing
-Brook Crompton Holdings Ltd,AWC,BROO.SI,5210,Industrial Goods, Electrical Components & Equipment,Manufacturing
-Moneymax Financial Services Ltd,5WJ,MFSL.SI,5340,Retailers, Apparel & Accessories Retailers,Financial and Insurance Activities
-Yoma Strategic Holdings Ltd,Z59,YOMA.SI,6010,,,
-UOL Group Limited,U14,UTOS.SI,6010,Real Estate, Real Estate Development & Operations,Real Estate Activities
-Hong Leong Finance Ltd,S41,HLSF.SI,5510,Banking & Investment Services, Corporate Financial Services,Financial and Insurance Activities
-Valuetronics Holdings Limited,BN2,VLUE.SI,5710,Technology Equipment, Electronic Equipment & Parts,Manufacturing
-Emerging Towns & Cities Singapore Ltd,1C0,EMER.SI,6010,Real Estate, Real Estate Development & Operations,Real Estate Activities
-Isoteam Ltd,5WF,ISOT.SI,5220,Industrial & Commercial Services, Construction & Engineering,Construction
-Envictus International Holdings Ltd,BQD,ETIK.SI,5330,,,
-Sunpower Group Ltd,5GD,SUNP.SI,5210,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
-Addvalue Technologies Limited,A31,AVAU.SI,5710,Technology Equipment, Communications & Networking,Information and Communications
-Figtree Holdings Ltd,5F4,FIGT.SI,6010,Real Estate, Real Estate Development & Operations,Construction
-OKP Holdings Ltd,5CF,OKPH.SI,5220,Industrial & Commercial Services, Construction & Engineering,Construction
-Winking Studios Ltd,WKS,WINK.SI,5220,,,
-Singapore Technologies Engineering Ltd,S63,STEG.SI,5210,Industrial Goods, Aerospace & Defense,"Professional, Scientific and Technical Activities"
-Powermatic Data Systems Ltd.,BCY,PMDS.SI,5710,Technology Equipment, Communications & Networking,Real Estate Activities
-Comfortdelgro Corporation Ltd,C52,CMDG.SI,5240,Transportation, Passenger Transportation,
-British and Malayan Trustees Limited,CJN,BMHL.SI,5510,Banking & Investment Services, Investment Management & Fund Operators,Other Service Activities
-Sarine Technologies Ltd,U77,SARI.SI,5210,,,
-Sembcorp Industries Ltd,U96,SCIL.SI,5910,Utilities, Multiline Utilities,"Electricity, Gas, Steam and Air-Conditioning Supply"
-Pollux Properties Ltd,5AE,PLPS.SI,6010,,,
-Zixin Group Holdings Ltd,42W,ZIXI.SI,5410,Food & Beverages, Food Processing,Manufacturing
-Acma Ltd,AYV,ACMA.SI,5210,Industrial Goods, Industrial Machinery & Equipment,
-Medtecs International Corporation Ltd,546,MTCS.SI,5610,,,
-Oxpay Financial Ltd,TVV,OXPA.SI,5220,Industrial & Commercial Services, Business Support Services,Information and Communications
-OKH Global Ltd,S3N,OKHG.SI,5220,Industrial & Commercial Services, Construction & Engineering,Real Estate Activities
-SLB Development Ltd,1J0,SLBD.SI,6010,Real Estate, Real Estate Development & Operations,Real Estate Activities
-Resources Global Development Ltd,V7R,RESU.SI,5010,Energy - Fossil Fuels, Coal,Transportation and Storage
-Charisma Energy Services Ltd,5QT,CHAR.SI,5910,Utilities, Electric Utilities,Administrative and Support Service Activities
-Suntec Real Estate Investment Trust,T82U,SUNT.SI,6010,,,
-Vicom Ltd,WJP,VCOM.SI,5220,Industrial & Commercial Services, Business Support Services,Other Service Activities
-Yongmao Holdings Limited,BKX,YNMH.SI,5210,,,
-Asian Micro Holdings Limited,585,AMHL.SI,5910,,,
-Duty Free International Ltd,5SO,DUTY.SI,5340,Retailers, Miscellaneous Specialty Retailers,
-Hongkong Land Holdings Limited,H78,HKLD.SI,6010,Real Estate, Real Estate Development & Operations,Real Estate Activities
-Ocean Sky International Ltd.,1B6,OCEA.SI,5220,,,
-Ossia International Ltd,O08,OSSA.SI,5340,Retailers, Apparel & Accessories Retailers,Wholesale and Retail Trade
-Secura Group Ltd,43B,SECU.SI,5220,,,
-ASTI Holdings Limited,575,ATIH.SI,5710,,,
-Noontalk Media Ltd,SEJ,NOON.SI,5330,,,
-GP Industries Ltd,G20,GPEI.SI,5210,,,
-Ying Li International Real Estate Ltd.,5DM,YING.SI,6010,,,
-Hiap Hoe Ltd,5JK,HIAP.SI,6010,Real Estate, Real Estate Development & Operations,Real Estate Activities
-HealthBank Holdings Ltd,40B,HEAL.SI,5330,,,
-Keppel REIT,K71U,KASA.SI,6010,,,
-MeGroup Ltd,SJY,MEGR.SI,5310,,,
-Mapletree Pan Asia Commercial Trust,N2IU,MACT.SI,6010,,,
-Oxley Holdings Ltd,5UX,OXHL.SI,6010,Real Estate, Real Estate Development & Operations,Real Estate Activities
-Low Keng Huat (Singapore) Ltd,F1E,LKH.SI,5220,,,
-Hafary Holdings Ltd,5VS,HFRY.SI,5320,,,
-Amcorp Global Ltd,S9B,AMCO.SI,6010,,,
-Sen Yue Holdings Ltd,5BS,SENY.SI,5120,,,
-Hrnetgroup Ltd,CHZ,HRNE.SI,5220,,,
-Grand Venture Technology Ltd,JLB,GRAN.SI,5210,,,
-TSH Corporation Ltd,KUH,TSHC.SI,5330,,,
-Singapore Post Ltd,S08,SPOS.SI,5240,Transportation, Air Freight & Logistics,Transportation and Storage
-Midas Holdings Ltd,5EN,MIDA.SI,5120,,,
-NauticAWT Ltd,42D,NAUT.SI,5330,,,
-Alita Resources Ltd,40F,ALIT.SI,5120,,,
-F J Benjamin Holdings Ltd,F10,FJBN.SI,5340,,,
-Beverly JCG Ltd,9QX,BEVE.SI,5610,,,
-Southern Alliance Mining Ltd.,QNS,SOUH.SI,5120,,,
-BHG Retail REIT,BMGU,BHGR.SI,6010,,,
-Singapore Telecommunications Ltd,Z74,STEL.SI,5740,Telecommunications Services, Integrated Telecommunications Services,Information and Communications
-Medinex Ltd,OTX,MEDN.SI,5220,,,
-Hotel Grand Central Limited,H18,HGCS.SI,5330,,,
-General Magnetics Ltd,G42,GMLS.SI,5710,,,
-Kimly Ltd,1D0,KIML.SI,5330,,,
-CapitaLand Ascendas REIT,A17U,CAPD.SI,6010,,,
-AMTD IDEA Group - ADR,AMTD,AMTD.N,5510,,,
-Lung Kee Group Holdings Ltd,255,0255.HK,5210,,,
-Bukit Sembawang Estates Limited,B61,BSES.SI,6010,,,
-Singapore Exchange Ltd,S68,SGXL.SI,5510,Banking & Investment Services, Financial & Commodity Market Operators,Financial and Insurance Activities
-Pavillon Holdings Ltd,596,PAVI.SI,5330,,,
-Centurion Corporation Ltd,OU8,CNCL.SI,6010,,,
-Koda Ltd,BJZ,KODA.SI,5320,,,
-Keong Hong Holdings Ltd,5TT,KEHO.SI,5220,,,
-Japan Foods Holding Ltd,5OI,JPFD.SI,5330,,,
-Cordlife Group Ltd,P8A,CORD.SI,5610,,,
-Lum Chang Holdings Ltd,L19,LUCS.SI,5220,,,
-Nomura Holdings Inc,8604,8604.T,5510,,,
-Regal International Group Ltd,UV1,REGI.SI,6010,Real Estate, Real Estate Development & Operations,Construction
-Abundante Ltd,570,ABUD.SI,5120,Mineral Resources, Construction Materials,Manufacturing
-BBR Holdings (S) Ltd,KJ5,BBRS.SI,5220,Industrial & Commercial Services, Construction & Engineering,Construction
-Vallianz Holdings Ltd,WPC,VHLD.SI,5240,Transportation, Marine Freight & Logistics,Financial and Insurance Activities
-LY Corporation Ltd,1H8,LYCO.SI,5320,Cyclical Consumer Products, Home Furnishings,Manufacturing
-GuocoLand Limited,F17,GUOC.SI,6010,Real Estate, Real Estate Development & Operations,Real Estate Activities
-TIH Ltd,T55,TIHL.SI,5550,Collective Investments, Closed End Funds,Financial and Insurance Activities
-Tye Soon Ltd,BFU,TYES.SI,5310,Automobiles & Auto Parts, Auto,Wholesale and Retail Trade
-Forise International Ltd,8A1,FOIL.SI,5220,Industrial & Commercial Services, Business Support Services,Manufacturing
-Venture Corporation Ltd,V03,VENM.SI,5710,Technology Equipment, Electronic Equipment & Parts,Manufacturing
-Olam Group Ltd,VC2,OLAG.SI,5410,Food & Beverages, Food Processing,Wholesale and Retail Trade
-Manulife US Real Estate Investment Trust,BTOU,MANU.SI,6010,,,
-Singapore Land Group Ltd,U06,SIND.SI,6010,Real Estate, Real Estate Development & Operations,Real Estate Activities
-NutryFarm International Ltd,AZT,NUTR.SI,5410,Food & Beverages, Food Processing,Manufacturing
-KORI Holdings Ltd,5VC,KORI.SI,5220,Industrial & Commercial Services, Construction & Engineering,Construction
-Quantum Healthcare Ltd,V8Y,QUAN.SI,5610,Healthcare Services, Healthcare Facilities & Services,Financial and Insurance Activities
-Prudential plc,PRU,PRU.L,5530,,,
-China International Holdings Limited,BEH,CHNA.SI,5220,Industrial & Commercial Services, Construction & Engineering,Construction
-TA Corporation Ltd,PA3,TACO.SI,6010,Real Estate, Real Estate Development & Operations,Construction
-Great Eastern Holdings Ltd,G07,GELA.SI,5530,Insurance, Life & Health Insurance,Financial and Insurance Activities
-United Overseas Insurance Limited,U13,UOIS.SI,5530,Insurance, Multiline Insurance & Brokers,Financial and Insurance Activities
-Prime US REIT,OXMU,PRIE.SI,6010,,,
-Alpina Holdings Ltd,ZXY,ALPI.SI,5220,Industrial & Commercial Services, Construction & Engineering,Financial and Insurance Activities
-Ever Glory United Holdings Ltd,ZKX,EVER.SI,5220,Industrial & Commercial Services, Construction & Engineering,Construction
-Eagle Hospitality Trust,LIW,EAGL.SI,6010,,,
-Asian Pay Television Trust,S7OU,ASIA.SI,5330,,,
-Yangzijiang Financial Holding Ltd,YF8,YANZ.SI,5510,Banking & Investment Services, Investment Management & Fund Operators,Financial and Insurance Activities
-Atlantic Navigation Holdings (Sing) Ltd,5UL,ATLA.SI,5010,Energy - Fossil Fuels, Oil Related Services and Equipme,Mining and Quarrying
-Noel Gifts International Ltd,543,NOEL.SI,5340,Retailers, Miscellaneous Specialty Retailers,Wholesale and Retail Trade
-LifeBrandz Ltd,1D3,LIFE.SI,5330,Cyclical Consumer Services, Restaurants & Bars,Accommodation and Food Service Activities
-Azeus Systems Holdings Ltd,BBW,AZEU.SI,5720,Software & IT Services, IT Services & Consulting,Information and Communications
-Inch Kenneth Kajang Rubber PLC,INCKEN,IKEN.KL,5330,,,
-KrisEnergy Ltd,SK3,KRIS.SI,5010,Energy - Fossil Fuels, Oil & Gas Exploration and Productio,Administrative and Support Service Activities
-Capital World Ltd,1D5,CAPI.SI,6010,Real Estate, Real Estate Development & Operations,Real Estate Activities
-Kencana Agri Ltd,BNE,KCAL.SI,5410,Food & Beverages, Fishing & Farming,Agriculture and Fishing
-Riverstone Holdings Ltd,AP4,RVHL.SI,5610,Healthcare Services, Medical Equipment,Manufacturing
-Ntegrator Holdings Ltd,WVJ,NTEG.SI,5340,Retailers, Apparel & Accessories Retailers,Information and Communications
-Rich Capital Holdings Ltd,5G4,RICH.SI,6010,Real Estate, Real Estate Development & Operations,Real Estate Activities
-Sino Grandness Food Industry Group Ltd,T4B,SOGF.SI,5410,Food & Beverages, Non-Alcoholic Beverages,Manufacturing
-Anchun International Holdings Ltd,BTX,ANIH.SI,5210,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
-BH Global Corporation Ltd,BQN,BHGC.SI,5210,,,
-Fu Yu Corporation Ltd,F13,FUYU.SI,5210,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
-Samko Timber Ltd,E6R,SAMT.SI,5130,Applied Resources, Forest & Wood Products,Financial and Insurance Activities
-JES International Holdings Limited,EG0,JSIH.SI,5210,Industrial Goods, Shipbuilding,"Professional, Scientific and Technical Activities"
-Grand Banks Yachts Ltd,G50,GBYL.SI,5320,Cyclical Consumer Products, Recreational Products,Manufacturing
-Dasin Retail Trust,CEDU,DASI.SI,6010,,,
-UG Healthcare Corporation Ltd,8K7,UGHE.SI,5610,Healthcare Services, Medical Equipment,Manufacturing
-JEP Holdings Ltd,1J4,JEPH.SI,5220,Industrial & Commercial Services, Construction & Engineering,Manufacturing
-Lippo Malls Indonesia Retail Trust,D5IU,LMRT.SI,6010,,,
-Union Steel Holdings Ltd,ZB9,UNIS.SI,5120,Mineral Resources, Iron & Steel,
-CDW Holding Limited,BXE,CDWH.SI,5710,Technology Equipment, Electronic Equipment & Parts,Manufacturing
-City Developments Limited,C09,CTDM.SI,6010,Real Estate, Real Estate Development & Operations,Real Estate Activities
-SBS Transit Ltd,S61,SBVV.SI,5240,Transportation, Passenger Transportation,
-Dragon Group International Ltd,MT1,DRGN.SI,5210,Industrial Goods, Electrical Components & Equipment,Wholesale and Retail Trade
-PSC Corporation Ltd,DM0,PSCC.SI,5130,Applied Resources, Paper Packaging,Wholesale and Retail Trade
-Tan Chong International Ltd,693,0693.HK,5240,,,
-Global Investments Ltd,B73,GLNV.SI,5550,Collective Investments, Closed End Funds,-
-Southern Archipelago Ltd,A33,SOUE.SI,6010,Real Estate, Real Estate Development & Operations,Mining and Quarrying
-IPS Securex Holdings Ltd,42N,IPSS.SI,5710,Technology Equipment, Communications & Networking,
-IFS Capital Ltd.,I49,IFAC.SI,5510,Banking & Investment Services, Consumer Lending,Financial and Insurance Activities
-Yangzijiang Shipbuilding Holdings Ltd,BS6,YAZG.SI,5210,Industrial Goods, Shipbuilding,Manufacturing
-OIO Holdings Ltd,KUX,OIOH.SI,5730,Financial Technology (Fintech) & Infrastructure, Blockchain & Cryptocurrency,
-Luxking Group Holdings Ltd,BKK,LUKG.SI,5110,Chemicals, Specialty Chemicals,Manufacturing
-Parkway Life Real Estate Investment Trst,C2PU,PWLR.SI,6010,,,
-King Wan Corp Ltd,554,KIWC.SI,5220,Industrial & Commercial Services, Construction & Engineering,Construction
-CapitaLand Ascott Trust,HMN,CAPS.SI,6010,,,
-Asiatic Group (Holdings) Ltd,5CR,ATIC.SI,5210,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
-Econ Healthcare (Asia) Ltd,EHG,ECOE.SI,5610,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
-International Cement Group Ltd,KUO,INTN.SI,5120,,,
-Mandarin Oriental International Ltd,M04,MOIL.SI,5330,Cyclical Consumer Services, Hotels,Accommodation and Food Service Activities
-Eneco Energy Ltd,R14,ENEC.SI,5010,Energy - Fossil Fuels, Integrated Oil & Gas,Transportation and Storage
-Zheneng Jinjiang Environment Hldg Co Ltd,BWM,ZHEN.SI,5020,Renewable Energy, Renewable Energy Equipment & Services,"Water Supply; Sewerage, Waste Management and Remediation Activities"
-Kim Heng Ltd,5G2,KIMH.SI,5010,Energy - Fossil Fuels, Oil Related Services and Equipme,Mining and Quarrying
-Fraser and Neave Ltd,F99,FRNM.SI,5410,Food & Beverages, Food Processing,Manufacturing
-HGH Holdings Ltd,5GZ,HGHH.SI,5120,Mineral Resources, Construction Materials,Manufacturing
-Advanced Holdings Limited,BLZ,ADVA.SI,5010,Energy - Fossil Fuels, Oil Related Services and Equipme,"Professional, Scientific and Technical Activities"
-Koh Brothers Group Ltd,K75,KBRO.SI,5220,,,
-Silverlake Axis Ltd,5CP,SLVX.SI,5730,Financial Technology (Fintech) & Infrastructure, Financial Technology (Fintech),Information and Communications
-Place Holdings Ltd,E27,THEP.SI,5330,Cyclical Consumer Services, Advertising & Marketing,Financial and Insurance Activities
-Isetan (Singapore) Ltd,I15,ISET.SI,5340,Retailers, Department Stores,Wholesale and Retail Trade
-Bonvests Holdings Ltd,B28,BVHS.SI,5330,Cyclical Consumer Services, Hotels,Real Estate Activities
-Lion Asiapac Ltd,BAZ,LIAS.SI,5120,Mineral Resources, Construction Materials,Manufacturing
-Far East Orchard Ltd,O10,FARE.SI,6010,,,
-Jardine Cycle & Carriage Ltd,C07,JCYC.SI,5440,Consumer Goods Conglomerates, Consumer Goods Conglomerates,Manufacturing
-CapitaLand China Trust,AU8U,CAPA.SI,6010,,,
-Combine Will International Holdings Ltd,N0Z,CWIHx.SI,5420,,,
-Imperium Crown Ltd,5HT,IMPE.SI,6010,,,
-Vicplas International Limited,569,VICP.SI,5610,Healthcare Services, Medical Equipment,Manufacturing
-KSH Holdings Limited,ER0,KSHH.SI,5220,Industrial & Commercial Services, Construction & Engineering,Real Estate Activities
-Hyphens Pharma International Ltd,1J5,HYPH.SI,5620,Pharmaceuticals & Medical Research, Pharmaceuticals,Wholesale and Retail Trade
-SinoCloud Group Ltd,LYY,SINL.SI,5720,,,
-Natural Cool Holdings Limited,5IF,NCHL.SI,5220,Industrial & Commercial Services, Construction & Engineering,"Electricity, Gas, Steam and Air-Conditioning Supply"
-Trans-China Automotive Holdings Ltd,VI2,TRAS.SI,5310,,,
-Keppel Infrastructure Trust,A7RU,KEPL.SI,5110,,,
-GSS Energy Ltd,41F,GSSE.SI,5210,,,
-China Aviation Oil (Singapore) Corp Ltd,G92,CNAO.SI,5240,Transportation, Airport Services,Other Service Activities
-Accrelist Ltd,QZG,ACCR.SI,5710,Technology Equipment, Computer Hardware,Wholesale and Retail Trade
-Thomson Medical Group Ltd,A50,THOS.SI,5610,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
-Intraco Ltd,I06,ITRS.SI,5220,Industrial & Commercial Services, Diversified Industrial Goods Wholesale,Wholesale and Retail Trade
-Lincotrade & Associates Holdings Ltd,BFT,LINO.SI,5340,Retailers, Home Improvement Products & Services Retailers,Manufacturing
-Soon Lian Holdings Ltd,5MD,SNLN.SI,5120,Mineral Resources, Aluminum,Manufacturing
-InnoTek Ltd,M14,INTK.SI,5710,Technology Equipment, Office Equipment,Manufacturing
-Civmec Ltd,P9D,CIVM.SI,5220,Industrial & Commercial Services, Construction & Engineering,Manufacturing
-Broadway Industrial Group Ltd,B69,BRWY.SI,5210,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
-Penguin International Ltd,BTM,PGUN.SI,5240,Transportation, Passenger Transportation,Manufacturing
-Digital Core REIT,DCRU,DIGT.SI,6010,,,
-Tiong Woon Corporation Holding Ltd,BQM,TION.SI,5210,Industrial Goods, Heavy Machinery & Vehicles,Transportation and Storage
-Halcyon Agri Corporation Ltd,5VJ,HALC.SI,5310,Automobiles & Auto Parts, Tires & Rubber Products,Manufacturing
-New Toyo International Holdings Ltd,N08,NTYO.SI,5130,Applied Resources, Paper Packaging,Administrative and Support Service Activities
-Bumitama Agri Ltd,P8Z,BUMI.SI,5410,Food & Beverages, Food Processing,Agriculture and Fishing
-Aspen (Group) Holdings Ltd,1F3,ASPE.SI,6010,Real Estate, Real Estate Development & Operations,
-Qian Hu Corporation Ltd,BCV,QIAN.SI,5410,,,
-RH Petrogas Ltd,T13,RHPG.SI,5010,,,
-MSM International Ltd,5QR,MSML.SI,5210,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
-United Food Holdings Ltd,AZR,UTDF.SI,5110,,,
-17LIVE Group Ltd,LVR,LIVE.SI,5720,,,
-SUTL Enterprise Ltd,BHU,SUTL.SI,5330,,,
-A-Sonic Aerospace Ltd,BTJ,ASON.SI,5240,,,
-Ireit Global,UD1U,IREI.SI,6010,,,
-Metech International Ltd,V3M,METE.SI,5220,,,
-Progen Holdings Ltd,583,POGN.SI,5220,,,
-MegaChem Ltd,5DS,MEGA.SI,5110,,,
-Olive Tree Estates Ltd,1H2,OLIV.SI,6010,,,
-Frasers Property Ltd,TQ5,FRPL.SI,6010,Real Estate, Real Estate Development & Operations,Real Estate Activities
-HG Metal Manufacturing Ltd.,BTG,HGMM.SI,5120,Mineral Resources, Iron & Steel,Wholesale and Retail Trade
-Multi-Chem Ltd,AWZ,MCHE.SI,5710,Technology Equipment, Computer Hardware,Information and Communications
-AGV Group Ltd,1A4,AGVG.SI,5560,,,
-MTQ Corporation Ltd,M05,MTLS.SI,5010,,,
-Tuan Sing Holdings Ltd,T24,TSHS.SI,6010,,,
-Ho Bee Land Ltd,H13,HBEE.SI,6010,,,
-AnAn International Ltd,Y35,ANAN.SI,5010,,,
-Spackman Entertainment Group Ltd,40E,SPAC.SI,5330,,,
-Nanofilm Technologies International Ltd,MZH,NANO.SI,5110,Chemicals, Specialty Chemicals,Manufacturing
-Uni-Asia Group Ltd,CHJ,UAFC.SI,5220,,,
-Nera Telecommunications Ltd.,N01,NERA.SI,5710,,,
-Chuan Hup Holdings Limited,C33,CHHS.SI,6010,,,
-Singapore Paincare Holdings Ltd,FRQ,SINR.SI,5610,,,
-Hai Leck Holdings Limited,BLH,HLHL.SI,5220,,,
-Adventus Holdings Ltd,5EF,ADVE.SI,6010,,,
-Unusual Ltd,1D1,UNUS.SI,5330,,,
-Aspial Lifestyle Ltd,5UF,ASPL.SI,5340,,,
-DISA Ltd,532,DISA.SI,5720,,,
-Emperador Inc,EMI,EMI.PS,5410,,,
-Jubilee Industries Holdings Ltd,NHD,JLJH.SI,5210,,,
-Banyan Tree Holdings Ltd,B58,BANY.SI,5330,,,
-OUE Healthcare Ltd,5WA,OUEE.SI,5610,,,
-Nippecraft Limited,N32,NIPP.SI,5130,,,
-Parkson Retail Asia Ltd,O9E,PRAL.SI,5340,,,
-KTL Global Limited,EB7,KTLG.SI,5210,,,
-Tritech Group Ltd,5G9,TTGL.SI,5220,,,
-Acesian Partners Ltd,5FW,ACES.SI,5220,,,
-Medi Lifestyle Ltd,Z4D,MEDL.SI,5610,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
-Geo Energy Resources Ltd,RE4,GEOE.SI,5010,,,
-Polaris Ltd,5BI,POLA.SI,5340,,,
-Taka Jewellery Holdings Ltd,42L,TAKA.SI,5340,,,
-Lorenzo International Ltd,5IE,LRZI.SI,5340,,,
-Sim Leisure Group Ltd,URR,SIMI.SI,5330,,,
-Tat Seng Packaging Group Ltd,T12,TASE.SI,5130,,,
-Luminor Financial Holdings Ltd,5UA,LUMI.SI,5510,,,
-Cromwell European Real Estate Invemnt Tr,CWBU,CROM.SI,6010,,,
-Aedge Group Ltd,XVG,AEDE.SI,5220,Industrial & Commercial Services, Construction & Engineering,Financial and Insurance Activities
-HC Surgical Specialists Ltd,1B1,HCSU.SI,5610,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
-APAC Realty Ltd,CLN,APAC.SI,6010,Real Estate, Real Estate Services,Real Estate Activities
-Cortina Holdings Limited,C41,CORT.SI,5340,Retailers, Apparel & Accessories Retailers,"Professional, Scientific and Technical Activities"
-CapitaLand India Trust,CY6U,CAPC.SI,6010,,,
-Marco Polo Marine Ltd,5LY,MAPM.SI,5240,Transportation, Marine Freight & Logistics,Manufacturing
-RE&S Holdings Ltd,1G1,RESH.SI,5330,Cyclical Consumer Services, Restaurants & Bars,Financial and Insurance Activities
-V2Y Corporation Ltd,V2Y,V2YC.SI,5530,Insurance, Multiline Insurance & Brokers,Financial and Insurance Activities
-Nordic Group Ltd,MR7,NRGL.SI,5220,Industrial & Commercial Services, Construction & Engineering,"Professional, Scientific and Technical Activities"
-PropNex Ltd,OYY,PROP.SI,6010,Real Estate, Real Estate Services,Real Estate Activities
-MM2 Asia Ltd,1B0,MM2A.SI,5330,Cyclical Consumer Services, Entertainment Production,Information and Communications
-Ley Choon Group Holdings Ltd,Q0X,LEYC.SI,5220,Industrial & Commercial Services, Construction & Engineering,Construction
-Trek 2000 International Ltd,5AB,TRKL.SI,5710,Technology Equipment, Computer Hardware,Information and Communications
-China Yuanbang Property Holdings Ltd.,BCD,CYBP.SI,6010,Real Estate, Real Estate Development & Operations,Real Estate Activities
-Thakral Corporation Ltd,AWI,THAK.SI,6010,Real Estate, Real Estate Development & Operations,Wholesale and Retail Trade
-Tianjin Pharmcetl Da Ren Tang Grp Cp Ltd,T14,TIAN.SI,5620,Pharmaceuticals & Medical Research, Pharmaceuticals,Construction
-Global Testing Corporation Ltd,AYN,GTCL.SI,5710,Technology Equipment, Semiconductor Equipment & Testing,Manufacturing
-SunMoon Food Company Ltd,AAJ,SMFC.SI,5410,Food & Beverages, Fishing & Farming,Financial and Insurance Activities
-Alpha DX Group Ltd,VVL,ALPH.SI,5720,Software & IT Services, IT Services & Consulting,Information and Communications
-Tung Lok Restaurants (2000) Ltd,540,TGLK.SI,5330,Cyclical Consumer Services, Restaurants & Bars,Accommodation and Food Service Activities
-Sinjia Land Ltd,5HH,SINJ.SI,5330,Cyclical Consumer Services, Hotels,Manufacturing
-AJJ Medtech Holdings Ltd,584,AJJM.SI,5610,,,
-Net Pacific Financial Holdings Ltd,5QY,NPFH.SI,5510,Banking & Investment Services, Corporate Financial Services,Financial and Insurance Activities
-Vividthree Holdings Ltd,OMK,VIVI.SI,5330,,,
-ST Group Food Industries Holdings Ltd,DRX,STGR.SI,5330,,,
-Wing Tai Holdings Limited,W05,WTHS.SI,6010,Real Estate, Real Estate Development & Operations,Real Estate Activities
-Eurosports Global Ltd,5G1,EURO.SI,5340,,,
-YKGI Ltd,YK9,YKGI.SI,5330,Cyclical Consumer Services, Restaurants & Bars,Financial and Insurance Activities
-Gallant Venture Ltd,5IG,GLVT.SI,5910,Utilities, Electric Utilities,"Electricity, Gas, Steam and Air-Conditioning Supply"
-LS 2 Holdings Ltd,ENV,LS2H.SI,5220,Industrial & Commercial Services, Environmental Services & Equipment,Financial and Insurance Activities
-Hong Leong Asia Ltd.,H22,HLAA.SI,5310,,,
-Huationg Global Ltd,41B,HUAT.SI,5220,Industrial & Commercial Services, Construction & Engineering,Construction
-Yanlord Land Group Limited,Z25,YNLG.SI,6010,Real Estate, Real Estate Development & Operations,Real Estate Activities
-Sunrise Shares Holdings Ltd,581,SUNR.SI,6010,Real Estate, Real Estate Services,Wholesale and Retail Trade
-BRC Asia Ltd,BEC,BRCA.SI,5320,,,
-Shanghai Turbo Enterprises Ltd,AWM,SHTU.SI,5210,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
-Serial System Ltd,S69,SERL.SI,5210,Industrial Goods, Electrical Components & Equipment,Wholesale and Retail Trade
-First Real Estate Investment Trust,AW9U,FRET.SI,6010,,,
-Wong Fong Industries Ltd,1A1,WONG.SI,5210,Industrial Goods, Industrial Machinery & Equipment,"Professional, Scientific and Technical Activities"
-Beng Kuang Marine Ltd,BEZ,BENK.SI,5220,Industrial & Commercial Services, Construction & Engineering,Manufacturing
-New Silkroutes Group Ltd,BMT,NEWS.SI,5610,Healthcare Services, Healthcare Facilities & Services,
-Meta Health Ltd,5DX,META.SI,5120,Mineral Resources, Iron & Steel,Manufacturing
-Advanced Systems Automation Limited,WJ9,ADSA.SI,5710,Technology Equipment, Semiconductor Equipment & Testing,Manufacturing
-SIIC Environment Holdings Ltd,BHK,SIIC.SI,5910,Utilities, Water Utilities,"Water Supply; Sewerage, Waste Management and Remediation Activities"
-Memiontec Holdings Ltd,TWL,MEMI.SI,5220,Industrial & Commercial Services, Construction & Engineering,"Water Supply; Sewerage, Waste Management and Remediation Activities"
-CDL Hospitality Trusts,J85,CDLT.SI,6010,,,
-Vcplus Ltd,43E,VCPL.SI,5120,Mineral Resources, Construction Materials,Manufacturing
-Manufacturing Integration Technology Ltd,M11,MITD.SI,5710,Technology Equipment, Semiconductor Equipment & Testing,Manufacturing
-ESR-Logos REIT,J91U,ESRO.SI,6010,,,
-New Wave Holdings Ltd,5FX,NEWW.SI,5120,Mineral Resources, Aluminum,Manufacturing
-MMI Holdings Ltd,M29,IPO-MMIH.SI,5210,,,
-LMS Compliance Ltd,LMS,LMSC.SI,5220,Industrial & Commercial Services, Business Support Services,"Professional, Scientific and Technical Activities"
-Nam Cheong Ltd,1MZ,NMCG.SI,5210,Industrial Goods, Shipbuilding,Manufacturing
-GS Holdings Ltd,43A,GSHO.SI,5330,Cyclical Consumer Services, Restaurants & Bars,Financial and Insurance Activities
-Jardine Matheson Holdings Limited,J36,JARD.SI,5440,Consumer Goods Conglomerates, Consumer Goods Conglomerates,"Professional, Scientific and Technical Activities"
-Baker Technology Ltd,BTP,BATE.SI,5010,Energy - Fossil Fuels, Oil Related Services and Equipme,Manufacturing
-Allgreen Properties Ltd,A16,AGRN.SI,6010,,,
-Creative Technology Ltd.,C76,CREA.SI,5710,,,
-Don Agro International Ltd,GRQ,DONA.SI,5410,Food & Beverages, Fishing & Farming,Agriculture and Fishing
-5E Resources Ltd,NLC,ERES.SI,5220,Industrial & Commercial Services, Environmental Services & Equipment,"Water Supply; Sewerage, Waste Management and Remediation Activities"
-Elite UK REIT,MXNU,ELIE.SI,6010,,,
-Jawala Inc,1J7,JAWA.SI,5130,,,
-Revez Corporation Ltd,RCU,REVE.SI,5720,Software & IT Services, IT Services & Consulting,Financial and Insurance Activities
-Jason Marine Group Limited,5PF,JMGL.SI,5710,Technology Equipment, Communications & Networking,Manufacturing
-Indofood Agri Resources Ltd,5JS,IFAR.SI,5410,Food & Beverages, Food Processing,Agriculture and Fishing
-Ellipsiz Ltd,BIX,ELPZ.SI,5710,Technology Equipment, Semiconductor Equipment & Testing,Manufacturing
-Y Ventures Group Ltd,1F1,YVEN.SI,5720,Software & IT Services, Internet Services,Wholesale and Retail Trade
-Abundance International Ltd,541,ABUN.SI,5220,,,
-China Environment Ltd,5OU,CHEN.SI,5220,Industrial & Commercial Services, Environmental Services & Equipment,"Water Supply; Sewerage, Waste Management and Remediation Activities"
-G H Y Culture & Media Holding Co Ltd,XJB,GHYC.SI,5330,Cyclical Consumer Services, Entertainment Production,Information and Communications
-Enviro-Hub Holdings Ltd,L23,EHHL.SI,5220,Industrial & Commercial Services, Environmental Services & Equipment,Financial and Insurance Activities
-Oversea-Chinese Banking Corporation Ltd,O39,OCBC.SI,5510,Banking & Investment Services, Banks,Financial and Insurance Activities
-Suntar Eco-City Ltd,BKZ,SECL.SI,5620,Pharmaceuticals & Medical Research, Pharmaceuticals,Manufacturing
-NSL Ltd,N02,NATS.SI,5120,,,
-Avarga Ltd,U09,AVAR.SI,5320,Cyclical Consumer Products, Construction Supplies & Fixtures,
-Qualitas Medical Group Ltd,5NN,IPO-QUAL.SI,5560,,,
-Stamford Land Corporation Ltd,H07,SFLD.SI,5330,Cyclical Consumer Services, Hotels,Administrative and Support Service Activities
-Aspial Corporation Ltd,A30,ASPA.SI,5320,Cyclical Consumer Products, Apparel & Accessories,Wholesale and Retail Trade
-TrickleStar Ltd,CYW,TRIC.SI,5210,Industrial Goods, Electrical Components & Equipment,Manufacturing
-KOP Ltd,5I1,KOPL.SI,6010,Real Estate, Real Estate Development & Operations,Real Estate Activities
-Sabana Indstrl Real Est Invt Trst,M1GU,SABA.SI,6010,,,
-Bromat Holdings Ltd,9I7,BROM.SI,5330,,,Accommodation and Food Service Activities
-Jasper Investments Limited,FQ7,JASP.SI,5240,Transportation, Marine Freight & Logistics,Financial and Insurance Activities
-Pan-United Corporation Ltd,P52,PANU.SI,5120,,,
-CosmoSteel Holdings Limited,B9S,COSM.SI,5120,Mineral Resources, Iron & Steel,Wholesale and Retail Trade
-Audience Analytics Ltd,1AZ,AUDI.SI,5330,,,
-Choo Chiang Holdings Ltd,42E,CHOO.SI,5210,,,
-iFAST Corporation Ltd,AIY,IFAS.SI,5730,Financial Technology (Fintech) & Infrastructure, Financial Technology (Fintech),Information and Communications
-United Hampshire US REIT,ODBU,UNIE.SI,6010,,,
-Ezra Holdings Ltd,5DN,EZRA.SI,5010,Energy - Fossil Fuels, Oil Related Services and Equipme,Mining and Quarrying
-Golden Agri-Resources Ltd,E5H,GAGR.SI,5410,Food & Beverages, Food Processing,Agriculture and Fishing
-Sheng Siong Group Ltd,OV8,SHEN.SI,5430,Food & Drug Retailing, Food Retail & Distribution,Wholesale and Retail Trade
-ASL Marine Holdings Ltd,A04,ASLM.SI,5210,Industrial Goods, Shipbuilding,Manufacturing
-Miyoshi Ltd,M03,MIYO.SI,5710,,,
-Rex International Holding Ltd,5WH,REXI.SI,5010,,,
-Metro Holdings Ltd,M01,MTHL.SI,5340,,,
-Yuuzoo Networks Group Corp,AFC,YUUZ.SI,5720,Software & IT Services, Internet Services,Financial and Insurance Activities
-AF Global Ltd,L38,AFGL.SI,5330,Cyclical Consumer Services, Hotels,Accommodation and Food Service Activities
-Sri Trang Gloves (Thailand) PCL,STGT,STGT.BK,5610,,,
-Raffles Infrastructure Holdings Ltd,LUY,RAFL.SI,5220,,,
-Hor Kew Corporation Ltd,BBP,HKEW.SI,5220,,,
-Reclaims Global Ltd,NEX,RECL.SI,5220,,,
-Sitra Holdings (International)  Ltd,5LE,SITR.SI,5130,Applied Resources, Forest & Wood Products,Manufacturing
-First Resources Ltd,EB5,FRLD.SI,5410,Food & Beverages, Food Processing,Wholesale and Retail Trade
-Sevens Atelier Ltd,5EW,SEVE.SI,5320,Cyclical Consumer Products, Construction Supplies & Fixtures,Wholesale and Retail Trade
-Tosei Corp,8923,8923.T,6010,,,
-AP Oil International Ltd,5AU,AOIL.SI,5110,Chemicals, Specialty Chemicals,Manufacturing
-World Precision Machinery Ltd,B49,WPML.SI,5210,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
-Paragon REIT,SK6U,PARA.SI,6010,,,
-Murata Manufacturing Co Ltd,6981,6981.T,5710,,,
-Amara Holdings Ltd,A34,AMRA.SI,5330,Cyclical Consumer Services, Hotels,Accommodation and Food Service Activities
-Overseas Education Ltd,RQ1,OVER.SI,6310,Academic & Educational Services, Miscellaneous Educational Service Providers,Education
-Karin Technology Holdings Ltd.,K29,KARI.SI,5710,,,
-Livingstone Health Holdings Ltd,PRH,LIVI.SI,5610,,,
-Debao Property Development Ltd.,BTF,DPDL.SI,6010,,,
-EC World Real Estate Investment Trust,BWCU,ECWO.SI,6010,,,
-Second Chance Properties Ltd,528,SECD.SI,5340,,,
-Hotung Investment Holdings Ltd,BLS,HOTU.SI,5510,,,
-Mewah International Inc,MV4,MEWI.SI,5410,,,
-Chasen Holdings Ltd,5NV,CHHL.SI,5240,,,
-CapitaLand Integrated Commercial Trust,C38U,CMLT.SI,6010,,,
-SMI Vantage Ltd,Y45,SMIV.SI,5240,,,
-Hotel Royal Limited,H12,HTRS.SI,5330,,,
-Ecowise Holdings Ltd,5CT,ECOW.SI,5220,,,
-Hosen Group Ltd,5EV,HSNG.SI,5430,,,
-ISEC Healthcare Ltd,40T,ISEC.SI,5610,,,
-Frencken Group Ltd,E28,FREN.SI,5210,Industrial Goods, Industrial Machinery & Equipment,"Professional, Scientific and Technical Activities"
-8Telecom International Holdings Co Ltd,AZG,ETEL.SI,5710,,,
-Pasture Holdings Ltd,UUK,PAST.SI,5610,,,
-Southern Packaging Group Ltd,BQP,SOUT.SI,5130,,,
-Telechoice International Ltd,T41,TCIN.SI,5710,Technology Equipment, Phones & Handheld Devices,
-Clearbridge Health Ltd,1H3,CLEA.SI,5610,,,
-Mermaid Maritime PCL,DU4,MMPC.SI,5010,Energy - Fossil Fuels, Oil & Gas Exploration and Productio,Mining and Quarrying
-Amplefield Limited,AOF,AMPL.SI,6010,,,
-Amos Group Ltd,49B,AMOS.SI,5210,,,
-Alset International Ltd,40V,ALSE.SI,6010,,,
-Sinarmas Land Ltd,A26,SINA.SI,5220,,,
-Aims Property Securities Fund,APW,APW.AX,6010,,,
-Eindec Corp Ltd,42Z,EIND.SI,5220,,,
-CNMC Goldmine Holdings Ltd,5TP,CNMC.SI,5120,Mineral Resources, Gold,Manufacturing
-Willas-Array Electronics (Holdings) Ltd,854,0854.HK,5710,,,
-Stamford Tyres Corporation Ltd,S29,STAS.SI,5310,Automobiles & Auto Parts, Tires & Rubber Products,Manufacturing
-UOB-Kay Hian Holdings Ltd,U10,UOKH.SI,5510,,,
-Mapletree Logistics Trust,M44U,MAPL.SI,6010,,,
-StarHub Ltd,CC3,STAR.SI,5740,Telecommunications Services, Wireless Telecommunications Services,Information and Communications
-Yamada Green Resources Ltd,BJV,YAMR.SI,5410,Food & Beverages, Food Processing,Agriculture and Fishing
-Fuxing China Group Ltd,AWK,FXCG.SI,5320,,,
-IX Biopharma Ltd,42C,IXBI.SI,5620,,,
-Procurri Corporation Ltd,BVQ,PROC.SI,5720,,,
-Delfi Ltd,P34,DELF.SI,5410,,,
-Ouhua Energy Holdings Ltd,AJ2,OUEH.SI,5010,,,
-ES Group (Holdings) Ltd,5RC,ESGL.SI,5210,,,
-Boldtek Holdings Ltd,5VI,BOLD.SI,6010,,,
-Yongnam Holdings Limited,AXB,YNAM.SI,5220,,,
-ARA US Hospitality Trust,XZL,ARAU.SI,6010,,,
-Hotel Properties Limited,H15,HPPS.SI,5330,Cyclical Consumer Services, Hotels,Accommodation and Food Service Activities
-Starhill Global Real Estate Invmt Trust,P40U,STHL.SI,6010,,,
-Aoxin Q & M Dental Group Ltd,1D4,AOXI.SI,5610,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
-Zhongmin Baihui Retail Group Ltd,5SR,ZBRG.SI,5340,Retailers, Department Stores,Real Estate Activities
-shopper360 Ltd,1F0,SHOP.SI,5330,Cyclical Consumer Services, Advertising & Marketing,"Professional, Scientific and Technical Activities"
-LHT Holdings Ltd,BEI,LHTH.SI,5130,,,
-Raffles Education Ltd,NR7,RLSE.SI,6310,Academic & Educational Services, Professional & Business Education,Education
-Straits Trading Company Ltd,S20,STCM.SI,5120,Mineral Resources, Specialty Mining & Metals,Real Estate Activities
-Plato Capital Ltd,YYN,PLAT.SI,5720,,,
-Pharmesis International Ltd.,BFK,PHAR.SI,5620,Pharmaceuticals & Medical Research, Pharmaceuticals,Manufacturing
-Singapore Airlines Ltd,C6L,SIAL.SI,5240,Transportation, Airlines,Transportation and Storage
-Shanaya Ltd,SES,SHAA.SI,5220,Industrial & Commercial Services, Environmental Services & Equipment,Manufacturing
-Oiltek International Ltd,HQU,OILT.SI,5410,Food & Beverages, Food Processing,Manufacturing
-COSCO Shipping Interntnl(SNGPRE)Co Ltd,F83,COSC.SI,5240,Transportation, Marine Freight & Logistics,Transportation and Storage
-China Environmental Resources Group Ltd,1130,1130.HK,5310,,,
-Seatrium Limited,5E2,SEAT.SI,5210,Industrial Goods, Shipbuilding,Manufacturing
-China Mining International Ltd,BHD,CMIL.SI,6010,Real Estate, Real Estate Development & Operations,Real Estate Activities
-Ascent Bridge Ltd,AWG,ASCE.SI,5120,Mineral Resources, Aluminum,Manufacturing
-Metis Energy Ltd,L02,METIS.SI,5910,Utilities, Electric Utilities,Administrative and Support Service Activities
-SDAI Ltd,5TI,SDAI.SI,5340,Retailers, Home Furnishings Retailers,Wholesale and Retail Trade
-Universal Resource and Services Ltd,BGO,UNIV.SI,5010,Energy - Fossil Fuels, Oil Related Services and Equipme,Mining and Quarrying
-Dyna-Mac Holdings Ltd,NO4,DMHL.SI,5010,Energy - Fossil Fuels, Oil Related Services and Equipme,Manufacturing
-Sunright Ltd,S71,SNRT.SI,5710,Technology Equipment, Semiconductor Equipment & Testing,
-Tai Sin Electric Ltd,500,TAIS.SI,5210,Industrial Goods, Electrical Components & Equipment,Manufacturing
-Hiap Tong Corporation Ltd,5PO,HTCL.SI,5220,,,
-Keppel Ltd,BN4,KPLM.SI,5440,Consumer Goods Conglomerates, Consumer Goods Conglomerates,Manufacturing
-Heeton Holdings Limited,5DP,HEET.SI,6010,Real Estate, Real Estate Development & Operations,Real Estate Activities
-mDR Ltd,Y3D,MDRT.SI,5340,Retailers, Computer & Electronics Retailers,Information and Communications
-ICP Ltd,5I4,ICPL.SI,5330,Cyclical Consumer Services, Hotels,Transportation and Storage
-Capallianz Holdings Ltd,594,CAPL.SI,5010,Energy - Fossil Fuels, Integrated Oil & Gas,Mining and Quarrying
-Hoe Leong Corporation Ltd,H20,HLEC.SI,5210,Industrial Goods, Industrial Machinery & Equipment,Wholesale and Retail Trade
-Sincap group Ltd,5UN,SINC.SI,5010,Energy - Fossil Fuels, Coal,Mining and Quarrying
-LHN Ltd,41O,LHNL.SI,6010,Real Estate, Real Estate Development & Operations,
-Berlian Laju Tanker Tbk PT,BLTA,BLTA.JK,5240,,,
-Micro-Mechanics (Holdings) Ltd,5DD,MMEC.SI,5710,,,
-China Sunsine Chemical Holdings Ltd,QES,CHSN.SI,5110,Chemicals, Specialty Chemicals,Manufacturing
-QAF Ltd,Q01,QAFS.SI,5410,Food & Beverages, Food Processing,Manufacturing
-GRP Ltd,BLU,GRPS.SI,5310,Automobiles & Auto Parts, Tires & Rubber Products,Financial and Insurance Activities
-Ban Leong Technologies Ltd,B26,BANL.SI,5710,Technology Equipment, Computer Hardware,Wholesale and Retail Trade
-Lonza Group AG,LONN,LONN.S,5620,,,
-Hatten Land Ltd,PH0,HATT.SI,6010,Real Estate, Real Estate Development & Operations,
-Wilmar International Limited,F34,WLIL.SI,5410,Food & Beverages, Food Processing,Manufacturing
-Nam Lee Pressed Metal Industries Ltd,G0I,NLPM.SI,5320,Cyclical Consumer Products, Construction Supplies & Fixtures,Manufacturing
-Khong Guan Ltd,K03,KHON.SI,5410,Food & Beverages, Food Processing,Wholesale and Retail Trade
-YHI International Ltd.,BPF,YHII.SI,5310,Automobiles & Auto Parts, Auto,Manufacturing
-Matex International Ltd,M15,MATE.SI,5110,Chemicals, Specialty Chemicals,Wholesale and Retail Trade
-China Fishery Group Limited,B0Z,CNFG.SI,5410,Food & Beverages, Fishing & Farming,Agriculture and Fishing
-Trendlines Group Ltd,42T,THET.SI,5510,Banking & Investment Services, Investment Management & Fund Operators,"Professional, Scientific and Technical Activities"
-Shangri-La Asia Ltd,69,0069.HK,5330,,,
-Pacific Radiance Ltd,RXS,PACI.SI,5010,Energy - Fossil Fuels, Oil & Gas Transportation Servic,Mining and Quarrying
-Far East Group Ltd,5TJ,FAEA.SI,5210,Industrial Goods, Electrical Components & Equipment,Manufacturing
-Bacui Technologies International Ltd,YYB,BACU.SI,5220,Industrial & Commercial Services, Employment Services,
-Avi-Tech Holdings Ltd,1R6,AVTO.SI,5710,,,
-Katrina Group Ltd,1A0,KATR.SI,5330,Cyclical Consumer Services, Restaurants & Bars,Accommodation and Food Service Activities
-Raffles Medical Group Ltd,BSL,RAFG.SI,5610,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
-iWOW Technology Ltd,NXR,IWOW.SI,5710,Technology Equipment, Integrated Hardware & Software,Information and Communications
-Japfa Ltd,UD2,JAPF.SI,5410,,,
-Malaysia Smelting Corporation Bhd,MSC,MSCB.KL,5120,,,
-Heatec Jietong Holdings Ltd,5OR,HTJT.SI,5210,Industrial Goods, Electrical Components & Equipment,Manufacturing
-Avjennings Ltd,AVJ,AVJ.AX,6010,,,
-First Sponsor Group Ltd,ADN,FSCA.SI,6010,Real Estate, Real Estate Development & Operations,Real Estate Activities
-Renaissance United Ltd,I11,RENA.SI,5910,Utilities, Natural Gas Utilities,Financial and Insurance Activities
-Sakae Holdings Ltd,5DO,SAKA.SI,5330,Cyclical Consumer Services, Restaurants & Bars,Accommodation and Food Service Activities
-Vibrant Group Ltd,BIP,VIBR.SI,5240,Transportation, Air Freight & Logistics,
-CFM Holdings Limited,5EB,CFMH.SI,5210,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
-CSC Holdings Ltd,C06,CSCH.SI,5220,Industrial & Commercial Services, Construction & Engineering,Construction
-Best World International Ltd,CGN,BEST.SI,5420,Personal & Household Products & Services, Personal Products,Wholesale and Retail Trade
-Wee Hur Holdings Ltd,E3B,WHHL.SI,5220,Industrial & Commercial Services, Construction & Engineering,Construction
-Courage Investment Group Ltd,1145,1145.HK,5240,,,
-Advancer Global Ltd,43Q,ADVN.SI,5220,Industrial & Commercial Services, Employment Services,Administrative and Support Service Activities
-Sing Investments & Finance Ltd,S35,SINV.SI,5510,Banking & Investment Services, Banks,Financial and Insurance Activities
-Straco Corporation Ltd,S85,STRA.SI,5330,Cyclical Consumer Services, Leisure & Recreation,"Arts, Entertainment & Recreation"
-USP Group Ltd,BRS,USPG.SI,5320,Cyclical Consumer Products, Recreational Products,Wholesale and Retail Trade
-Oceanus Group Ltd,579,OCGL.SI,5430,Food & Drug Retailing, Food Retail & Distribution,Agriculture and Fishing
-Old Chang Kee Ltd,5ML,OCKL.SI,5330,Cyclical Consumer Services, Restaurants & Bars,Accommodation and Food Service Activities
-Sasseur Real Estate Investment Trust,CRPU,SASS.SI,6010,,,
-HL Global Enterprises Limited,AVX,HLGE.SI,5330,Cyclical Consumer Services, Hotels,Accommodation and Food Service Activities
-Mencast Holdings Ltd,5NF,MCHL.SI,5210,Industrial Goods, Shipbuilding,Manufacturing
-KTMG Ltd,XCF,KTMG.SI,5320,Cyclical Consumer Products, Apparel & Accessories,Manufacturing
-Tiong Seng Holdings Ltd,BFI,TISE.SI,5220,Industrial & Commercial Services, Construction & Engineering,Construction
-OUE Ltd,LJ3,OVES.SI,6010,Real Estate, Real Estate Development & Operations,Accommodation and Food Service Activities
-IPC Corporation Ltd,AZA,IPCC.SI,5330,Cyclical Consumer Services, Hotels,Real Estate Activities
-NetLink NBN Trust,CJLU,NETL.SI,5740,,,
-Singapore Kitchen Equipment Ltd,5WG,SING.SI,5320,Cyclical Consumer Products, Appliances,Manufacturing
-Full Apex (Holdings) Ltd,BTY,FULL.SI,5110,Chemicals, Commodity Chemicals,Manufacturing
-Astaka Holdings Ltd,42S,ASTA.SI,6010,Real Estate, Real Estate Development & Operations,Real Estate Activities
-Leader Environmental Technologies Ltd,LS9,LETL.SI,5220,Industrial & Commercial Services, Environmental Services & Equipment,"Professional, Scientific and Technical Activities"
-Hour Glass Ltd,AGS,HRGS.SI,5340,Retailers, Apparel & Accessories Retailers,Wholesale and Retail Trade
-Hiap Seng Industries Ltd,1L2,HIAS.SI,5220,Industrial & Commercial Services, Construction & Engineering,Financial and Insurance Activities
-Versalink Holdings Ltd,40N,VERS.SI,5220,Industrial & Commercial Services, Business Support Supplies,Manufacturing
-DBS Group Holdings Ltd,D05,DBSM.SI,5510,Banking & Investment Services, Banks,Financial and Insurance Activities
-Hyflux Ltd,600,HYFL.SI,5910,Utilities, Water Utilities,Financial and Insurance Activities
-Mooreast Holdings Ltd,1V3,MOOR.SI,5120,,,
-Credit Bureau Asia Ltd,TCU,CRED.SI,5220,Industrial & Commercial Services, Professional Information Services,Administrative and Support Service Activities
-Bund Center Investment Ltd,BTE,BCIL.SI,6010,Real Estate, Real Estate Development & Operations,Real Estate Activities
-Falcon Energy Group Ltd,5FL,FEGL.SI,5010,Energy - Fossil Fuels, Oil Related Services and Equipme,
-Samurai 2K Aerosol Ltd,Y8E,SAMR.SI,5110,Chemicals, Commodity Chemicals,Financial and Insurance Activities
-Pacific Century Regional Dvlpmnts Ltd,P15,PCEN.SI,5560,Holding Companies, Investment Holding Companies,Financial and Insurance Activities
-Teho International Ltd Inc,5OQ,TEHO.SI,5210,,,
-Oneapex Ltd,5SY,ONEA.SI,6010,Real Estate, Real Estate Services,Financial and Insurance Activities
-SIA Engineering Company Ltd,S59,SIAE.SI,5240,Transportation, Airport Services,
-Sheffield Green Ltd,SGR,SHEF.SI,5220,Industrial & Commercial Services, Employment Services,Administrative and Support Service Activities
-Top Glove Corporation Bhd,TOPGLOV,TPGC.KL,5610,,,
-JUMBO Group Ltd,42R,JUMB.SI,5330,Cyclical Consumer Services, Restaurants & Bars,Accommodation and Food Service Activities
-Yunnan Energy International Co Ltd,1298,1298.HK,5320,,,
-Samudera Shipping Line Ltd,S56,SAMU.SI,5240,Transportation, Marine Freight & Logistics,Transportation and Storage
-Annica Holdings Limited,5AL,ANHL.SI,5010,Energy - Fossil Fuels, Oil Related Services and Equipme,Manufacturing
-Aztech Global Ltd,8AZ,AZTE.SI,5710,,,
-Joyas International Holdings Limited,E9L,JIHL.SI,5510,Banking & Investment Services, Corporate Financial Services,Wholesale and Retail Trade
-United Overseas Bank Ltd,U11,UOBH.SI,5510,Banking & Investment Services, Banks,Financial and Insurance Activities
-Captii Ltd,AWV,CAPT.SI,5740,,,
-Far East Hospitality Trust,Q5T,FAEH.SI,6010,,,
-Niks Professional Ltd,NPL,NIKS.SI,5420,Personal & Household Products & Services, Personal Services,Health and Social Services
-Serial Achieva Ltd,XHV,SERI.SI,5560,Holding Companies, Investment Holding Companies,"Professional, Scientific and Technical Activities"
-Incredible Holdings Ltd,RDR,INCR.SI,5710,,,
-Chemical Industries (Far East) Ltd,C05,CHEM.SI,5110,,,
-Lendlease Global Commercial REIT,JYEU,LEND.SI,6010,,,
-Del Monte Pacific Limited,D03,DMPL.SI,5410,Food & Beverages, Food Processing,Wholesale and Retail Trade
-Blackgold Natural Resources Ltd,41H,BLAC.SI,5010,,,
-Maruwa Co Ltd,5344,5344.T,5710,,,
-First Ship Lease Trust,D8DU,FSLT.SI,5240,,,
-Sri Trang Agro Industry PCL,STA,STA.BK,5310,,,
-Vibropower Corporation Ltd,BJD,VIBO.SI,5910,,,
-Sin Heng Heavy Machinery Ltd,BKA,SIHM.SI,5210,,,
-Totm Technologies Ltd,42F,TOTM.SI,5730,,,
-H2G Green Ltd,5AI,H2GG.SI,5320,,,
-Sing Holdings Ltd,5IC,SHDS.SI,6010,,,
-Sinostar Pec Holdings Ltd,C9Q,SNSR.SI,5010,,,
-Capitaland Investment Ltd,9CI,CAPN.SI,6010,Real Estate, Real Estate Services,Financial and Insurance Activities
-China Kunda Technology Holdings Limited,GU5,CKUN.SI,5110,,,
-Asia Vets Holdings Ltd,5RE,ASIV.SI,5610,,,
-AEM Holdings Ltd.,AWX,AEM.SI,5710,Technology Equipment, Semiconductors,Manufacturing
-AsiaMedic Limited,505,ASIM.SI,5610,,,
-KEPPEL DC REIT,AJBU,KEPE.SI,6010,,,
-SHS Holdings Ltd,566,SEEH.SI,5220,,,
-OTS Holdings Ltd,OTS,OTSH.SI,5410,,,
-Mun Siong Engineering Ltd,MF6,MSEL.SI,5220,,,
-9R Ltd,1Y1,RLIM.SI,5210,,,
-Asiaphos Ltd,5WV,ASIP.SI,5110,,,
-GDS Global Ltd,5VP,GDSG.SI,5320,,,
-China Everbright Water Ltd,U9E,CEWL.SI,5910,,,
-Biolidics Ltd,8YY,BIOL.SI,5610,,,
-Global Invacom Group Ltd,QS9,GLOB.SI,5710,,,
-Kingsmen Creatives Ltd.,5MZ,KMEN.SI,5220,,,
-GKE Corporation Ltd,595,GKEC.SI,5240,,,
-Keppel Pacific Oak US REIT,CMOU,KPEL.SI,6010,,,
-China Shenshan Orchard Holdings Co Ltd,BKV,CHIS.SI,5410,,,
-ABR Holdings Ltd,533,ABRH.SI,5410,,,
-Travelite Holdings Ltd,BCZ,TRHL.SI,5340,Retailers, Apparel & Accessories Retailers,Wholesale and Retail Trade
-A-Smart Holdings Ltd,BQC,ASMA.SI,5220,,,
-PNE Industries Ltd,BDA,PNEI.SI,5210,,,
-Hong Lai Huat Group Ltd,CTO,HONL.SI,6010,,,
-Frasers Hospitality Trust,ACV,FRHO.SI,6010,,,
-Fortress Minerals Ltd,OAJ,FORR.SI,5120,,,
-Asia-Pacific Strategic Investments Ltd,5RA,ASIC.SI,6010,,,
-TalkMed Group Ltd,5G3,TALK.SI,5610,,,
-China Kangda Food Company Limited,834,0834.HK,5410,,,
-Green Build Technology Ltd,Y06,GREE.SI,5220,,,
+stock_code,name,industry,sub_industry,sector
+S63,ST Engineering,Industrial Goods, Aerospace & Defense,"Professional, Scientific and Technical Activities"
+AWM,Shanghai Turbo,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
+AZT,NutryFarm,Food & Beverages, Food Processing,Manufacturing
+BTX,Anchun Intl,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
+5JS,Indofood Agri,Food & Beverages, Food Processing,Agriculture and Fishing
+5RA,AP Strategic,Real Estate, Real Estate Development & Operations,
+TVV,OxPay Financial,Industrial & Commercial Services, Business Support Services,Information and Communications
+BTE,Bund Center,Real Estate, Real Estate Development & Operations,Real Estate Activities
+C04,Casa,Cyclical Consumer Products, Appliances,Wholesale and Retail Trade
+C05,Chemical Ind,Chemicals, Commodity Chemicals,Manufacturing
+41B,Huationg Global,Industrial & Commercial Services, Construction & Engineering,Construction
+A17U,,,,
+5NV,Chasen,Transportation, Ground Freight & Logistics,Transportation and Storage
+AGS,TheHourGlass,Retailers, Apparel & Accessories Retailers,Wholesale and Retail Trade
+C13,CH Offshore,Energy - Fossil Fuels, Oil Related Services and Equipme,Transportation and Storage
+A33,Southern Arch,Real Estate, Real Estate Development & Operations,Mining and Quarrying
+5TP,CNMC Goldmine,Mineral Resources, Gold,Manufacturing
+5RF,Mercurius,Real Estate, Real Estate Development & Operations,Real Estate Activities
+A31,Addvalue Tech,Technology Equipment, Communications & Networking,Information and Communications
+AZR,United Food,Chemicals, Commodity Chemicals,Accommodation and Food Service Activities
+C76,Creative,Technology Equipment, Computer Hardware,Administrative and Support Service Activities
+AWV,Captii,Telecommunications Services, Wireless Telecommunications Services,Information and Communications
+C06,CSC,Industrial & Commercial Services, Construction & Engineering,Construction
+BLZ,Advanced,Energy - Fossil Fuels, Oil Related Services and Equipme,"Professional, Scientific and Technical Activities"
+BHD,China Mining,Real Estate, Real Estate Development & Operations,Real Estate Activities
+BTP,Baker Technology,Energy - Fossil Fuels, Oil Related Services and Equipme,Manufacturing
+BKW,Datapulse Tech,Cyclical Consumer Services, Hotels,Manufacturing
+BRS,USP Group,Cyclical Consumer Products, Recreational Products,Wholesale and Retail Trade
+C07,Jardine C&C,Consumer Goods Conglomerates, Consumer Goods Conglomerates,Manufacturing
+583,Progen,Industrial & Commercial Services, Construction & Engineering,Construction
+C6L,SIA,Transportation, Airlines,Transportation and Storage
+U9E,China Everbright,Utilities, Water Utilities,"Water Supply; Sewerage, Waste Management and Remediation Activities"
+C52,ComfortDelGro,Transportation, Passenger Transportation,Transportation and Storage
+UIX,China EnvRes,Automobiles & Auto Parts, Auto & Truck Manufacturers,Agriculture and Fishing
+C33,Chuan Hup,Real Estate, Real Estate Development & Operations,Transportation and Storage
+BMT,New Silkroutes,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
+C70,,,,
+5SO,Duty Free Intl,Retailers, Miscellaneous Specialty Retailers,Wholesale and Retail Trade
+5HG,Edition,Food & Beverages, Fishing & Farming,Agriculture and Fishing
+CGN,Best World,Personal & Household Products & Services, Personal Products,Wholesale and Retail Trade
+BIX,Ellipsiz,Technology Equipment, Semiconductor Equipment & Testing,Manufacturing
+YYB,BACUI TECH,Industrial & Commercial Services, Employment Services,Financial and Insurance Activities
+E27,The Place Hldg,Cyclical Consumer Services, Advertising & Marketing,Financial and Insurance Activities
+O10,Far East Orchard,Real Estate, Real Estate Development & Operations,Real Estate Activities
+CHJ,Uni-Asia Grp,Industrial & Commercial Services, Business Support Services,Financial and Insurance Activities
+5F4,Figtree,Real Estate, Real Estate Development & Operations,Construction
+F13,Fu Yu,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
+G07,Great Eastern,Insurance, Life & Health Insurance,Financial and Insurance Activities
+5PC,Goodland,Real Estate, Real Estate Development & Operations,Real Estate Activities
+B73,Global Inv,Collective Investments, Closed End Funds,-
+KJ5,BBR,Industrial & Commercial Services, Construction & Engineering,Construction
+5VJ,Halcyon Agri,Automobiles & Auto Parts, Tires & Rubber Products,Manufacturing
+H13,Ho Bee Land,Real Estate, Real Estate Development & Operations,Real Estate Activities
+5VS,Hafary,Cyclical Consumer Products, Construction Supplies & Fixtures,Wholesale and Retail Trade
+H20,Hoe Leong,Industrial Goods, Industrial Machinery & Equipment,Wholesale and Retail Trade
+H30,Hong Fok,Real Estate, Real Estate Development & Operations,Real Estate Activities
+BLS,Hotung Inv,Banking & Investment Services, Investment Management & Fund Operators,Financial and Insurance Activities
+D01,DFIRG USD,Food & Drug Retailing, Food Retail & Distribution,Wholesale and Retail Trade
+5PO,Hiap Tong,Industrial & Commercial Services, Business Support Services,Administrative and Support Service Activities
+5TY,,,,
+H12,Hotel Royal,Cyclical Consumer Services, Hotels,Accommodation and Food Service Activities
+5CT,EcoWise,Industrial & Commercial Services, Environmental Services & Equipment,"Water Supply; Sewerage, Waste Management and Remediation Activities"
+600,Hyflux,Utilities, Water Utilities,Financial and Insurance Activities
+5WV,AsiaPhos,Chemicals, Agricultural Chemicals,Mining and Quarrying
+8A1,Forise Int,Industrial & Commercial Services, Business Support Services,Manufacturing
+Z4D,MediLifestyle,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
+5WA,OUE Healthcare,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
+E28,Frencken,Industrial Goods, Industrial Machinery & Equipment,"Professional, Scientific and Technical Activities"
+M14,InnoTek,Technology Equipment, Office Equipment,Manufacturing
+5GI,Interra Resource,Energy - Fossil Fuels, Oil & Gas Exploration and Productio,Mining and Quarrying
+I11,Renaissance United,Utilities, Natural Gas Utilities,Financial and Insurance Activities
+FQ7,Jasper Inv,Transportation, Marine Freight & Logistics,Financial and Insurance Activities
+5PF,Jason Marine,Technology Equipment, Communications & Networking,Manufacturing
+BEW,JB Foods,Food & Beverages, Food Processing,Manufacturing
+5OI,Japan Foods,Cyclical Consumer Services, Restaurants & Bars,Accommodation and Food Service Activities
+E9L,Joyas Intl,Banking & Investment Services, Corporate Financial Services,Wholesale and Retail Trade
+C8R,Jiutian Chemical,Chemicals, Commodity Chemicals,Manufacturing
+5HV,Koh Eco,Industrial & Commercial Services, Construction & Engineering,Manufacturing
+A30,Aspial Corp,Cyclical Consumer Products, Apparel & Accessories,Wholesale and Retail Trade
+EB5,First Resources,Food & Beverages, Food Processing,Wholesale and Retail Trade
+BNE,Kencana Agri,Food & Beverages, Fishing & Farming,Agriculture and Fishing
+5TT,Keong Hong,Industrial & Commercial Services, Construction & Engineering,Construction
+A34,Amara,Cyclical Consumer Services, Hotels,Accommodation and Food Service Activities
+554,King Wan,Industrial & Commercial Services, Construction & Engineering,Construction
+A55,Asia Enterprises,Mineral Resources, Iron & Steel,Manufacturing
+5VC,Kori,Industrial & Commercial Services, Construction & Engineering,Construction
+5OC,Koyo Intl,Industrial & Commercial Services, Construction & Engineering,"Professional, Scientific and Technical Activities"
+XCF,KTMG,Cyclical Consumer Products, Apparel & Accessories,Manufacturing
+F10,FJ Benjamin,Retailers, Apparel & Accessories Retailers,Wholesale and Retail Trade
+EB7,KTL Global,Industrial Goods, Industrial Machinery & Equipment,Mining and Quarrying
+Q0X,Ley Choon,Industrial & Commercial Services, Construction & Engineering,Construction
+F03,Food Empire,Food & Beverages, Food Processing,Manufacturing
+RE4,Geo Energy Res,Energy - Fossil Fuels, Coal,Mining and Quarrying
+1D3,LifeBrandz,Cyclical Consumer Services, Restaurants & Bars,Accommodation and Food Service Activities
+L19,Lum Chang,Industrial & Commercial Services, Construction & Engineering,Construction
+F34,Wilmar Intl,Food & Beverages, Food Processing,Manufacturing
+5I1,KOP,Real Estate, Real Estate Development & Operations,Real Estate Activities
+40W,ZICO Hldgs,Banking & Investment Services, Diversified Investment Services,Financial and Insurance Activities
+F9D,Boustead,Industrial & Commercial Services, Construction & Engineering,"Professional, Scientific and Technical Activities"
+5I4,ICP Ltd,Cyclical Consumer Services, Hotels,Transportation and Storage
+AVX,HL Global Ent,Cyclical Consumer Services, Hotels,Accommodation and Food Service Activities
+F17,GuocoLand,Real Estate, Real Estate Development & Operations,Real Estate Activities
+5LY,MarcoPolo Marine,Transportation, Marine Freight & Logistics,Manufacturing
+5OX,Mary Chia,Personal & Household Products & Services, Personal Services,Other Service Activities
+G50,Grand Banks,Cyclical Consumer Products, Recreational Products,Manufacturing
+5IG,Gallant Venture,Utilities, Electric Utilities,"Electricity, Gas, Steam and Air-Conditioning Supply"
+F83,COSCO SHP SG,Transportation, Marine Freight & Logistics,Transportation and Storage
+41T,GCCP,Mineral Resources, Construction Materials,Mining and Quarrying
+5UF,Aspial Lifestyle,Retailers, Apparel & Accessories Retailers,Wholesale and Retail Trade
+5DS,MegaChem,Chemicals, Diversified Chemicals,Wholesale and Retail Trade
+F86,MYP,Real Estate, Real Estate Development & Operations,Financial and Insurance Activities
+5NF,Mencast,Industrial Goods, Shipbuilding,Manufacturing
+S23,Spura Finance,Banking & Investment Services, Banks,Financial and Insurance Activities
+AWX,AEM SGD,Technology Equipment, Semiconductors,Manufacturing
+S41,Hong Leong Fin,Banking & Investment Services, Corporate Financial Services,Financial and Insurance Activities
+AYN,Global Testing,Technology Equipment, Semiconductor Equipment & Testing,Manufacturing
+TQ5,Frasers Property,Real Estate, Real Estate Development & Operations,Real Estate Activities
+G0I,Nam Lee Metal,Cyclical Consumer Products, Construction Supplies & Fixtures,Manufacturing
+AZA,IPC Corp,Cyclical Consumer Services, Hotels,Real Estate Activities
+G20,GP Industries,Industrial Goods, Electrical Components & Equipment,Manufacturing
+U77,Sarine Tech,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
+B58,Banyan Tree,Cyclical Consumer Services, Hotels,Accommodation and Food Service Activities
+T13,RH PetroGas,Energy - Fossil Fuels, Oil & Gas Exploration and Productio,Mining and Quarrying
+V3M,Metech Intl,Industrial & Commercial Services, Environmental Services & Equipment,Administrative and Support Service Activities
+M03,Miyoshi,Technology Equipment, Computer Hardware,Manufacturing
+H78,HongkongLand USD,Real Estate, Real Estate Development & Operations,Real Estate Activities
+5DD,Micro-Mechanics,Technology Equipment, Semiconductor Equipment & Testing,Manufacturing
+IX2,PEC,Energy - Fossil Fuels, Oil Related Services and Equipme,"Professional, Scientific and Technical Activities"
+B61,Bukit Sembawang,Real Estate, Real Estate Development & Operations,Real Estate Activities
+G92,China Aviation,Transportation, Airport Services,Other Service Activities
+MF6,Mun Siong Engg,Industrial & Commercial Services, Construction & Engineering,Manufacturing
+N02,NSL,Mineral Resources, Construction Materials,Construction
+5IF,Natural Cool,Industrial & Commercial Services, Construction & Engineering,"Electricity, Gas, Steam and Air-Conditioning Supply"
+5FX,New Wave,Mineral Resources, Aluminum,Manufacturing
+N08,New Toyo,Applied Resources, Paper Packaging,Administrative and Support Service Activities
+GU5,ChinaKundaTech,Chemicals, Commodity Chemicals,Manufacturing
+BBP,Hor Kew,Industrial & Commercial Services, Construction & Engineering,Construction
+AJ2,Ouhua Energy,Energy - Fossil Fuels, Oil & Gas Refining and Marketin,Wholesale and Retail Trade
+5UX,Oxley,Real Estate, Real Estate Development & Operations,Real Estate Activities
+I06,Intraco,Industrial & Commercial Services, Diversified Industrial Goods Wholesale,Wholesale and Retail Trade
+Y3D,MDR Limited,Retailers, Computer & Electronics Retailers,Information and Communications
+Z25,Yanlord Land,Real Estate, Real Estate Development & Operations,Real Estate Activities
+BBW,Azeus,Software & IT Services, IT Services & Consulting,Information and Communications
+H18,Hotel Grand,Cyclical Consumer Services, Hotels,Accommodation and Food Service Activities
+RXS,PacificRadiance,Energy - Fossil Fuels, Oil & Gas Transportation Servic,Mining and Quarrying
+BTM,Penguin Intl,Transportation, Passenger Transportation,Manufacturing
+BFK,Pharmesis Intl,Pharmaceuticals & Medical Research, Pharmaceuticals,Manufacturing
+G13,Genting Sing,Cyclical Consumer Services, Casinos & Gaming,Accommodation and Food Service Activities
+BDA,PNE Industries,Industrial Goods, Electrical Components & Equipment,Wholesale and Retail Trade
+5BI,Polaris,Retailers, Computer & Electronics Retailers,Manufacturing
+E6R,Samko Timber,Applied Resources, Forest & Wood Products,Financial and Insurance Activities
+BDU,Federal Int,Energy - Fossil Fuels, Oil Related Services and Equipme,Mining and Quarrying
+S56,SamuderaShipping,Transportation, Marine Freight & Logistics,Transportation and Storage
+528,Second Chance,Retailers, Apparel & Accessories Retailers,Real Estate Activities
+H07,Stamford Land,Cyclical Consumer Services, Hotels,Administrative and Support Service Activities
+5IC,SingHoldings,Real Estate, Real Estate Development & Operations,Construction
+BKA,Sin Heng Mach,Industrial Goods, Heavy Machinery & Vehicles,Administrative and Support Service Activities
+5HH,Sinjia Land,Cyclical Consumer Services, Hotels,Manufacturing
+I07,ISDN,Industrial Goods, Electrical Components & Equipment,"Professional, Scientific and Technical Activities"
+BHK,SIIC Environment,Utilities, Water Utilities,"Water Supply; Sewerage, Waste Management and Remediation Activities"
+S35,Sing Inv & Fin,Banking & Investment Services, Banks,Financial and Insurance Activities
+AAJ,SunMoonFood,Food & Beverages, Fishing & Farming,Financial and Insurance Activities
+BHU,SUTL Enterprise,Cyclical Consumer Services, Leisure & Recreation,"Arts, Entertainment & Recreation"
+I49,IFS Capital,Banking & Investment Services, Consumer Lending,Financial and Insurance Activities
+5RE,Asia Vets,Healthcare Services, Healthcare Facilities & Services,Financial and Insurance Activities
+40B,HealthBank,Cyclical Consumer Services, Hotels,"Professional, Scientific and Technical Activities"
+564,Spindex Ind,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
+5MD,Soon Lian,Mineral Resources, Aluminum,Manufacturing
+S71,Sunright,Technology Equipment, Semiconductor Equipment & Testing,Manufacturing
+BJZ,Koda,Cyclical Consumer Products, Home Furnishings,Manufacturing
+C9Q,Sinostar Pec,Energy - Fossil Fuels, Oil & Gas Refining and Marketin,Manufacturing
+40E,Spackman,Cyclical Consumer Services, Entertainment Production,Financial and Insurance Activities
+K03,Khong Guan,Food & Beverages, Food Processing,Wholesale and Retail Trade
+S08,SingPost,Transportation, Air Freight & Logistics,Transportation and Storage
+5KI,Soup Holdings,Cyclical Consumer Services, Restaurants & Bars,Administrative and Support Service Activities
+5UA,Luminor,Banking & Investment Services, Consumer Lending,Real Estate Activities
+BLR,Darco Water Tech,Utilities, Water Utilities,Administrative and Support Service Activities
+5GD,Sunpower,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
+ZB9,UnionSteel,Mineral Resources, Iron & Steel,Wholesale and Retail Trade
+5WF,ISOTeam,Industrial & Commercial Services, Construction & Engineering,Construction
+K75,Koh Bros,Industrial & Commercial Services, Construction & Engineering,Construction
+500,Tai Sin Electric,Industrial Goods, Electrical Components & Equipment,Manufacturing
+5G3,TalkMed,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
+L23,Enviro-Hub,Industrial & Commercial Services, Environmental Services & Equipment,Financial and Insurance Activities
+T15,TCIL HK$,Transportation, Ground Freight & Logistics,Wholesale and Retail Trade
+T41,TeleChoice Intl,Technology Equipment, Phones & Handheld Devices,Wholesale and Retail Trade
+540,Tung Lok Rest,Cyclical Consumer Services, Restaurants & Bars,Accommodation and Food Service Activities
+BLU,GRP,Automobiles & Auto Parts, Tires & Rubber Products,Financial and Insurance Activities
+T14,TJ DaRenTang USD,Pharmaceuticals & Medical Research, Pharmaceuticals,Construction
+T55,TIH,Collective Investments, Closed End Funds,Financial and Insurance Activities
+KUO,Intl Cement,Mineral Resources, Construction Materials,Financial and Insurance Activities
+BFI,Tiong Seng,Industrial & Commercial Services, Construction & Engineering,Construction
+570,Abundante,Mineral Resources, Construction Materials,Manufacturing
+L38,AF Global,Cyclical Consumer Services, Hotels,Accommodation and Food Service Activities
+BQM,Tiong Woon,Industrial Goods, Heavy Machinery & Vehicles,Transportation and Storage
+5AB,Trek 2000 Intl,Technology Equipment, Computer Hardware,Information and Communications
+BQN,BH Global,Industrial Goods, Electrical Components & Equipment,Wholesale and Retail Trade
+LJ3,OUE,Real Estate, Real Estate Development & Operations,Accommodation and Food Service Activities
+40V,Alset,Real Estate, Real Estate Development & Operations,Financial and Insurance Activities
+LUY,Raffles Infrastructure,Industrial & Commercial Services, Construction & Engineering,Manufacturing
+KUH,TSH,Cyclical Consumer Services, Restaurants & Bars,Financial and Insurance Activities
+M01,Metro,Retailers, Department Stores,Administrative and Support Service Activities
+BRD,Sapphire,Industrial & Commercial Services, Construction & Engineering,"Professional, Scientific and Technical Activities"
+5G9,Tritech,Industrial & Commercial Services, Construction & Engineering,Construction
+M11,MFG Integration,Technology Equipment, Semiconductor Equipment & Testing,Manufacturing
+8K7,UGHealthcare,Healthcare Services, Medical Equipment,Manufacturing
+558,UMS,Technology Equipment, Semiconductor Equipment & Testing,Manufacturing
+EH5,UOA,Real Estate, Real Estate Development & Operations,Real Estate Activities
+BS6,YZJ Shipbldg SGD,Industrial Goods, Shipbuilding,Manufacturing
+M04,Man Oriental USD,Cyclical Consumer Services, Hotels,Accommodation and Food Service Activities
+544,CSE Global,Software & IT Services, IT Services & Consulting,Administrative and Support Service Activities
+T6I,ValueMax,Retailers, Apparel & Accessories Retailers,Financial and Insurance Activities
+V03,Venture,Technology Equipment, Electronic Equipment & Parts,Manufacturing
+BTG,HG Metal,Mineral Resources, Iron & Steel,Wholesale and Retail Trade
+546,Medtecs Intl,Healthcare Services, Medical Equipment,Manufacturing
+BTJ,A-Sonic Aero,Transportation, Air Freight & Logistics,Wholesale and Retail Trade
+40N,Versalink,Industrial & Commercial Services, Business Support Supplies,Manufacturing
+1Y1,9R,Industrial Goods, Industrial Machinery & Equipment,Mining and Quarrying
+9QX,BeverlyJCG,Healthcare Services, Healthcare Facilities & Services,Financial and Insurance Activities
+NC2,Sri Trang Agro,Automobiles & Auto Parts, Tires & Rubber Products,Manufacturing
+BN2,Valuetronics,Technology Equipment, Electronic Equipment & Parts,Manufacturing
+40T,ISEC,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
+MR7,Nordic,Industrial & Commercial Services, Construction & Engineering,"Professional, Scientific and Technical Activities"
+QZG,Accrelist Ltd,Technology Equipment, Computer Hardware,Wholesale and Retail Trade
+E3B,Wee Hur,Industrial & Commercial Services, Construction & Engineering,Construction
+5F7,Wilton Resources,Mineral Resources, Gold,Mining and Quarrying
+N32,Nippecraft,Applied Resources, Paper Products,Manufacturing
+A26,Sinarmas Land,Industrial & Commercial Services, Business Support Services,Real Estate Activities
+BDR,Willas-Array,Technology Equipment, Electronic Equipment & Parts,Wholesale and Retail Trade
+B49,World Precision,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
+W05,Wing Tai,Real Estate, Real Estate Development & Operations,Real Estate Activities
+BPF,YHI Intl,Automobiles & Auto Parts, Auto,Manufacturing
+Y03,Yeo Hiap Seng,Food & Beverages, Food Processing,Manufacturing
+NHD,Jubilee,Industrial Goods, Industrial Machinery & Equipment,Financial and Insurance Activities
+BKX,Yongmao,Industrial Goods, Heavy Machinery & Vehicles,Manufacturing
+5SR,Zhongmin Baihui,Retailers, Department Stores,Real Estate Activities
+C2PU,,,,
+NS8U,,,,
+584,AJJ Medtech,Healthcare Services, Advanced Medical Equipment & Technology,"Professional, Scientific and Technical Activities"
+594,CapAllianz,Energy - Fossil Fuels, Integrated Oil & Gas,Mining and Quarrying
+CEDU,,,,
+NR7,Raffles Edu,Academic & Educational Services, Professional & Business Education,Education
+5HT,Imperium Crown,Real Estate, Real Estate Development & Operations,Real Estate Activities
+42E,Choo Chiang,Industrial Goods, Electrical Components & Equipment,Wholesale and Retail Trade
+NO4,Dyna-Mac,Energy - Fossil Fuels, Oil Related Services and Equipme,Manufacturing
+42F,Totm Tech,Financial Technology (Fintech) & Infrastructure, Financial Technology (Fintech),Information and Communications
+42C,IX Biopharma,Pharmaceuticals & Medical Research, Pharmaceuticals,"Professional, Scientific and Technical Activities"
+BCZ,Travelite,Retailers, Apparel & Accessories Retailers,Wholesale and Retail Trade
+A7RU,,,,
+42L,Taka Jewellery,Retailers, Apparel & Accessories Retailers,Wholesale and Retail Trade
+BJD,VibroPower,Utilities, Electric Utilities,Manufacturing
+Q01,QAF,Food & Beverages, Food Processing,Manufacturing
+BKK,Luxking,Chemicals, Specialty Chemicals,Manufacturing
+42T,Trendlines,Banking & Investment Services, Investment Management & Fund Operators,"Professional, Scientific and Technical Activities"
+O39,OCBC Bank,Banking & Investment Services, Banks,Financial and Insurance Activities
+Q0F,IHH,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
+42Z,Eindec,Industrial & Commercial Services, Environmental Services & Equipment,Financial and Insurance Activities
+43A,GS Hldg,Cyclical Consumer Services, Restaurants & Bars,Financial and Insurance Activities
+Q5T,,,,
+RQ1,Overseas Edu,Academic & Educational Services, Miscellaneous Educational Service Providers,Education
+5AI,H2G Green,Cyclical Consumer Products, Home Furnishings,Wholesale and Retail Trade
+ADN,First Sponsor,Real Estate, Real Estate Development & Operations,Real Estate Activities
+S61,SBS Transit,Transportation, Passenger Transportation,Transportation and Storage
+43E,VCPlus,Mineral Resources, Construction Materials,Manufacturing
+S7OU,,,,
+5CF,OKP,Industrial & Commercial Services, Construction & Engineering,Construction
+43B,Secura,Industrial & Commercial Services, Business Support Services,Transportation and Storage
+BQP,Southern Pkg,Applied Resources, Non-Paper Containers & Packaging,Manufacturing
+43F,AcroMeta,Industrial & Commercial Services, Construction & Engineering,Health and Social Services
+5CP,Silverlake Axis,Financial Technology (Fintech) & Infrastructure, Financial Technology (Fintech),Information and Communications
+RDR,Incredible,Technology Equipment, Electronic Equipment & Parts,Administrative and Support Service Activities
+BTOU,,,,
+5CR,Asiatic,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
+42W,Zixin,Food & Beverages, Food Processing,Manufacturing
+BUOU,,,,
+BVA,Top Glove,Healthcare Services, Medical Equipment,Manufacturing
+42N,IPS Securex,Technology Equipment, Communications & Networking,"Professional, Scientific and Technical Activities"
+43Q,Advancer Global,Industrial & Commercial Services, Employment Services,Administrative and Support Service Activities
+5DP,Heeton,Real Estate, Real Estate Development & Operations,Real Estate Activities
+5DX,Meta Health,Mineral Resources, Iron & Steel,Manufacturing
+1A0,Katrina,Cyclical Consumer Services, Restaurants & Bars,Accommodation and Food Service Activities
+BWM,Zheneng Jinjiang,Renewable Energy, Renewable Energy Equipment & Services,"Water Supply; Sewerage, Waste Management and Remediation Activities"
+BWCU,,,,
+S51,,,,
+1A1,Wong Fong Ind,Industrial Goods, Industrial Machinery & Equipment,"Professional, Scientific and Technical Activities"
+1A4,AGV,Holding Companies, Investment Holding Companies,Other Service Activities
+5EV,Hosen,Food & Drug Retailing, Food Retail & Distribution,Wholesale and Retail Trade
+D5IU,,,,
+A52,AnnAik,Mineral Resources, Iron & Steel,Wholesale and Retail Trade
+S59,SIA Engineering,Transportation, Airport Services,Manufacturing
+5FW,Acesian Partners,Industrial & Commercial Services, Environmental Services & Equipment,Construction
+533,ABR,Food & Beverages, Food Processing,Wholesale and Retail Trade
+CY6U,,,,
+5G2,Kim Heng,Energy - Fossil Fuels, Oil Related Services and Equipme,Mining and Quarrying
+S7P,Soilbuild Const,Industrial & Commercial Services, Construction & Engineering,Construction
+HMN,,,,
+5UL,Atlantic Nav,Energy - Fossil Fuels, Oil Related Services and Equipme,Mining and Quarrying
+A05,AVJennings A$,Real Estate, Real Estate Development & Operations,Real Estate Activities
+SES,Shanaya,Industrial & Commercial Services, Environmental Services & Equipment,Manufacturing
+J91U,,,,
+AU8U,,,,
+J69U,,,,
+5GJ,AusGroup,Energy - Fossil Fuels, Oil Related Services and Equipme,Manufacturing
+42R,Jumbo,Cyclical Consumer Services, Restaurants & Bars,Accommodation and Food Service Activities
+AW9U,,,,
+D8DU,,,,
+5VP,GDS Global,Cyclical Consumer Products, Construction Supplies & Fixtures,
+5PD,Hengyang Petro,Energy - Fossil Fuels, Oil & Gas Transportation Servic,Transportation and Storage
+5OR,Heatec Jietong,Industrial Goods, Electrical Components & Equipment,Manufacturing
+5GZ,HGH,Mineral Resources, Construction Materials,Manufacturing
+J03,Jadason,Technology Equipment, Semiconductors,Wholesale and Retail Trade
+K71U,,,,
+AJBU,,,,
+T24,Tuan Sing,Real Estate, Real Estate Development & Operations,Real Estate Activities
+N2IU,,,,
+ME8U,,,,
+M44U,,,,
+NPW,MSC,Mineral Resources, Specialty Mining & Metals,Manufacturing
+1B6,Ocean Sky Intl,Industrial & Commercial Services, Construction & Engineering,Financial and Insurance Activities
+YYN,PlatoCapital,Software & IT Services, IT Services & Consulting,Financial and Insurance Activities
+OU8,Centurion,Real Estate, Real Estate Development & Operations,Accommodation and Food Service Activities
+5AE,Pollux Prop,Real Estate, Real Estate Development & Operations,Real Estate Activities
+M1GU,,,,
+S07,Shangri-La HKD,Cyclical Consumer Services, Hotels,Accommodation and Food Service Activities
+OV8,Sheng Siong,Food & Drug Retailing, Food Retail & Distribution,Wholesale and Retail Trade
+5LE,Sitra,Applied Resources, Forest & Wood Products,Manufacturing
+P40U,,,,
+569,Vicplas Intl,Healthcare Services, Medical Equipment,Manufacturing
+P36,Pan Hong,Real Estate, Real Estate Development & Operations,Real Estate Activities
+1B1,HC Surgical,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
+SK6U,,,,
+1D0,Kimly,Cyclical Consumer Services, Restaurants & Bars,Accommodation and Food Service Activities
+PA3,TA,Real Estate, Real Estate Development & Operations,Construction
+596,Pavillon,Cyclical Consumer Services, Restaurants & Bars,Accommodation and Food Service Activities
+1D4,Aoxin Q & M,Healthcare Services, Healthcare Facilities & Services,
+1E3,Sanli Env,Industrial & Commercial Services, Construction & Engineering,"Water Supply; Sewerage, Waste Management and Remediation Activities"
+P52,PanUnited,Mineral Resources, Construction Materials,Manufacturing
+TS0U,,,,
+CHZ,HRnetGroup,Industrial & Commercial Services, Employment Services,Administrative and Support Service Activities
+1F0,Shopper360,Cyclical Consumer Services, Advertising & Marketing,"Professional, Scientific and Technical Activities"
+P8A,Cordlife,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
+1F1,Y Ventures,Software & IT Services, Internet Services,Wholesale and Retail Trade
+CLN,APAC Realty,Real Estate, Real Estate Services,Real Estate Activities
+U06,SingaporeLandGrp,Real Estate, Real Estate Development & Operations,Real Estate Activities
+PH0,Hatten Land,Real Estate, Real Estate Development & Operations,Real Estate Activities
+CNE,MindChamps,Personal & Household Products & Services, Personal Services,"Professional, Scientific and Technical Activities"
+1G1,RE&S Hldg,Cyclical Consumer Services, Restaurants & Bars,Financial and Insurance Activities
+QC7,Q&M Dental,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
+U10,UOB Kay Hian,Banking & Investment Services, Investment Banking & Brokerage Services,Financial and Insurance Activities
+1H3,Clearbridge,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
+1H8,LY Corp,Cyclical Consumer Products, Home Furnishings,Manufacturing
+U11,UOB,Banking & Investment Services, Banks,Financial and Insurance Activities
+AWG,Ascent Bridge,Mineral Resources, Aluminum,Manufacturing
+CRPU,,,,
+R14,Eneco Energy,Energy - Fossil Fuels, Integrated Oil & Gas,Transportation and Storage
+U13,UOI,Insurance, Multiline Insurance & Brokers,Financial and Insurance Activities
+CMOU,,,,
+1J5,Hyphens Pharma,Pharmaceuticals & Medical Research, Pharmaceuticals,Wholesale and Retail Trade
+U14,UOL,Real Estate, Real Estate Development & Operations,Real Estate Activities
+QS9,G Invacom,Technology Equipment, Communications & Networking,Financial and Insurance Activities
+1J0,SLB Dev,Real Estate, Real Estate Development & Operations,Real Estate Activities
+8YY,Biolidics,Healthcare Services, Advanced Medical Equipment & Technology,"Professional, Scientific and Technical Activities"
+U96,Sembcorp Ind,Utilities, Multiline Utilities,"Electricity, Gas, Steam and Air-Conditioning Supply"
+5EG,Zhongxin Fruit,Food & Beverages, Food Processing,Manufacturing
+PRH,Livingstone,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
+JLB,Grand Venture,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
+5G4,Rich Capital,Real Estate, Real Estate Development & Operations,Real Estate Activities
+543,Noel Gifts Intl,Retailers, Miscellaneous Specialty Retailers,Wholesale and Retail Trade
+K6S,Prudential USD,Insurance, Life & Health Insurance,Financial and Insurance Activities
+5G1,EuroSports Gbl,Retailers, Auto Vehicles,Wholesale and Retail Trade
+OMK,Vividthree,Cyclical Consumer Services, Entertainment Production,Information and Communications
+585,Asian Micro,Utilities, Natural Gas Utilities,Wholesale and Retail Trade
+5VI,Boldtek,Real Estate, Real Estate Development & Operations,Construction
+5JK,Hiap Hoe,Real Estate, Real Estate Development & Operations,Real Estate Activities
+V2Y,V2Y Corp,Insurance, Multiline Insurance & Brokers,Financial and Insurance Activities
+5WG,SingaporeKitchen,Cyclical Consumer Products, Appliances,Manufacturing
+URR,Sim Leisure,Cyclical Consumer Services, Leisure & Recreation,"Arts, Entertainment & Recreation"
+5MZ,KingsmenCreative,Industrial & Commercial Services, Business Support Services,"Professional, Scientific and Technical Activities"
+S3N,OKH Global,Industrial & Commercial Services, Construction & Engineering,Real Estate Activities
+OAJ,FortressMinerals,Mineral Resources, Iron & Steel,Mining and Quarrying
+AWK,Fuxing China,Cyclical Consumer Products, Apparel & Accessories,Manufacturing
+5TI,SDAI,Retailers, Home Furnishings Retailers,Wholesale and Retail Trade
+5SY,OneApex,Real Estate, Real Estate Services,Financial and Insurance Activities
+SJY,MeGroup,Automobiles & Auto Parts, Auto,Financial and Insurance Activities
+NEX,Reclaims Global,Industrial & Commercial Services, Environmental Services & Equipment,Construction
+XZL,,,,
+9I7,Bromat,,,Accommodation and Food Service Activities
+VVL,AlphaDX,Software & IT Services, IT Services & Consulting,Information and Communications
+S44,EnGro,Mineral Resources, Construction Materials,Manufacturing
+S58,SATS,Transportation, Airport Services,Manufacturing
+MIJ,Alliance HC,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
+CYW,TrickleStar,Industrial Goods, Electrical Components & Equipment,Manufacturing
+ACV,,,,
+WJP,VICOM Ltd,Industrial & Commercial Services, Business Support Services,Other Service Activities
+DRX,ST Group Food,Cyclical Consumer Services, Restaurants & Bars,Accommodation and Food Service Activities
+JYEU,,,,
+AIY,IFAST,Financial Technology (Fintech) & Infrastructure, Financial Technology (Fintech),Information and Communications
+S85,Straco,Cyclical Consumer Services, Leisure & Recreation,"Arts, Entertainment & Recreation"
+MXNU,,,,
+B28,Bonvests,Cyclical Consumer Services, Hotels,Real Estate Activities
+S9B,Amcorp Global,Real Estate, Real Estate Development & Operations,Real Estate Activities
+GRQ,Don Agro,Food & Beverages, Fishing & Farming,Agriculture and Fishing
+AWZ,Multi-Chem,Technology Equipment, Computer Hardware,Information and Communications
+Y45,SMI Vantage,Transportation, Airport Services,Financial and Insurance Activities
+TWL,Memiontec Hldgs,Industrial & Commercial Services, Construction & Engineering,"Water Supply; Sewerage, Waste Management and Remediation Activities"
+HKB,AMTD IDEA OV,Banking & Investment Services, Investment Management & Fund Operators,Financial and Insurance Activities
+AYV,Acma,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
+Y8E,Samurai 2K,Chemicals, Commodity Chemicals,Financial and Insurance Activities
+5RC,ES,Industrial Goods, Shipbuilding,Construction
+508,Fuji Offset,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
+Y92,ThaiBev,Food & Beverages, Distillers & Wineries,Manufacturing
+B26,Ban Leong,Technology Equipment, Computer Hardware,Wholesale and Retail Trade
+M15,Matex Intl,Chemicals, Specialty Chemicals,Wholesale and Retail Trade
+FRQ,Sing Paincare,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
+BEH,China Intl,Industrial & Commercial Services, Construction & Engineering,Construction
+Z77,Singtel 10,Telecommunications Services, Integrated Telecommunications Services,Information and Communications
+5ML,Old Chang Kee,Cyclical Consumer Services, Restaurants & Bars,Accommodation and Food Service Activities
+ZXY,Alpina Holdings,Industrial & Commercial Services, Construction & Engineering,Financial and Insurance Activities
+1B0,MM2 Asia,Cyclical Consumer Services, Entertainment Production,Information and Communications
+BFT,Lincotrade,Retailers, Home Improvement Products & Services Retailers,Manufacturing
+BQF,XMH,Industrial Goods, Electrical Components & Equipment,Wholesale and Retail Trade
+1D1,UnUsUaL,Cyclical Consumer Services, Leisure & Recreation,"Arts, Entertainment & Recreation"
+BN4,Keppel,Consumer Goods Conglomerates, Consumer Goods Conglomerates,Manufacturing
+1F2,Union Gas,Utilities, Natural Gas Utilities,Wholesale and Retail Trade
+1F3,Aspen,Real Estate, Real Estate Development & Operations,Real Estate Activities
+5QY,Net Pacific Fin,Banking & Investment Services, Corporate Financial Services,Financial and Insurance Activities
+PPC,ProsperCap,Cyclical Consumer Services, Hotels,Accommodation and Food Service Activities
+1J4,JEP,Industrial & Commercial Services, Construction & Engineering,Manufacturing
+1MZ,NamCheong,Industrial Goods, Shipbuilding,Manufacturing
+C38U,,,,
+1J7,Jawala,Applied Resources, Forest & Wood Products,Agriculture and Fishing
+CIN,Courage Inv,Transportation, Marine Freight & Logistics,Transportation and Storage
+5TJ,Far East,Industrial Goods, Electrical Components & Equipment,Manufacturing
+41F,GSS Energy,Industrial Goods, Industrial Machinery & Equipment,Mining and Quarrying
+5EB,CFM,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
+D05,DBS,Banking & Investment Services, Banks,Financial and Insurance Activities
+41H,BlackGoldNatural,Energy - Fossil Fuels, Coal,Financial and Insurance Activities
+41O,LHN,Real Estate, Real Estate Development & Operations,Real Estate Activities
+DM0,PSC Corporation,Applied Resources, Paper Packaging,Wholesale and Retail Trade
+5WH,Rex Intl,Energy - Fossil Fuels, Oil & Gas Exploration and Productio,Mining and Quarrying
+F99,F & N,Food & Beverages, Food Processing,Manufacturing
+5WJ,MoneyMax Fin,Retailers, Apparel & Accessories Retailers,Financial and Insurance Activities
+ER0,KSH,Industrial & Commercial Services, Construction & Engineering,Real Estate Activities
+580,Santak,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
+TCU,CreditBureauAsia,Industrial & Commercial Services, Professional Information Services,Administrative and Support Service Activities
+XVG,Aedge Group,Industrial & Commercial Services, Construction & Engineering,Financial and Insurance Activities
+A04,ASL Marine,Industrial Goods, Shipbuilding,Manufacturing
+42D,NauticAWT,Cyclical Consumer Services, Restaurants & Bars,Wholesale and Retail Trade
+XJB,GHY Culture,Cyclical Consumer Services, Entertainment Production,Information and Communications
+42S,Astaka,Real Estate, Real Estate Development & Operations,Real Estate Activities
+I15,Isetan,Retailers, Department Stores,Wholesale and Retail Trade
+505,AsiaMedic,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
+A50,Thomson Medical,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
+49B,AMOS Group,Industrial Goods, Industrial Machinery & Equipment,"Professional, Scientific and Technical Activities"
+J36,JMH USD,Consumer Goods Conglomerates, Consumer Goods Conglomerates,"Professional, Scientific and Technical Activities"
+K29,Karin Tech,Technology Equipment, Computer Hardware,Information and Communications
+A78,Shen Yao,Mineral Resources, Gold,Mining and Quarrying
+8AZ,Aztech Gbl,Technology Equipment, Electronic Equipment & Parts,Manufacturing
+AOF,Amplefield Ltd,Real Estate, Real Estate Development & Operations,"Professional, Scientific and Technical Activities"
+504,HS Optimus,Cyclical Consumer Products, Home Furnishings,Manufacturing
+EHG,Econ Healthcare,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
+M05,MTQ,Energy - Fossil Fuels, Oil Related Services and Equipme,Financial and Insurance Activities
+AP4,Riverstone,Healthcare Services, Medical Equipment,Manufacturing
+541,Abundance Intl,Industrial & Commercial Services, Commercial Printing Services,Wholesale and Retail Trade
+532,DISA,Software & IT Services, Software,"Professional, Scientific and Technical Activities"
+AWC,Brook Crompton,Industrial Goods, Electrical Components & Equipment,Manufacturing
+O08,Ossia Intl,Retailers, Apparel & Accessories Retailers,Wholesale and Retail Trade
+566,SHS,Industrial & Commercial Services, Construction & Engineering,Manufacturing
+AWI,Thakral,Real Estate, Real Estate Development & Operations,Wholesale and Retail Trade
+AXB,Yongnam,Industrial & Commercial Services, Construction & Engineering,Construction
+P15,Pacific Century,Holding Companies, Investment Holding Companies,Financial and Insurance Activities
+N0Z,Combine Will,Personal & Household Products & Services, Personal Products,Manufacturing
+1H2,Olive Tree,Real Estate, Real Estate Development & Operations,Real Estate Activities
+P8Z,Bumitama Agri,Food & Beverages, Food Processing,Agriculture and Fishing
+579,Oceanus,Food & Drug Retailing, Food Retail & Distribution,Agriculture and Fishing
+575,ASTI,Technology Equipment, Semiconductor Equipment & Testing,Manufacturing
+B69,Broadway Ind,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
+5QR,MSM Intl,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
+595,GKE,Transportation, Air Freight & Logistics,Transportation and Storage
+BAZ,Lion Asiapac,Mineral Resources, Construction Materials,Manufacturing
+BEC,BRC Asia,Cyclical Consumer Products, Construction Supplies & Fixtures,Manufacturing
+BCD,China Yuanbang,Real Estate, Real Estate Development & Operations,Real Estate Activities
+STG,Sri Trang Gloves,Healthcare Services, Medical Equipment,Manufacturing
+581,Sunrise Shares,Real Estate, Real Estate Services,Wholesale and Retail Trade
+BCV,Qian Hu,Food & Beverages, Fishing & Farming,Agriculture and Fishing
+S68,SGX,Banking & Investment Services, Financial & Commodity Market Operators,Financial and Insurance Activities
+5AL,Annica,Energy - Fossil Fuels, Oil Related Services and Equipme,Manufacturing
+5AU,AP Oil,Chemicals, Specialty Chemicals,Manufacturing
+S69,Serial System,Industrial Goods, Electrical Components & Equipment,Wholesale and Retail Trade
+5EF,Adventus,Real Estate, Real Estate Development & Operations,Administrative and Support Service Activities
+T12,Tat Seng Pkg,Applied Resources, Paper Packaging,Manufacturing
+5DM,Ying Li Intl,Real Estate, Real Estate Development & Operations,Real Estate Activities
+U09,Avarga,Cyclical Consumer Products, Construction Supplies & Fixtures,Manufacturing
+T82U,,,,
+OTS,OTS Holdings,Food & Beverages, Food Processing,Manufacturing
+1AZ,Audience,Cyclical Consumer Services, Consumer Publishing,Information and Communications
+UD2,Japfa,Food & Beverages, Food Processing,Agriculture and Fishing
+5DO,Sakae,Cyclical Consumer Services, Restaurants & Bars,Accommodation and Food Service Activities
+Y06,Green Build,Industrial & Commercial Services, Construction & Engineering,"Professional, Scientific and Technical Activities"
+WVJ,Ntegrator Hldg,Retailers, Apparel & Accessories Retailers,Information and Communications
+9CI,CapitaLandInvest,Real Estate, Real Estate Services,Financial and Insurance Activities
+VI2,TC Auto,Automobiles & Auto Parts, Auto & Truck Manufacturers,Wholesale and Retail Trade
+WPC,Vallianz,Transportation, Marine Freight & Logistics,Financial and Insurance Activities
+DHLU,,,,
+1V3,Mooreast,Mineral Resources, Iron & Steel,"Professional, Scientific and Technical Activities"
+Z74,Singtel,Telecommunications Services, Integrated Telecommunications Services,Information and Communications
+Y35,AnAn Intl,Energy - Fossil Fuels, Oil & Gas Refining and Marketin,Wholesale and Retail Trade
+YF8,YZJ Fin Hldg,Banking & Investment Services, Investment Management & Fund Operators,Financial and Insurance Activities
+Z59,Yoma Strategic,Real Estate, Real Estate Development & Operations,Real Estate Activities
+1R6,Avi-Tech Hldg,Technology Equipment, Semiconductors,Financial and Insurance Activities
+B9S,CosmoSteel,Mineral Resources, Iron & Steel,Wholesale and Retail Trade
+BAI,Digilife Tech,Telecommunications Services, Integrated Telecommunications Services,Wholesale and Retail Trade
+HQU,Oiltek,Food & Beverages, Food Processing,Manufacturing
+BDX,GSH,Industrial & Commercial Services, Business Support Services,Real Estate Activities
+BCY,Powermatic Data,Technology Equipment, Communications & Networking,Real Estate Activities
+ENV,LS 2 Holdings,Industrial & Commercial Services, Environmental Services & Equipment,Financial and Insurance Activities
+BEZ,Beng Kuang,Industrial & Commercial Services, Construction & Engineering,Manufacturing
+BEI,LHT,Applied Resources, Forest & Wood Products,Manufacturing
+LVR,17LIVE GROUP,Software & IT Services, Internet Services,Financial and Insurance Activities
+BFU,Tye Soon,Automobiles & Auto Parts, Auto,Wholesale and Retail Trade
+BIP,Vibrant Group,Transportation, Air Freight & Logistics,Transportation and Storage
+VC2,Olam Group,Food & Beverages, Food Processing,Wholesale and Retail Trade
+NXR,iWOW Tech,Technology Equipment, Integrated Hardware & Software,Information and Communications
+BJV,Yamada Green Res,Food & Beverages, Food Processing,Agriculture and Fishing
+BLH,Hai Leck,Industrial & Commercial Services, Business Support Services,Mining and Quarrying
+NLC,5E Resources,Industrial & Commercial Services, Environmental Services & Equipment,"Water Supply; Sewerage, Waste Management and Remediation Activities"
+NIO,NIO Inc. USD OV,Automobiles & Auto Parts, Auto & Truck Manufacturers,Manufacturing
+BKV,Shenshan,Food & Beverages, Fishing & Farming,Manufacturing
+BMGU,,,,
+EMI,Emperador Inc.,Food & Beverages, Distillers & Wineries,Manufacturing
+BQC,A-Smart,Industrial & Commercial Services, Commercial Printing Services,Manufacturing
+BKZ,Suntar Eco-City,Pharmaceuticals & Medical Research, Pharmaceuticals,Manufacturing
+V8Y,Quantum Health,Healthcare Services, Healthcare Facilities & Services,Financial and Insurance Activities
+SEJ,NoonTalk Media,Cyclical Consumer Services, Entertainment Production,Information and Communications
+BXE,CDW,Technology Equipment, Electronic Equipment & Parts,Manufacturing
+BQD,Envictus,Cyclical Consumer Services, Restaurants & Bars,Manufacturing
+YK9,YKGI,Cyclical Consumer Services, Restaurants & Bars,Financial and Insurance Activities
+T43,Yunnan Energy,Cyclical Consumer Products, Construction Supplies & Fixtures,Wholesale and Retail Trade
+BSL,Raffles Medical,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
+BVQ,Procurri,Software & IT Services, IT Services & Consulting,Wholesale and Retail Trade
+TPED,,,,
+TCPD,,,,
+C09,CityDev,Real Estate, Real Estate Development & Operations,Real Estate Activities
+CC3,StarHub,Telecommunications Services, Wireless Telecommunications Services,Information and Communications
+TATD,,,,
+UUK,Pasture Holdings,Healthcare Services, Advanced Medical Equipment & Technology,Wholesale and Retail Trade
+CJLU,,,,
+C41,Cortina,Retailers, Apparel & Accessories Retailers,"Professional, Scientific and Technical Activities"
+NPL,Niks Prof,Personal & Household Products & Services, Personal Services,Health and Social Services
+CTO,Hong Lai Huat,Real Estate, Real Estate Development & Operations,Real Estate Activities
+DCRU,,,,
+9G2,SAM Holdings,,,Health and Social Services
+D03,Del Monte Pac,Food & Beverages, Food Processing,Wholesale and Retail Trade
+CWBU,,,,
+H22,Hong Leong Asia,Automobiles & Auto Parts, Auto,Manufacturing
+F1E,Low Keng Huat,Industrial & Commercial Services, Construction & Engineering,Construction
+E5H,Golden Agri-Res,Food & Beverages, Food Processing,Agriculture and Fishing
+DU4,Mermaid Maritime,Energy - Fossil Fuels, Oil & Gas Exploration and Productio,Mining and Quarrying
+H02,Haw Par,Pharmaceuticals & Medical Research, Pharmaceuticals,Manufacturing
+H15,HPL,Cyclical Consumer Services, Hotels,Accommodation and Food Service Activities
+L02,Metis Energy,Utilities, Electric Utilities,Administrative and Support Service Activities
+MZH,Nanofilm,Chemicals, Specialty Chemicals,Manufacturing
+O9E,Parkson Retail,Retailers, Department Stores,Financial and Insurance Activities
+J85,,,,
+J2T,Hock Lian Seng,Industrial & Commercial Services, Construction & Engineering,Construction
+5OQ,Teho Intl,Industrial Goods, Industrial Machinery & Equipment,Wholesale and Retail Trade
+LYY,SinoCloud Grp,Software & IT Services, IT Services & Consulting,Information and Communications
+KUX,OIO,Financial Technology (Fintech) & Infrastructure, Blockchain & Cryptocurrency,Manufacturing
+LS9,Leader Env,Industrial & Commercial Services, Environmental Services & Equipment,"Professional, Scientific and Technical Activities"
+N01,NeraTel,Technology Equipment, Communications & Networking,Information and Communications
+MV4,Mewah Intl,Food & Beverages, Food Processing,Manufacturing
+P34,Delfi,Food & Beverages, Food Processing,Manufacturing
+P9D,Civmec,Industrial & Commercial Services, Construction & Engineering,Manufacturing
+OXMU,,,,
+O5RU,,,,
+OYY,PropNex,Real Estate, Real Estate Services,Real Estate Activities
+S20,Straits Trading,Mineral Resources, Specialty Mining & Metals,Real Estate Activities
+ODBU,,,,
+P74,ChinaKangdaFood,Food & Beverages, Food Processing,Manufacturing
+OTX,Medinex,Industrial & Commercial Services, Business Support Services,Health and Social Services
+QES,ChinaSunsine,Chemicals, Specialty Chemicals,Manufacturing
+RCU,Revez,Software & IT Services, IT Services & Consulting,Financial and Insurance Activities
+S29,Stamford Tyres,Automobiles & Auto Parts, Tires & Rubber Products,Manufacturing
+QNS,SouthernAlliance,Mineral Resources, Iron & Steel,Mining and Quarrying
+S19,SingShipping,Industrial Goods, Shipbuilding,Administrative and Support Service Activities
+QSD,,,,
+UD1U,,,,
+ZKX,Ever Glory,Industrial & Commercial Services, Construction & Engineering,Construction
+SGR,Sheffield Green,Industrial & Commercial Services, Employment Services,Administrative and Support Service Activities
+WKS,WinkingStudios,Industrial & Commercial Services, Business Support Services,Information and Communications
+LMS,LMS Compliance,Industrial & Commercial Services, Business Support Services,"Professional, Scientific and Technical Activities"
+STC,Comba,Technology Equipment, Communications & Networking,Information and Communications
