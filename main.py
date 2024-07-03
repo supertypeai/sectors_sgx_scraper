@@ -4,6 +4,7 @@ import pandas as pd
 from multiprocessing import Process
 import os
 import time
+from json import loads, dumps
 
 if __name__ == "__main__":
 
@@ -52,7 +53,10 @@ if __name__ == "__main__":
   cwd = os.getcwd()
   data_dir = os.path.join(cwd, "data")
   
-  df_final.to_json(orient="records", indent=2)
+  result_json = df_final.to_json(orient="records")
+  parsed_json = loads(result_json)
+  dumps(parsed_json, indent=2)
+  
   df_final.to_csv(os.path.join(data_dir, "final_data.csv"), index=False)
 
   # End time
