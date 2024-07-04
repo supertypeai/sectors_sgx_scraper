@@ -19,6 +19,12 @@ BASE_URL = "https://investors.sgx.com/_security-types/stocks/"
 ALT_BASE_URL_1 = "https://investors.sgx.com/_security-types/reits/"
 ALT_BASE_URL_2 = "https://investors.sgx.com/_security-types/businesstrusts/"
 
+# Make the list of possible link
+LINK_ARR = {
+  "BASE_URL": BASE_URL, 
+  "ALT_BASE_URL_1" : ALT_BASE_URL_1, 
+  "ALT_BASE_URL_2" : ALT_BASE_URL_2
+}
 SYMBOL_LIST_MAP = {
   "C70" : "C09", # City Development
   '5TY' : "WJ9",  # Advanced System Automation
@@ -53,7 +59,7 @@ def read_page(url: str) -> BeautifulSoup | None:
   try:
     session = HTMLSession()
     response = session.get(url)
-    response.html.render(sleep=2, timeout=20)
+    response.html.render(sleep=5, timeout=10)
 
     soup = BeautifulSoup(response.html.html, "html.parser")
     return soup
@@ -138,9 +144,6 @@ def scrap_function(symbol_list, process_idx):
   start_idx = 0
   count = 0
 
-  # Make the list of possible link
-  link_arr = [BASE_URL, ALT_BASE_URL_1, ALT_BASE_URL_2]
-
   # Iterate in symbol list
   for i in range(start_idx, len(symbol_list)):
     attempt_count = 1
@@ -151,17 +154,28 @@ def scrap_function(symbol_list, process_idx):
       symbol = SYMBOL_LIST_MAP[symbol]
 
     if (symbol is not None):
-      for base in link_arr:
-        scrapped_data = scrap_stock_page(base, symbol)
+      scrapped_data = {
+        "stock_code" : symbol,
+        "name" : None,
+        "industry" : None,
+        "sub_industry" : None,
+        "sector" : None
+      }
 
-        # Handling for page that returns None although it should not
-        while (scrapped_data['industry'] is None and scrapped_data['sector'] is None and attempt_count <= 5):
-          print("==> Restart scraping process")
-          scrapped_data = scrap_stock_page(base, symbol)
-          attempt_count += 1
+      # Handling for page that returns None although it should not
+      while (scrapped_data['industry'] is None and scrapped_data['sector'] is None and attempt_count <= 5):
         
-        if (scrapped_data['industry'] is not None and scrapped_data['sector'] is not None):
-          break
+        # Iterate among possible URLs
+        for key, base in LINK_ARR.items():
+          print(f"Try scraping {symbol} using {key}")
+          scrapped_data = scrap_stock_page(base, symbol)
+
+          if (scrapped_data['industry'] is not None and scrapped_data['sector'] is not None):
+            break
+
+        if (scrapped_data['industry'] is None and scrapped_data['sector'] is None):
+          print(f"Data not found! Retrying.. Attempt: {attempt_count}")
+        attempt_count += 1
 
       all_data.append(scrapped_data)
 
