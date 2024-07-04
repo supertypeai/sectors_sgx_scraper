@@ -16,6 +16,8 @@ logging.getLogger('requests_html').setLevel(logging.WARNING)
 # Setup Constant 
 SCREENER_API_URL = "https://api.sgx.com/stockscreener/v1.0/all?params=exchange%2CexchangeCountryCode%2CcompanyName%2CstockCode%2CricCode%2CmarketCapitalization%2CsalesTTM%2CpriceToEarningsRatio%2CdividendYield%2CfourWeekPricePercentChange%2CthirteenWeekPricePercentChange%2CtwentySixWeekPricePercentChange%2CfiftyTwoWeekPricePercentChange%2CnetProfitMargin%2CreturnOnAvgCommonEquity%2CpriceToCashFlowPerShareRatio%2CtotalDebtToTotalEquityRatio%2CsalesPercentageChange%2Csector%2CpriceToBookRatio%2CpriceCurrCode"
 BASE_URL = "https://investors.sgx.com/_security-types/stocks/"
+ALT_BASE_URL_1 = "https://investors.sgx.com/_security-types/reits/"
+ALT_BASE_URL_2 = "https://investors.sgx.com/_security-types/businesstrusts/"
 
 def get_screener_page_data() -> bytes | None:
   try:
@@ -30,8 +32,8 @@ def get_screener_page_data() -> bytes | None:
     return None
 
 
-def get_url(symbol: str) -> str:
-  return f"{BASE_URL}{symbol}"
+def get_url(base_url: str, symbol: str) -> str:
+  return f"{base_url}{symbol}"
 
 def read_page(url: str) -> BeautifulSoup | None:
   try:
@@ -48,8 +50,8 @@ def read_page(url: str) -> BeautifulSoup | None:
     session.close()
     print(f"Session in {url} is closed")
 
-def scrap_stock_page(symbol: str) -> dict | None:
-  url = get_url(symbol)
+def scrap_stock_page(base_url, symbol: str) -> dict | None:
+  url = get_url(base_url, symbol)
   soup = read_page(url)
 
   industry = None
@@ -122,18 +124,26 @@ def scrap_function(symbol_list, process_idx):
   start_idx = 0
   count = 0
 
+  # Make the list of possible link
+  link_arr = [BASE_URL, ALT_BASE_URL_1, ALT_BASE_URL_2]
+
   # Iterate in symbol list
   for i in range(start_idx, len(symbol_list)):
-    attempt_count = 0
+    attempt_count = 1
     symbol = symbol_list[i]
     if (symbol is not None):
-      scrapped_data = scrap_stock_page(symbol)
+      for base in link_arr:
+        scrapped_data = scrap_stock_page(base, symbol)
 
-      # Handling for page that returns None although it should not
-      while (scrapped_data['industry'] is None and scrapped_data['sector'] is None and attempt_count < 3):
-        scrapped_data = scrap_stock_page(symbol)
-        attempt_count += 1
-  
+        # Handling for page that returns None although it should not
+        while (scrapped_data['industry'] is None and scrapped_data['sector'] is None and attempt_count <= 3):
+          print("==> Restart scraping process")
+          scrapped_data = scrap_stock_page(base, symbol)
+          attempt_count += 1
+        
+        if (scrapped_data['industry'] is not None and scrapped_data['sector'] is not None):
+          break
+
       all_data.append(scrapped_data)
 
     if (i % 10 == 0 and count != 0):
