@@ -211,10 +211,10 @@
   },
   {
     "stock_code": "AXB",
-    "name": "",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
+    "name": "Yongnam",
+    "industry": "Industrial & Commercial Services",
+    "sub_industry": " Construction & Engineering",
+    "sector": "Construction"
   },
   {
     "stock_code": "579",
@@ -407,10 +407,10 @@
   },
   {
     "stock_code": "WVJ",
-    "name": "Ntegrator Hldg",
-    "industry": "Retailers",
-    "sub_industry": " Apparel & Accessories Retailers",
-    "sector": "Information and Communications"
+    "name": "",
+    "industry": null,
+    "sub_industry": null,
+    "sector": null
   },
   {
     "stock_code": "Y06",
@@ -897,10 +897,10 @@
   },
   {
     "stock_code": "OXMU",
-    "name": "",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
+    "name": "Prime US ReitUSD",
+    "industry": "Real Estate",
+    "sub_industry": " Commercial REITs",
+    "sector": "Real Estate Activities"
   },
   {
     "stock_code": "P9D",
@@ -980,11 +980,11 @@
     "sector": "Manufacturing"
   },
   {
-    "stock_code": "QSD",
-    "name": "",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
+    "stock_code": "V7R",
+    "name": "ResourcesGbl",
+    "industry": "Energy - Fossil Fuels",
+    "sub_industry": " Coal",
+    "sector": "Transportation and Storage"
   },
   {
     "stock_code": "S19",

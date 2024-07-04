@@ -469,11 +469,11 @@
     "sector":"Wholesale and Retail Trade"
   },
   {
-    "stock_code":"C70",
-    "name":"",
-    "industry":null,
-    "sub_industry":null,
-    "sector":null
+    "stock_code":"C09",
+    "name":"CityDev",
+    "industry":"Real Estate",
+    "sub_industry":" Real Estate Development & Operations",
+    "sector":"Real Estate Activities"
   },
   {
     "stock_code":"5HG",
@@ -616,11 +616,11 @@
     "sector":"Wholesale and Retail Trade"
   },
   {
-    "stock_code":"5TY",
-    "name":"",
-    "industry":null,
-    "sub_industry":null,
-    "sector":null
+    "stock_code":"WJ9",
+    "name":"AdvancedSystems",
+    "industry":"Technology Equipment",
+    "sub_industry":" Semiconductor Equipment & Testing",
+    "sector":"Manufacturing"
   },
   {
     "stock_code":"H12",
@@ -1800,10 +1800,10 @@
   },
   {
     "stock_code":"NR7",
-    "name":"Raffles Edu",
-    "industry":"Academic & Educational Services",
-    "sub_industry":" Professional & Business Education",
-    "sector":"Education"
+    "name":"",
+    "industry":null,
+    "sub_industry":null,
+    "sector":null
   },
   {
     "stock_code":"NO4",
@@ -2072,11 +2072,11 @@
     "sector":"Manufacturing"
   },
   {
-    "stock_code":"S51",
-    "name":"",
-    "industry":null,
-    "sub_industry":null,
-    "sector":null
+    "stock_code":"5E2",
+    "name":"Seatrium Ltd",
+    "industry":"Industrial Goods",
+    "sub_industry":" Shipbuilding",
+    "sector":"Manufacturing"
   },
   {
     "stock_code":"1A1",
@@ -3102,10 +3102,10 @@
   },
   {
     "stock_code":"5WJ",
-    "name":"",
-    "industry":null,
-    "sub_industry":null,
-    "sector":null
+    "name":"MoneyMax Fin",
+    "industry":"Retailers",
+    "sub_industry":" Apparel & Accessories Retailers",
+    "sector":"Financial and Insurance Activities"
   },
   {
     "stock_code":"F99",
@@ -3319,10 +3319,10 @@
   },
   {
     "stock_code":"AXB",
-    "name":"",
-    "industry":null,
-    "sub_industry":null,
-    "sector":null
+    "name":"Yongnam",
+    "industry":"Industrial & Commercial Services",
+    "sub_industry":" Construction & Engineering",
+    "sector":"Construction"
   },
   {
     "stock_code":"579",
@@ -3515,10 +3515,10 @@
   },
   {
     "stock_code":"WVJ",
-    "name":"Ntegrator Hldg",
-    "industry":"Retailers",
-    "sub_industry":" Apparel & Accessories Retailers",
-    "sector":"Information and Communications"
+    "name":"",
+    "industry":null,
+    "sub_industry":null,
+    "sector":null
   },
   {
     "stock_code":"Y06",
@@ -4005,10 +4005,10 @@
   },
   {
     "stock_code":"OXMU",
-    "name":"",
-    "industry":null,
-    "sub_industry":null,
-    "sector":null
+    "name":"Prime US ReitUSD",
+    "industry":"Real Estate",
+    "sub_industry":" Commercial REITs",
+    "sector":"Real Estate Activities"
   },
   {
     "stock_code":"P9D",
@@ -4088,11 +4088,11 @@
     "sector":"Manufacturing"
   },
   {
-    "stock_code":"QSD",
-    "name":"",
-    "industry":null,
-    "sub_industry":null,
-    "sector":null
+    "stock_code":"V7R",
+    "name":"ResourcesGbl",
+    "industry":"Energy - Fossil Fuels",
+    "sub_industry":" Coal",
+    "sector":"Transportation and Storage"
   },
   {
     "stock_code":"S19",

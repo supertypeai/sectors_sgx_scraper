@@ -66,7 +66,7 @@ C33,Chuan Hup,Real Estate, Real Estate Development & Operations,Transportation a
 C52,ComfortDelGro,Transportation, Passenger Transportation,Transportation and Storage
 BMT,New Silkroutes,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
 5SO,Duty Free Intl,Retailers, Miscellaneous Specialty Retailers,Wholesale and Retail Trade
-C70,,,,
+C09,CityDev,Real Estate, Real Estate Development & Operations,Real Estate Activities
 5HG,Edition,Food & Beverages, Fishing & Farming,Agriculture and Fishing
 YYB,BACUI TECH,Industrial & Commercial Services, Employment Services,Financial and Insurance Activities
 BIX,Ellipsiz,Technology Equipment, Semiconductor Equipment & Testing,Manufacturing
@@ -87,7 +87,7 @@ H20,Hoe Leong,Industrial Goods, Industrial Machinery & Equipment,Wholesale and R
 H30,Hong Fok,Real Estate, Real Estate Development & Operations,Real Estate Activities
 5PO,Hiap Tong,Industrial & Commercial Services, Business Support Services,Administrative and Support Service Activities
 D01,DFIRG USD,Food & Drug Retailing, Food Retail & Distribution,Wholesale and Retail Trade
-5TY,,,,
+WJ9,AdvancedSystems,Technology Equipment, Semiconductor Equipment & Testing,Manufacturing
 H12,Hotel Royal,Cyclical Consumer Services, Hotels,Accommodation and Food Service Activities
 5CT,EcoWise,Industrial & Commercial Services, Environmental Services & Equipment,"Water Supply; Sewerage, Waste Management and Remediation Activities"
 600,Hyflux,Utilities, Water Utilities,Financial and Insurance Activities
@@ -256,7 +256,7 @@ NS8U,HPH Trust USD,Transportation, Marine Port Services,Transportation and Stora
 CEDU,Dasin Retail Tr,Real Estate, Commercial REITs,Real Estate Activities
 594,CapAllianz,Energy - Fossil Fuels, Integrated Oil & Gas,Mining and Quarrying
 42E,Choo Chiang,Industrial Goods, Electrical Components & Equipment,Wholesale and Retail Trade
-NR7,Raffles Edu,Academic & Educational Services, Professional & Business Education,Education
+NR7,,,,
 NO4,Dyna-Mac,Energy - Fossil Fuels, Oil Related Services and Equipme,Manufacturing
 42C,IX Biopharma,Pharmaceuticals & Medical Research, Pharmaceuticals,"Professional, Scientific and Technical Activities"
 42F,Totm Tech,Financial Technology (Fintech) & Infrastructure, Financial Technology (Fintech),Information and Communications
@@ -295,7 +295,7 @@ BVA,Top Glove,Healthcare Services, Medical Equipment,Manufacturing
 BWCU,EC World Reit,Real Estate, Specialized REITs,Real Estate Activities
 BWM,Zheneng Jinjiang,Renewable Energy, Renewable Energy Equipment & Services,"Water Supply; Sewerage, Waste Management and Remediation Activities"
 5DX,Meta Health,Mineral Resources, Iron & Steel,Manufacturing
-S51,,,,
+5E2,Seatrium Ltd,Industrial Goods, Shipbuilding,Manufacturing
 1A1,Wong Fong Ind,Industrial Goods, Industrial Machinery & Equipment,"Professional, Scientific and Technical Activities"
 5EV,Hosen,Food & Drug Retailing, Food Retail & Distribution,Wholesale and Retail Trade
 D5IU,Lippo Malls Tr,Real Estate, Commercial REITs,Real Estate Activities
@@ -442,7 +442,7 @@ D05,DBS,Banking & Investment Services, Banks,Financial and Insurance Activities
 41O,LHN,Real Estate, Real Estate Development & Operations,Real Estate Activities
 5WH,Rex Intl,Energy - Fossil Fuels, Oil & Gas Exploration and Productio,Mining and Quarrying
 DM0,PSC Corporation,Applied Resources, Paper Packaging,Wholesale and Retail Trade
-5WJ,,,,
+5WJ,MoneyMax Fin,Retailers, Apparel & Accessories Retailers,Financial and Insurance Activities
 F99,F & N,Food & Beverages, Food Processing,Manufacturing
 580,Santak,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
 TCU,CreditBureauAsia,Industrial & Commercial Services, Professional Information Services,Administrative and Support Service Activities
@@ -473,7 +473,7 @@ AWI,Thakral,Real Estate, Real Estate Development & Operations,Wholesale and Reta
 1H2,Olive Tree,Real Estate, Real Estate Development & Operations,Real Estate Activities
 N0Z,Combine Will,Personal & Household Products & Services, Personal Products,Manufacturing
 P15,Pacific Century,Holding Companies, Investment Holding Companies,Financial and Insurance Activities
-AXB,,,,
+AXB,Yongnam,Industrial & Commercial Services, Construction & Engineering,Construction
 579,Oceanus,Food & Drug Retailing, Food Retail & Distribution,Agriculture and Fishing
 P8Z,Bumitama Agri,Food & Beverages, Food Processing,Agriculture and Fishing
 575,ASTI,Technology Equipment, Semiconductor Equipment & Testing,Manufacturing
@@ -501,7 +501,7 @@ UD2,Japfa,Food & Beverages, Food Processing,Agriculture and Fishing
 5DO,Sakae,Cyclical Consumer Services, Restaurants & Bars,Accommodation and Food Service Activities
 VI2,TC Auto,Automobiles & Auto Parts, Auto & Truck Manufacturers,Wholesale and Retail Trade
 9CI,CapitaLandInvest,Real Estate, Real Estate Services,Financial and Insurance Activities
-WVJ,Ntegrator Hldg,Retailers, Apparel & Accessories Retailers,Information and Communications
+WVJ,,,,
 Y06,Green Build,Industrial & Commercial Services, Construction & Engineering,"Professional, Scientific and Technical Activities"
 WPC,Vallianz,Transportation, Marine Freight & Logistics,Financial and Insurance Activities
 DHLU,Daiwa Hse Log Tr,Real Estate, Commercial REITs,Real Estate Activities
@@ -571,7 +571,7 @@ LS9,Leader Env,Industrial & Commercial Services, Environmental Services & Equipm
 N01,NeraTel,Technology Equipment, Communications & Networking,Information and Communications
 MV4,Mewah Intl,Food & Beverages, Food Processing,Manufacturing
 P34,Delfi,Food & Beverages, Food Processing,Manufacturing
-OXMU,,,,
+OXMU,Prime US ReitUSD,Real Estate, Commercial REITs,Real Estate Activities
 P9D,Civmec,Industrial & Commercial Services, Construction & Engineering,Manufacturing
 O5RU,AIMS APAC Reit,Real Estate, Commercial REITs,Real Estate Activities
 OYY,PropNex,Real Estate, Real Estate Services,Real Estate Activities
@@ -583,7 +583,7 @@ QES,ChinaSunsine,Chemicals, Specialty Chemicals,Manufacturing
 QNS,SouthernAlliance,Mineral Resources, Iron & Steel,Mining and Quarrying
 RCU,Revez,Software & IT Services, IT Services & Consulting,Financial and Insurance Activities
 S29,Stamford Tyres,Automobiles & Auto Parts, Tires & Rubber Products,Manufacturing
-QSD,,,,
+V7R,ResourcesGbl,Energy - Fossil Fuels, Coal,Transportation and Storage
 S19,SingShipping,Industrial Goods, Shipbuilding,Administrative and Support Service Activities
 UD1U,IREIT Global SGD,Real Estate, Commercial REITs,Real Estate Activities
 ZKX,Ever Glory,Industrial & Commercial Services, Construction & Engineering,Construction

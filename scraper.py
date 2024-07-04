@@ -19,6 +19,20 @@ BASE_URL = "https://investors.sgx.com/_security-types/stocks/"
 ALT_BASE_URL_1 = "https://investors.sgx.com/_security-types/reits/"
 ALT_BASE_URL_2 = "https://investors.sgx.com/_security-types/businesstrusts/"
 
+SYMBOL_LIST_MAP = {
+  "C70" : "C09", # City Development
+  '5TY' : "WJ9",  # Advanced System Automation
+  "S51" : "5E2",  # Seatrium Ltd
+  # "5WJ" : "5WJ",  # Supposed to be ada
+  # "AXB" : "AXB",
+  # "TCPD" : "", # T CP ALL TH SDR
+  # "TATD" : "", # Airports of Thailand
+  # "TEPD" : "", # PTT Exploration Production PCL DRC
+  # "9G2" : "9G2", # Sam Holding
+  # "OXMU" : "OXMU", # Prime US REIT
+  "QSD" : "V7R" #Resources Global
+}
+
 def get_screener_page_data() -> bytes | None:
   try:
     res = requests.get(SCREENER_API_URL)
@@ -39,7 +53,7 @@ def read_page(url: str) -> BeautifulSoup | None:
   try:
     session = HTMLSession()
     response = session.get(url)
-    response.html.render(sleep=5, timeout=20)
+    response.html.render(sleep=2, timeout=20)
 
     soup = BeautifulSoup(response.html.html, "html.parser")
     return soup
@@ -131,12 +145,17 @@ def scrap_function(symbol_list, process_idx):
   for i in range(start_idx, len(symbol_list)):
     attempt_count = 1
     symbol = symbol_list[i]
+
+    # Check if symbol is in SYMBOL_LIST_MAP
+    if (symbol in SYMBOL_LIST_MAP):
+      symbol = SYMBOL_LIST_MAP[symbol]
+
     if (symbol is not None):
       for base in link_arr:
         scrapped_data = scrap_stock_page(base, symbol)
 
         # Handling for page that returns None although it should not
-        while (scrapped_data['industry'] is None and scrapped_data['sector'] is None and attempt_count <= 3):
+        while (scrapped_data['industry'] is None and scrapped_data['sector'] is None and attempt_count <= 5):
           print("==> Restart scraping process")
           scrapped_data = scrap_stock_page(base, symbol)
           attempt_count += 1

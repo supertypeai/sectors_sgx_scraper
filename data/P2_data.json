@@ -764,10 +764,10 @@
   },
   {
     "stock_code": "NR7",
-    "name": "Raffles Edu",
-    "industry": "Academic & Educational Services",
-    "sub_industry": " Professional & Business Education",
-    "sector": "Education"
+    "name": "",
+    "industry": null,
+    "sub_industry": null,
+    "sector": null
   },
   {
     "stock_code": "NO4",

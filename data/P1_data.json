@@ -469,11 +469,11 @@
     "sector": "Wholesale and Retail Trade"
   },
   {
-    "stock_code": "C70",
-    "name": "",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
+    "stock_code": "C09",
+    "name": "CityDev",
+    "industry": "Real Estate",
+    "sub_industry": " Real Estate Development & Operations",
+    "sector": "Real Estate Activities"
   },
   {
     "stock_code": "5HG",
@@ -616,11 +616,11 @@
     "sector": "Wholesale and Retail Trade"
   },
   {
-    "stock_code": "5TY",
-    "name": "",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
+    "stock_code": "WJ9",
+    "name": "AdvancedSystems",
+    "industry": "Technology Equipment",
+    "sub_industry": " Semiconductor Equipment & Testing",
+    "sector": "Manufacturing"
   },
   {
     "stock_code": "H12",

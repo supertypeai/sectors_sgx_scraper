@@ -1,10 +1,10 @@
 [
   {
-    "stock_code": "S51",
-    "name": "",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
+    "stock_code": "5E2",
+    "name": "Seatrium Ltd",
+    "industry": "Industrial Goods",
+    "sub_industry": " Shipbuilding",
+    "sector": "Manufacturing"
   },
   {
     "stock_code": "1A1",
@@ -1030,9 +1030,9 @@
   },
   {
     "stock_code": "5WJ",
-    "name": "",
-    "industry": null,
-    "sub_industry": null,
-    "sector": null
+    "name": "MoneyMax Fin",
+    "industry": "Retailers",
+    "sub_industry": " Apparel & Accessories Retailers",
+    "sector": "Financial and Insurance Activities"
   }
 ]
