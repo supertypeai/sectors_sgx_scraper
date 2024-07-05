@@ -70,8 +70,8 @@ def read_page(url: str) -> BeautifulSoup | None:
     session.close()
     print(f"Session in {url} is closed")
 
-def scrap_stock_page(base_url, symbol: str) -> dict | None:
-  url = get_url(base_url, symbol)
+def scrap_stock_page(base_url, symbol: str, new_symbol: str) -> dict | None:
+  url = get_url(base_url, new_symbol)
   soup = read_page(url)
 
   industry = None
@@ -151,7 +151,9 @@ def scrap_function(symbol_list, process_idx):
 
     # Check if symbol is in SYMBOL_LIST_MAP
     if (symbol in SYMBOL_LIST_MAP):
-      symbol = SYMBOL_LIST_MAP[symbol]
+      new_symbol = SYMBOL_LIST_MAP[symbol]
+    else:
+      new_symbol = symbol
 
     if (symbol is not None):
       scrapped_data = {
@@ -168,7 +170,7 @@ def scrap_function(symbol_list, process_idx):
         # Iterate among possible URLs
         for key, base in LINK_ARR.items():
           print(f"Try scraping {symbol} using {key}")
-          scrapped_data = scrap_stock_page(base, symbol)
+          scrapped_data = scrap_stock_page(base, symbol, new_symbol)
 
           if (scrapped_data['industry'] is not None and scrapped_data['sector'] is not None):
             break

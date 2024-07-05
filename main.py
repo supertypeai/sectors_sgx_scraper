@@ -1,10 +1,9 @@
-from scraper import get_screener_page_data, scrap_function
+from scraper import scrap_function
 from combiner import combine_data
 import pandas as pd
 from multiprocessing import Process
 import os
 import time
-from json import loads, dumps
 from dotenv import load_dotenv
 from supabase import create_client
 
@@ -50,14 +49,28 @@ if __name__ == "__main__":
   p4.join()
 
   # Merge data
-  df_final = combine_data()
+  df_final = combine_data(df_db_data)
 
-  # Save to JSON and CSV
+  # # Save to JSON and CSV
   cwd = os.getcwd()
   data_dir = os.path.join(cwd, "data")
   
   df_final.to_json(os.path.join(data_dir, "final_data.json"), orient="records", indent=2)
   df_final.to_csv(os.path.join(data_dir, "final_data.csv"), index=False)
+
+  # Convert to json. Remove the index in dataframe
+  records = df_final.to_dict(orient="records")
+
+  # Upsert to db
+  try:
+    supabase.table("sgx_companies").upsert(
+        records
+    ).execute()
+    print(
+        f"Successfully upserted {len(records)} data to database"
+    )
+  except Exception as e:
+    raise Exception(f"Error upserting to database: {e}")
 
   # End time
   end = time.time()
