@@ -1,593 +1,595 @@
-stock_code,name,industry,sub_industry,sector
-1R6,Avi-Tech Hldg,Technology Equipment, Semiconductors,Financial and Insurance Activities
-5VI,Boldtek,Real Estate, Real Estate Development & Operations,Construction
-C05,Chemical Ind,Chemicals, Commodity Chemicals,Manufacturing
-Q0X,Ley Choon,Industrial & Commercial Services, Construction & Engineering,Construction
-5TP,CNMC Goldmine,Mineral Resources, Gold,Manufacturing
-AZT,NutryFarm,Food & Beverages, Food Processing,Manufacturing
-5RF,Mercurius,Real Estate, Real Estate Development & Operations,Real Estate Activities
-U09,Avarga,Cyclical Consumer Products, Construction Supplies & Fixtures,Manufacturing
-C06,CSC,Industrial & Commercial Services, Construction & Engineering,Construction
-AWM,Shanghai Turbo,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
-1A4,AGV,Holding Companies, Investment Holding Companies,Other Service Activities
-B49,World Precision,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
-BDU,Federal Int,Energy - Fossil Fuels, Oil Related Services and Equipme,Mining and Quarrying
-5HT,Imperium Crown,Real Estate, Real Estate Development & Operations,Real Estate Activities
-ME8U,Mapletree Ind Tr,Real Estate, Commercial REITs,Real Estate Activities
-5G2,Kim Heng,Energy - Fossil Fuels, Oil Related Services and Equipme,Mining and Quarrying
-5JS,Indofood Agri,Food & Beverages, Food Processing,Agriculture and Fishing
-B28,Bonvests,Cyclical Consumer Services, Hotels,Real Estate Activities
-BJD,VibroPower,Utilities, Electric Utilities,Manufacturing
-C04,Casa,Cyclical Consumer Products, Appliances,Wholesale and Retail Trade
-1V3,Mooreast,Mineral Resources, Iron & Steel,"Professional, Scientific and Technical Activities"
-5RA,AP Strategic,Real Estate, Real Estate Development & Operations,Financial and Insurance Activities
-BRS,USP Group,Cyclical Consumer Products, Recreational Products,Wholesale and Retail Trade
-5G4,Rich Capital,Real Estate, Real Estate Development & Operations,Real Estate Activities
-5NV,Chasen,Transportation, Ground Freight & Logistics,Transportation and Storage
-MF6,Mun Siong Engg,Industrial & Commercial Services, Construction & Engineering,Manufacturing
-J69U,Frasers Cpt Tr,Real Estate, Commercial REITs,Real Estate Activities
-R14,Eneco Energy,Energy - Fossil Fuels, Integrated Oil & Gas,Transportation and Storage
-C13,CH Offshore,Energy - Fossil Fuels, Oil Related Services and Equipme,Transportation and Storage
-A17U,CapLand Ascendas REIT,Real Estate, Commercial REITs,Real Estate Activities
-AGS,TheHourGlass,Retailers, Apparel & Accessories Retailers,Wholesale and Retail Trade
-TVV,OxPay Financial,Industrial & Commercial Services, Business Support Services,Information and Communications
-Z25,Yanlord Land,Real Estate, Real Estate Development & Operations,Real Estate Activities
-A33,Southern Arch,Real Estate, Real Estate Development & Operations,Mining and Quarrying
-T55,TIH,Collective Investments, Closed End Funds,Financial and Insurance Activities
-G07,Great Eastern,Insurance, Life & Health Insurance,Financial and Insurance Activities
-A31,Addvalue Tech,Technology Equipment, Communications & Networking,Information and Communications
-BTE,Bund Center,Real Estate, Real Estate Development & Operations,Real Estate Activities
-1B6,Ocean Sky Intl,Industrial & Commercial Services, Construction & Engineering,Financial and Insurance Activities
-A78,Shen Yao,Mineral Resources, Gold,Mining and Quarrying
-AIY,IFAST,Financial Technology (Fintech) & Infrastructure, Financial Technology (Fintech),Information and Communications
-OV8,Sheng Siong,Food & Drug Retailing, Food Retail & Distribution,Wholesale and Retail Trade
-S63,ST Engineering,Industrial Goods, Aerospace & Defense,"Professional, Scientific and Technical Activities"
-C76,Creative,Technology Equipment, Computer Hardware,Administrative and Support Service Activities
-HQU,Oiltek,Food & Beverages, Food Processing,Manufacturing
-AWV,Captii,Telecommunications Services, Wireless Telecommunications Services,Information and Communications
-41B,Huationg Global,Industrial & Commercial Services, Construction & Engineering,Construction
-AZR,United Food,Chemicals, Commodity Chemicals,Accommodation and Food Service Activities
-BTJ,A-Sonic Aero,Transportation, Air Freight & Logistics,Wholesale and Retail Trade
-H15,HPL,Cyclical Consumer Services, Hotels,Accommodation and Food Service Activities
-42L,Taka Jewellery,Retailers, Apparel & Accessories Retailers,Wholesale and Retail Trade
-BHD,China Mining,Real Estate, Real Estate Development & Operations,Real Estate Activities
-BKW,Datapulse Tech,Cyclical Consumer Services, Hotels,Manufacturing
-BLZ,Advanced,Energy - Fossil Fuels, Oil Related Services and Equipme,"Professional, Scientific and Technical Activities"
-42R,Jumbo,Cyclical Consumer Services, Restaurants & Bars,Accommodation and Food Service Activities
-BTP,Baker Technology,Energy - Fossil Fuels, Oil Related Services and Equipme,Manufacturing
-BLR,Darco Water Tech,Utilities, Water Utilities,Administrative and Support Service Activities
-M14,InnoTek,Technology Equipment, Office Equipment,Manufacturing
-575,ASTI,Technology Equipment, Semiconductor Equipment & Testing,Manufacturing
-CMOU,KepPacOakReitUSD,Real Estate, Commercial REITs,Real Estate Activities
-BTX,Anchun Intl,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
-K71U,Keppel Reit,Real Estate, Commercial REITs,Real Estate Activities
-C07,Jardine C&C,Consumer Goods Conglomerates, Consumer Goods Conglomerates,Manufacturing
-583,Progen,Industrial & Commercial Services, Construction & Engineering,Construction
-5DD,Micro-Mechanics,Technology Equipment, Semiconductor Equipment & Testing,Manufacturing
-N32,Nippecraft,Applied Resources, Paper Products,Manufacturing
-C6L,SIA,Transportation, Airlines,Transportation and Storage
-NC2,Sri Trang Agro,Automobiles & Auto Parts, Tires & Rubber Products,Manufacturing
-QZG,Accrelist Ltd,Technology Equipment, Computer Hardware,Wholesale and Retail Trade
-T15,TCIL HK$,Transportation, Ground Freight & Logistics,Wholesale and Retail Trade
-U9E,China Everbright,Utilities, Water Utilities,"Water Supply; Sewerage, Waste Management and Remediation Activities"
-C33,Chuan Hup,Real Estate, Real Estate Development & Operations,Transportation and Storage
-UIX,China EnvRes,Automobiles & Auto Parts, Auto & Truck Manufacturers,Agriculture and Fishing
-C52,ComfortDelGro,Transportation, Passenger Transportation,Transportation and Storage
-U14,UOL,Real Estate, Real Estate Development & Operations,Real Estate Activities
-BMT,New Silkroutes,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
-VVL,AlphaDX,Software & IT Services, IT Services & Consulting,Information and Communications
-5SO,Duty Free Intl,Retailers, Miscellaneous Specialty Retailers,Wholesale and Retail Trade
-C09,CityDev,Real Estate, Real Estate Development & Operations,Real Estate Activities
-5HG,Edition,Food & Beverages, Fishing & Farming,Agriculture and Fishing
-YYB,BACUI TECH,Industrial & Commercial Services, Employment Services,Financial and Insurance Activities
-CGN,Best World,Personal & Household Products & Services, Personal Products,Wholesale and Retail Trade
-BIX,Ellipsiz,Technology Equipment, Semiconductor Equipment & Testing,Manufacturing
-E27,The Place Hldg,Cyclical Consumer Services, Advertising & Marketing,Financial and Insurance Activities
-O10,Far East Orchard,Real Estate, Real Estate Development & Operations,Real Estate Activities
-CHJ,Uni-Asia Grp,Industrial & Commercial Services, Business Support Services,Financial and Insurance Activities
-F13,Fu Yu,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
-5F4,Figtree,Real Estate, Real Estate Development & Operations,Construction
-B73,Global Inv,Collective Investments, Closed End Funds,-
-5PC,Goodland,Real Estate, Real Estate Development & Operations,Real Estate Activities
-5VJ,Halcyon Agri,Automobiles & Auto Parts, Tires & Rubber Products,Manufacturing
-KJ5,BBR,Industrial & Commercial Services, Construction & Engineering,Construction
-5VS,Hafary,Cyclical Consumer Products, Construction Supplies & Fixtures,Wholesale and Retail Trade
-H13,Ho Bee Land,Real Estate, Real Estate Development & Operations,Real Estate Activities
-BLS,Hotung Inv,Banking & Investment Services, Investment Management & Fund Operators,Financial and Insurance Activities
-H20,Hoe Leong,Industrial Goods, Industrial Machinery & Equipment,Wholesale and Retail Trade
-H30,Hong Fok,Real Estate, Real Estate Development & Operations,Real Estate Activities
-D01,DFIRG USD,Food & Drug Retailing, Food Retail & Distribution,Wholesale and Retail Trade
-5PO,Hiap Tong,Industrial & Commercial Services, Business Support Services,Administrative and Support Service Activities
-WJ9,AdvancedSystems,Technology Equipment, Semiconductor Equipment & Testing,Manufacturing
-H12,Hotel Royal,Cyclical Consumer Services, Hotels,Accommodation and Food Service Activities
-5CT,EcoWise,Industrial & Commercial Services, Environmental Services & Equipment,"Water Supply; Sewerage, Waste Management and Remediation Activities"
-600,Hyflux,Utilities, Water Utilities,Financial and Insurance Activities
-5WV,AsiaPhos,Chemicals, Agricultural Chemicals,Mining and Quarrying
-8A1,Forise Int,Industrial & Commercial Services, Business Support Services,Manufacturing
-5WA,OUE Healthcare,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
-Z4D,MediLifestyle,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
-E28,Frencken,Industrial Goods, Industrial Machinery & Equipment,"Professional, Scientific and Technical Activities"
-5GI,Interra Resource,Energy - Fossil Fuels, Oil & Gas Exploration and Productio,Mining and Quarrying
-5PF,Jason Marine,Technology Equipment, Communications & Networking,Manufacturing
-FQ7,Jasper Inv,Transportation, Marine Freight & Logistics,Financial and Insurance Activities
-I11,Renaissance United,Utilities, Natural Gas Utilities,Financial and Insurance Activities
-BEW,JB Foods,Food & Beverages, Food Processing,Manufacturing
-5OI,Japan Foods,Cyclical Consumer Services, Restaurants & Bars,Accommodation and Food Service Activities
-C8R,Jiutian Chemical,Chemicals, Commodity Chemicals,Manufacturing
-E9L,Joyas Intl,Banking & Investment Services, Corporate Financial Services,Wholesale and Retail Trade
-5HV,Koh Eco,Industrial & Commercial Services, Construction & Engineering,Manufacturing
-A30,Aspial Corp,Cyclical Consumer Products, Apparel & Accessories,Wholesale and Retail Trade
-EB5,First Resources,Food & Beverages, Food Processing,Wholesale and Retail Trade
-BNE,Kencana Agri,Food & Beverages, Fishing & Farming,Agriculture and Fishing
-5TT,Keong Hong,Industrial & Commercial Services, Construction & Engineering,Construction
-A34,Amara,Cyclical Consumer Services, Hotels,Accommodation and Food Service Activities
-554,King Wan,Industrial & Commercial Services, Construction & Engineering,Construction
-5VC,Kori,Industrial & Commercial Services, Construction & Engineering,Construction
-A55,Asia Enterprises,Mineral Resources, Iron & Steel,Manufacturing
-XCF,KTMG,Cyclical Consumer Products, Apparel & Accessories,Manufacturing
-5OC,Koyo Intl,Industrial & Commercial Services, Construction & Engineering,"Professional, Scientific and Technical Activities"
-EB7,KTL Global,Industrial Goods, Industrial Machinery & Equipment,Mining and Quarrying
-F10,FJ Benjamin,Retailers, Apparel & Accessories Retailers,Wholesale and Retail Trade
-F03,Food Empire,Food & Beverages, Food Processing,Manufacturing
-RE4,Geo Energy Res,Energy - Fossil Fuels, Coal,Mining and Quarrying
-L19,Lum Chang,Industrial & Commercial Services, Construction & Engineering,Construction
-1D3,LifeBrandz,Cyclical Consumer Services, Restaurants & Bars,Accommodation and Food Service Activities
-F34,Wilmar Intl,Food & Beverages, Food Processing,Manufacturing
-5I1,KOP,Real Estate, Real Estate Development & Operations,Real Estate Activities
-5I4,ICP Ltd,Cyclical Consumer Services, Hotels,Transportation and Storage
-F9D,Boustead,Industrial & Commercial Services, Construction & Engineering,"Professional, Scientific and Technical Activities"
-40W,ZICO Hldgs,Banking & Investment Services, Diversified Investment Services,Financial and Insurance Activities
-5OX,Mary Chia,Personal & Household Products & Services, Personal Services,Other Service Activities
-AVX,HL Global Ent,Cyclical Consumer Services, Hotels,Accommodation and Food Service Activities
-F17,GuocoLand,Real Estate, Real Estate Development & Operations,Real Estate Activities
-5LY,MarcoPolo Marine,Transportation, Marine Freight & Logistics,Manufacturing
-5IG,Gallant Venture,Utilities, Electric Utilities,"Electricity, Gas, Steam and Air-Conditioning Supply"
-G50,Grand Banks,Cyclical Consumer Products, Recreational Products,Manufacturing
-41T,GCCP,Mineral Resources, Construction Materials,Mining and Quarrying
-F83,COSCO SHP SG,Transportation, Marine Freight & Logistics,Transportation and Storage
-5UF,Aspial Lifestyle,Retailers, Apparel & Accessories Retailers,Wholesale and Retail Trade
-5DS,MegaChem,Chemicals, Diversified Chemicals,Wholesale and Retail Trade
-F86,MYP,Real Estate, Real Estate Development & Operations,Financial and Insurance Activities
-S23,Spura Finance,Banking & Investment Services, Banks,Financial and Insurance Activities
-5NF,Mencast,Industrial Goods, Shipbuilding,Manufacturing
-AWX,AEM SGD,Technology Equipment, Semiconductors,Manufacturing
-S41,Hong Leong Fin,Banking & Investment Services, Corporate Financial Services,Financial and Insurance Activities
-AYN,Global Testing,Technology Equipment, Semiconductor Equipment & Testing,Manufacturing
-G0I,Nam Lee Metal,Cyclical Consumer Products, Construction Supplies & Fixtures,Manufacturing
-TQ5,Frasers Property,Real Estate, Real Estate Development & Operations,Real Estate Activities
-AZA,IPC Corp,Cyclical Consumer Services, Hotels,Real Estate Activities
-G20,GP Industries,Industrial Goods, Electrical Components & Equipment,Manufacturing
-U77,Sarine Tech,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
-B58,Banyan Tree,Cyclical Consumer Services, Hotels,Accommodation and Food Service Activities
-T13,RH PetroGas,Energy - Fossil Fuels, Oil & Gas Exploration and Productio,Mining and Quarrying
-M03,Miyoshi,Technology Equipment, Computer Hardware,Manufacturing
-V3M,Metech Intl,Industrial & Commercial Services, Environmental Services & Equipment,Administrative and Support Service Activities
-H78,HongkongLand USD,Real Estate, Real Estate Development & Operations,Real Estate Activities
-IX2,PEC,Energy - Fossil Fuels, Oil Related Services and Equipme,"Professional, Scientific and Technical Activities"
-B61,Bukit Sembawang,Real Estate, Real Estate Development & Operations,Real Estate Activities
-G92,China Aviation,Transportation, Airport Services,Other Service Activities
-5FX,New Wave,Mineral Resources, Aluminum,Manufacturing
-5IF,Natural Cool,Industrial & Commercial Services, Construction & Engineering,"Electricity, Gas, Steam and Air-Conditioning Supply"
-N02,NSL,Mineral Resources, Construction Materials,Construction
-N08,New Toyo,Applied Resources, Paper Packaging,Administrative and Support Service Activities
-GU5,ChinaKundaTech,Chemicals, Commodity Chemicals,Manufacturing
-5UX,Oxley,Real Estate, Real Estate Development & Operations,Real Estate Activities
-AJ2,Ouhua Energy,Energy - Fossil Fuels, Oil & Gas Refining and Marketin,Wholesale and Retail Trade
-BBP,Hor Kew,Industrial & Commercial Services, Construction & Engineering,Construction
-I06,Intraco,Industrial & Commercial Services, Diversified Industrial Goods Wholesale,Wholesale and Retail Trade
-Y3D,MDR Limited,Retailers, Computer & Electronics Retailers,Information and Communications
-BBW,Azeus,Software & IT Services, IT Services & Consulting,Information and Communications
-H18,Hotel Grand,Cyclical Consumer Services, Hotels,Accommodation and Food Service Activities
-BFK,Pharmesis Intl,Pharmaceuticals & Medical Research, Pharmaceuticals,Manufacturing
-BTM,Penguin Intl,Transportation, Passenger Transportation,Manufacturing
-RXS,PacificRadiance,Energy - Fossil Fuels, Oil & Gas Transportation Servic,Mining and Quarrying
-G13,Genting Sing,Cyclical Consumer Services, Casinos & Gaming,Accommodation and Food Service Activities
-BDA,PNE Industries,Industrial Goods, Electrical Components & Equipment,Wholesale and Retail Trade
-E6R,Samko Timber,Applied Resources, Forest & Wood Products,Financial and Insurance Activities
-5BI,Polaris,Retailers, Computer & Electronics Retailers,Manufacturing
-S56,SamuderaShipping,Transportation, Marine Freight & Logistics,Transportation and Storage
-528,Second Chance,Retailers, Apparel & Accessories Retailers,Real Estate Activities
-BKA,Sin Heng Mach,Industrial Goods, Heavy Machinery & Vehicles,Administrative and Support Service Activities
-5HH,Sinjia Land,Cyclical Consumer Services, Hotels,Manufacturing
-5IC,SingHoldings,Real Estate, Real Estate Development & Operations,Construction
-H07,Stamford Land,Cyclical Consumer Services, Hotels,Administrative and Support Service Activities
-S35,Sing Inv & Fin,Banking & Investment Services, Banks,Financial and Insurance Activities
-BHK,SIIC Environment,Utilities, Water Utilities,"Water Supply; Sewerage, Waste Management and Remediation Activities"
-AAJ,SunMoonFood,Food & Beverages, Fishing & Farming,Financial and Insurance Activities
-I07,ISDN,Industrial Goods, Electrical Components & Equipment,"Professional, Scientific and Technical Activities"
-BHU,SUTL Enterprise,Cyclical Consumer Services, Leisure & Recreation,"Arts, Entertainment & Recreation"
-5RE,Asia Vets,Healthcare Services, Healthcare Facilities & Services,Financial and Insurance Activities
-I49,IFS Capital,Banking & Investment Services, Consumer Lending,Financial and Insurance Activities
-S71,Sunright,Technology Equipment, Semiconductor Equipment & Testing,Manufacturing
-564,Spindex Ind,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
-5MD,Soon Lian,Mineral Resources, Aluminum,Manufacturing
-40B,HealthBank,Cyclical Consumer Services, Hotels,"Professional, Scientific and Technical Activities"
-40E,Spackman,Cyclical Consumer Services, Entertainment Production,Financial and Insurance Activities
-BJZ,Koda,Cyclical Consumer Products, Home Furnishings,Manufacturing
-C9Q,Sinostar Pec,Energy - Fossil Fuels, Oil & Gas Refining and Marketin,Manufacturing
-5KI,Soup Holdings,Cyclical Consumer Services, Restaurants & Bars,Administrative and Support Service Activities
-5UA,Luminor,Banking & Investment Services, Consumer Lending,Real Estate Activities
-K03,Khong Guan,Food & Beverages, Food Processing,Wholesale and Retail Trade
-S08,SingPost,Transportation, Air Freight & Logistics,Transportation and Storage
-ZB9,UnionSteel,Mineral Resources, Iron & Steel,Wholesale and Retail Trade
-5GD,Sunpower,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
-5WF,ISOTeam,Industrial & Commercial Services, Construction & Engineering,Construction
-5G3,TalkMed,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
-K75,Koh Bros,Industrial & Commercial Services, Construction & Engineering,Construction
-500,Tai Sin Electric,Industrial Goods, Electrical Components & Equipment,Manufacturing
-T41,TeleChoice Intl,Technology Equipment, Phones & Handheld Devices,Wholesale and Retail Trade
-L23,Enviro-Hub,Industrial & Commercial Services, Environmental Services & Equipment,Financial and Insurance Activities
-540,Tung Lok Rest,Cyclical Consumer Services, Restaurants & Bars,Accommodation and Food Service Activities
-BLU,GRP,Automobiles & Auto Parts, Tires & Rubber Products,Financial and Insurance Activities
-T14,TJ DaRenTang USD,Pharmaceuticals & Medical Research, Pharmaceuticals,Construction
-BFI,Tiong Seng,Industrial & Commercial Services, Construction & Engineering,Construction
-KUO,Intl Cement,Mineral Resources, Construction Materials,Financial and Insurance Activities
-570,Abundante,Mineral Resources, Construction Materials,Manufacturing
-5AB,Trek 2000 Intl,Technology Equipment, Computer Hardware,Information and Communications
-BQM,Tiong Woon,Industrial Goods, Heavy Machinery & Vehicles,Transportation and Storage
-L38,AF Global,Cyclical Consumer Services, Hotels,Accommodation and Food Service Activities
-40V,Alset,Real Estate, Real Estate Development & Operations,Financial and Insurance Activities
-BQN,BH Global,Industrial Goods, Electrical Components & Equipment,Wholesale and Retail Trade
-LJ3,OUE,Real Estate, Real Estate Development & Operations,Accommodation and Food Service Activities
-KUH,TSH,Cyclical Consumer Services, Restaurants & Bars,Financial and Insurance Activities
-LUY,Raffles Infrastructure,Industrial & Commercial Services, Construction & Engineering,Manufacturing
-BRD,Sapphire,Industrial & Commercial Services, Construction & Engineering,"Professional, Scientific and Technical Activities"
-M01,Metro,Retailers, Department Stores,Administrative and Support Service Activities
-5G9,Tritech,Industrial & Commercial Services, Construction & Engineering,Construction
-M11,MFG Integration,Technology Equipment, Semiconductor Equipment & Testing,Manufacturing
-8K7,UGHealthcare,Healthcare Services, Medical Equipment,Manufacturing
-558,UMS,Technology Equipment, Semiconductor Equipment & Testing,Manufacturing
-EH5,UOA,Real Estate, Real Estate Development & Operations,Real Estate Activities
-BS6,YZJ Shipbldg SGD,Industrial Goods, Shipbuilding,Manufacturing
-M04,Man Oriental USD,Cyclical Consumer Services, Hotels,Accommodation and Food Service Activities
-544,CSE Global,Software & IT Services, IT Services & Consulting,Administrative and Support Service Activities
-T6I,ValueMax,Retailers, Apparel & Accessories Retailers,Financial and Insurance Activities
-V03,Venture,Technology Equipment, Electronic Equipment & Parts,Manufacturing
-BTG,HG Metal,Mineral Resources, Iron & Steel,Wholesale and Retail Trade
-546,Medtecs Intl,Healthcare Services, Medical Equipment,Manufacturing
-1Y1,9R,Industrial Goods, Industrial Machinery & Equipment,Mining and Quarrying
-40N,Versalink,Industrial & Commercial Services, Business Support Supplies,Manufacturing
-9QX,BeverlyJCG,Healthcare Services, Healthcare Facilities & Services,Financial and Insurance Activities
-BN2,Valuetronics,Technology Equipment, Electronic Equipment & Parts,Manufacturing
-MR7,Nordic,Industrial & Commercial Services, Construction & Engineering,"Professional, Scientific and Technical Activities"
-40T,ISEC,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
-5F7,Wilton Resources,Mineral Resources, Gold,Mining and Quarrying
-E3B,Wee Hur,Industrial & Commercial Services, Construction & Engineering,Construction
-A26,Sinarmas Land,Industrial & Commercial Services, Business Support Services,Real Estate Activities
-BDR,Willas-Array,Technology Equipment, Electronic Equipment & Parts,Wholesale and Retail Trade
-BPF,YHI Intl,Automobiles & Auto Parts, Auto,Manufacturing
-W05,Wing Tai,Real Estate, Real Estate Development & Operations,Real Estate Activities
-Y03,Yeo Hiap Seng,Food & Beverages, Food Processing,Manufacturing
-BKX,Yongmao,Industrial Goods, Heavy Machinery & Vehicles,Manufacturing
-NHD,Jubilee,Industrial Goods, Industrial Machinery & Equipment,Financial and Insurance Activities
-5SR,Zhongmin Baihui,Retailers, Department Stores,Real Estate Activities
-C2PU,ParkwayLife Reit,Real Estate, Specialized REITs,Real Estate Activities
-NS8U,HPH Trust USD,Transportation, Marine Port Services,Transportation and Storage
-584,AJJ Medtech,Healthcare Services, Advanced Medical Equipment & Technology,"Professional, Scientific and Technical Activities"
-594,CapAllianz,Energy - Fossil Fuels, Integrated Oil & Gas,Mining and Quarrying
-CEDU,Dasin Retail Tr,Real Estate, Commercial REITs,Real Estate Activities
-NR7,Raffles Edu,Academic & Educational Services, Professional & Business Education,Education
-42E,Choo Chiang,Industrial Goods, Electrical Components & Equipment,Wholesale and Retail Trade
-BCZ,Travelite,Retailers, Apparel & Accessories Retailers,Wholesale and Retail Trade
-42C,IX Biopharma,Pharmaceuticals & Medical Research, Pharmaceuticals,"Professional, Scientific and Technical Activities"
-42F,Totm Tech,Financial Technology (Fintech) & Infrastructure, Financial Technology (Fintech),Information and Communications
-NO4,Dyna-Mac,Energy - Fossil Fuels, Oil Related Services and Equipme,Manufacturing
-A7RU,Kep Infra Tr,Chemicals, Diversified Chemicals,"Electricity, Gas, Steam and Air-Conditioning Supply"
-BKK,Luxking,Chemicals, Specialty Chemicals,Manufacturing
-Q01,QAF,Food & Beverages, Food Processing,Manufacturing
-42T,Trendlines,Banking & Investment Services, Investment Management & Fund Operators,"Professional, Scientific and Technical Activities"
-42Z,Eindec,Industrial & Commercial Services, Environmental Services & Equipment,Financial and Insurance Activities
-43A,GS Hldg,Cyclical Consumer Services, Restaurants & Bars,Financial and Insurance Activities
-O39,OCBC Bank,Banking & Investment Services, Banks,Financial and Insurance Activities
-Q0F,IHH,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
-Q5T,Far East HTrust,Real Estate, Specialized REITs,Real Estate Activities
-RQ1,Overseas Edu,Academic & Educational Services, Miscellaneous Educational Service Providers,Education
-5AI,H2G Green,Cyclical Consumer Products, Home Furnishings,Wholesale and Retail Trade
-43E,VCPlus,Mineral Resources, Construction Materials,Manufacturing
-ADN,First Sponsor,Real Estate, Real Estate Development & Operations,Real Estate Activities
-S61,SBS Transit,Transportation, Passenger Transportation,Transportation and Storage
-S7OU,Asian Pay Tv Tr,Cyclical Consumer Services, Broadcasting,Information and Communications
-43B,Secura,Industrial & Commercial Services, Business Support Services,Transportation and Storage
-BQP,Southern Pkg,Applied Resources, Non-Paper Containers & Packaging,Manufacturing
-43F,AcroMeta,Industrial & Commercial Services, Construction & Engineering,Health and Social Services
-5CF,OKP,Industrial & Commercial Services, Construction & Engineering,Construction
-BTOU,ManulifeReit USD,Real Estate, Commercial REITs,Real Estate Activities
-RDR,Incredible,Technology Equipment, Electronic Equipment & Parts,Administrative and Support Service Activities
-5CP,Silverlake Axis,Financial Technology (Fintech) & Infrastructure, Financial Technology (Fintech),Information and Communications
-42W,Zixin,Food & Beverages, Food Processing,Manufacturing
-5CR,Asiatic,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
-BUOU,Frasers L&C Tr,Real Estate, Commercial REITs,Real Estate Activities
-BVA,Top Glove,Healthcare Services, Medical Equipment,Manufacturing
-5DP,Heeton,Real Estate, Real Estate Development & Operations,Real Estate Activities
-42N,IPS Securex,Technology Equipment, Communications & Networking,"Professional, Scientific and Technical Activities"
-43Q,Advancer Global,Industrial & Commercial Services, Employment Services,Administrative and Support Service Activities
-1A0,Katrina,Cyclical Consumer Services, Restaurants & Bars,Accommodation and Food Service Activities
-BWCU,EC World Reit,Real Estate, Specialized REITs,Real Estate Activities
-BWM,Zheneng Jinjiang,Renewable Energy, Renewable Energy Equipment & Services,"Water Supply; Sewerage, Waste Management and Remediation Activities"
-5DX,Meta Health,Mineral Resources, Iron & Steel,Manufacturing
-1A1,Wong Fong Ind,Industrial Goods, Industrial Machinery & Equipment,"Professional, Scientific and Technical Activities"
-5E2,Seatrium Ltd,Industrial Goods, Shipbuilding,Manufacturing
-A52,AnnAik,Mineral Resources, Iron & Steel,Wholesale and Retail Trade
-5EV,Hosen,Food & Drug Retailing, Food Retail & Distribution,Wholesale and Retail Trade
-D5IU,Lippo Malls Tr,Real Estate, Commercial REITs,Real Estate Activities
-533,ABR,Food & Beverages, Food Processing,Wholesale and Retail Trade
-CY6U,CapLand India T,Real Estate, Commercial REITs,Real Estate Activities
-S59,SIA Engineering,Transportation, Airport Services,Manufacturing
-5FW,Acesian Partners,Industrial & Commercial Services, Environmental Services & Equipment,Construction
-HMN,CapLand Ascott T,Real Estate, Specialized REITs,Real Estate Activities
-S7P,Soilbuild Const,Industrial & Commercial Services, Construction & Engineering,Construction
-5UL,Atlantic Nav,Energy - Fossil Fuels, Oil Related Services and Equipme,Mining and Quarrying
-A05,AVJennings A$,Real Estate, Real Estate Development & Operations,Real Estate Activities
-AU8U,CapLand China T,Real Estate, Commercial REITs,Real Estate Activities
-J91U,ESR-LOGOS REIT,Real Estate, Commercial REITs,Real Estate Activities
-SES,Shanaya,Industrial & Commercial Services, Environmental Services & Equipment,Manufacturing
-5GJ,AusGroup,Energy - Fossil Fuels, Oil Related Services and Equipme,Manufacturing
-AW9U,First Reit,Real Estate, Specialized REITs,Real Estate Activities
-5OR,Heatec Jietong,Industrial Goods, Electrical Components & Equipment,Manufacturing
-5VP,GDS Global,Cyclical Consumer Products, Construction Supplies & Fixtures,Manufacturing
-D8DU,FSL Trust,Transportation, Marine Freight & Logistics,Transportation and Storage
-5PD,Hengyang Petro,Energy - Fossil Fuels, Oil & Gas Transportation Servic,Transportation and Storage
-AJBU,Keppel DC Reit,Real Estate, Specialized REITs,Real Estate Activities
-5GZ,HGH,Mineral Resources, Construction Materials,Manufacturing
-J03,Jadason,Technology Equipment, Semiconductors,Wholesale and Retail Trade
-M44U,Mapletree Log Tr,Real Estate, Commercial REITs,Real Estate Activities
-N2IU,Mapletree PanAsia Com Tr,Real Estate, Commercial REITs,Real Estate Activities
-T24,Tuan Sing,Real Estate, Real Estate Development & Operations,Real Estate Activities
-NPW,MSC,Mineral Resources, Specialty Mining & Metals,Manufacturing
-YYN,PlatoCapital,Software & IT Services, IT Services & Consulting,Financial and Insurance Activities
-S07,Shangri-La HKD,Cyclical Consumer Services, Hotels,Accommodation and Food Service Activities
-M1GU,Sabana Reit,Real Estate, Commercial REITs,Real Estate Activities
-5AE,Pollux Prop,Real Estate, Real Estate Development & Operations,Real Estate Activities
-OU8,Centurion,Real Estate, Real Estate Development & Operations,Accommodation and Food Service Activities
-569,Vicplas Intl,Healthcare Services, Medical Equipment,Manufacturing
-P40U,StarhillGbl Reit,Real Estate, Commercial REITs,Real Estate Activities
-5LE,Sitra,Applied Resources, Forest & Wood Products,Manufacturing
-1B1,HC Surgical,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
-P36,Pan Hong,Real Estate, Real Estate Development & Operations,Real Estate Activities
-SK6U,PARAGONREIT,Real Estate, Commercial REITs,Real Estate Activities
-1D0,Kimly,Cyclical Consumer Services, Restaurants & Bars,Accommodation and Food Service Activities
-596,Pavillon,Cyclical Consumer Services, Restaurants & Bars,Accommodation and Food Service Activities
-1D4,Aoxin Q & M,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
-PA3,TA,Real Estate, Real Estate Development & Operations,Construction
-1E3,Sanli Env,Industrial & Commercial Services, Construction & Engineering,"Water Supply; Sewerage, Waste Management and Remediation Activities"
-1F0,Shopper360,Cyclical Consumer Services, Advertising & Marketing,"Professional, Scientific and Technical Activities"
-TS0U,OUEREIT,Real Estate, Diversified REITs,Real Estate Activities
-CHZ,HRnetGroup,Industrial & Commercial Services, Employment Services,Administrative and Support Service Activities
-P52,PanUnited,Mineral Resources, Construction Materials,Manufacturing
-1F1,Y Ventures,Software & IT Services, Internet Services,Wholesale and Retail Trade
-CLN,APAC Realty,Real Estate, Real Estate Services,Real Estate Activities
-P8A,Cordlife,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
-CNE,MindChamps,Personal & Household Products & Services, Personal Services,"Professional, Scientific and Technical Activities"
-PH0,Hatten Land,Real Estate, Real Estate Development & Operations,Real Estate Activities
-1G1,RE&S Hldg,Cyclical Consumer Services, Restaurants & Bars,Financial and Insurance Activities
-U06,SingaporeLandGrp,Real Estate, Real Estate Development & Operations,Real Estate Activities
-QC7,Q&M Dental,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
-1H8,LY Corp,Cyclical Consumer Products, Home Furnishings,Manufacturing
-1H3,Clearbridge,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
-U10,UOB Kay Hian,Banking & Investment Services, Investment Banking & Brokerage Services,Financial and Insurance Activities
-AWG,Ascent Bridge,Mineral Resources, Aluminum,Manufacturing
-U11,UOB,Banking & Investment Services, Banks,Financial and Insurance Activities
-CRPU,Sasseur Reit,Real Estate, Commercial REITs,Real Estate Activities
-U13,UOI,Insurance, Multiline Insurance & Brokers,Financial and Insurance Activities
-1J5,Hyphens Pharma,Pharmaceuticals & Medical Research, Pharmaceuticals,Wholesale and Retail Trade
-8YY,Biolidics,Healthcare Services, Advanced Medical Equipment & Technology,"Professional, Scientific and Technical Activities"
-1J0,SLB Dev,Real Estate, Real Estate Development & Operations,Real Estate Activities
-QS9,G Invacom,Technology Equipment, Communications & Networking,Financial and Insurance Activities
-JLB,Grand Venture,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
-U96,Sembcorp Ind,Utilities, Multiline Utilities,"Electricity, Gas, Steam and Air-Conditioning Supply"
-PRH,Livingstone,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
-5EG,Zhongxin Fruit,Food & Beverages, Food Processing,Manufacturing
-K6S,Prudential USD,Insurance, Life & Health Insurance,Financial and Insurance Activities
-543,Noel Gifts Intl,Retailers, Miscellaneous Specialty Retailers,Wholesale and Retail Trade
-585,Asian Micro,Utilities, Natural Gas Utilities,Wholesale and Retail Trade
-5G1,EuroSports Gbl,Retailers, Auto Vehicles,Wholesale and Retail Trade
-OMK,Vividthree,Cyclical Consumer Services, Entertainment Production,Information and Communications
-URR,Sim Leisure,Cyclical Consumer Services, Leisure & Recreation,"Arts, Entertainment & Recreation"
-5WG,SingaporeKitchen,Cyclical Consumer Products, Appliances,Manufacturing
-V2Y,V2Y Corp,Insurance, Multiline Insurance & Brokers,Financial and Insurance Activities
-5JK,Hiap Hoe,Real Estate, Real Estate Development & Operations,Real Estate Activities
-OAJ,FortressMinerals,Mineral Resources, Iron & Steel,Mining and Quarrying
-5MZ,KingsmenCreative,Industrial & Commercial Services, Business Support Services,"Professional, Scientific and Technical Activities"
-S3N,OKH Global,Industrial & Commercial Services, Construction & Engineering,Real Estate Activities
-5TI,SDAI,Retailers, Home Furnishings Retailers,Wholesale and Retail Trade
-AWK,Fuxing China,Cyclical Consumer Products, Apparel & Accessories,Manufacturing
-NEX,Reclaims Global,Industrial & Commercial Services, Environmental Services & Equipment,Construction
-5SY,OneApex,Real Estate, Real Estate Services,Financial and Insurance Activities
-XZL,ARA HTrust USD,Real Estate, Specialized REITs,Real Estate Activities
-SJY,MeGroup,Automobiles & Auto Parts, Auto,Financial and Insurance Activities
-9I7,Bromat,Cyclical Consumer Services, Restaurants & Bars,Accommodation and Food Service Activities
-S44,EnGro,Mineral Resources, Construction Materials,Manufacturing
-CYW,TrickleStar,Industrial Goods, Electrical Components & Equipment,Manufacturing
-MIJ,Alliance HC,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
-S58,SATS,Transportation, Airport Services,Manufacturing
-WJP,VICOM Ltd,Industrial & Commercial Services, Business Support Services,Other Service Activities
-DRX,ST Group Food,Cyclical Consumer Services, Restaurants & Bars,Accommodation and Food Service Activities
-JYEU,Lendlease Reit,Real Estate, Commercial REITs,Real Estate Activities
-ACV,Frasers HTrust,Real Estate, Specialized REITs,Real Estate Activities
-MXNU,EliteUKREIT GBP,Real Estate, Commercial REITs,Real Estate Activities
-S85,Straco,Cyclical Consumer Services, Leisure & Recreation,"Arts, Entertainment & Recreation"
-S9B,Amcorp Global,Real Estate, Real Estate Development & Operations,Real Estate Activities
-GRQ,Don Agro,Food & Beverages, Fishing & Farming,Agriculture and Fishing
-TWL,Memiontec Hldgs,Industrial & Commercial Services, Construction & Engineering,"Water Supply; Sewerage, Waste Management and Remediation Activities"
-AWZ,Multi-Chem,Technology Equipment, Computer Hardware,Information and Communications
-Y45,SMI Vantage,Transportation, Airport Services,Financial and Insurance Activities
-HKB,AMTD IDEA OV,Banking & Investment Services, Investment Management & Fund Operators,Financial and Insurance Activities
-5RC,ES,Industrial Goods, Shipbuilding,Construction
-AYV,Acma,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
-508,Fuji Offset,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
-Y8E,Samurai 2K,Chemicals, Commodity Chemicals,Financial and Insurance Activities
-Y92,ThaiBev,Food & Beverages, Distillers & Wineries,Manufacturing
-B26,Ban Leong,Technology Equipment, Computer Hardware,Wholesale and Retail Trade
-FRQ,Sing Paincare,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
-M15,Matex Intl,Chemicals, Specialty Chemicals,Wholesale and Retail Trade
-BEH,China Intl,Industrial & Commercial Services, Construction & Engineering,Construction
-Z77,Singtel 10,Telecommunications Services, Integrated Telecommunications Services,Information and Communications
-ZXY,Alpina Holdings,Industrial & Commercial Services, Construction & Engineering,Financial and Insurance Activities
-5ML,Old Chang Kee,Cyclical Consumer Services, Restaurants & Bars,Accommodation and Food Service Activities
-BFT,Lincotrade,Retailers, Home Improvement Products & Services Retailers,Manufacturing
-1B0,MM2 Asia,Cyclical Consumer Services, Entertainment Production,Information and Communications
-BQF,XMH,Industrial Goods, Electrical Components & Equipment,Wholesale and Retail Trade
-1D1,UnUsUaL,Cyclical Consumer Services, Leisure & Recreation,"Arts, Entertainment & Recreation"
-BN4,Keppel,Consumer Goods Conglomerates, Consumer Goods Conglomerates,Manufacturing
-1F2,Union Gas,Utilities, Natural Gas Utilities,Wholesale and Retail Trade
-5QY,Net Pacific Fin,Banking & Investment Services, Corporate Financial Services,Financial and Insurance Activities
-PPC,ProsperCap,Cyclical Consumer Services, Hotels,Accommodation and Food Service Activities
-1F3,Aspen,Real Estate, Real Estate Development & Operations,Real Estate Activities
-1J4,JEP,Industrial & Commercial Services, Construction & Engineering,Manufacturing
-1MZ,NamCheong,Industrial Goods, Shipbuilding,Manufacturing
-C38U,CapLand IntCom T,Real Estate, Commercial REITs,Real Estate Activities
-1J7,Jawala,Applied Resources, Forest & Wood Products,Agriculture and Fishing
-5TJ,Far East,Industrial Goods, Electrical Components & Equipment,Manufacturing
-CIN,Courage Inv,Transportation, Marine Freight & Logistics,Transportation and Storage
-41F,GSS Energy,Industrial Goods, Industrial Machinery & Equipment,Mining and Quarrying
-5EB,CFM,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
-41H,BlackGoldNatural,Energy - Fossil Fuels, Coal,Financial and Insurance Activities
-D05,DBS,Banking & Investment Services, Banks,Financial and Insurance Activities
-5WH,Rex Intl,Energy - Fossil Fuels, Oil & Gas Exploration and Productio,Mining and Quarrying
-DM0,PSC Corporation,Applied Resources, Paper Packaging,Wholesale and Retail Trade
-41O,LHN,Real Estate, Real Estate Development & Operations,Real Estate Activities
-5WJ,MoneyMax Fin,Retailers, Apparel & Accessories Retailers,Financial and Insurance Activities
-F99,F & N,Food & Beverages, Food Processing,Manufacturing
-TCU,CreditBureauAsia,Industrial & Commercial Services, Professional Information Services,Administrative and Support Service Activities
-ER0,KSH,Industrial & Commercial Services, Construction & Engineering,Real Estate Activities
-XVG,Aedge Group,Industrial & Commercial Services, Construction & Engineering,Financial and Insurance Activities
-580,Santak,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
-A04,ASL Marine,Industrial Goods, Shipbuilding,Manufacturing
-42D,NauticAWT,Cyclical Consumer Services, Restaurants & Bars,Wholesale and Retail Trade
-XJB,GHY Culture,Cyclical Consumer Services, Entertainment Production,Information and Communications
-I15,Isetan,Retailers, Department Stores,Wholesale and Retail Trade
-42S,Astaka,Real Estate, Real Estate Development & Operations,Real Estate Activities
-505,AsiaMedic,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
-A50,Thomson Medical,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
-49B,AMOS Group,Industrial Goods, Industrial Machinery & Equipment,"Professional, Scientific and Technical Activities"
-J36,JMH USD,Consumer Goods Conglomerates, Consumer Goods Conglomerates,"Professional, Scientific and Technical Activities"
-8AZ,Aztech Gbl,Technology Equipment, Electronic Equipment & Parts,Manufacturing
-K29,Karin Tech,Technology Equipment, Computer Hardware,Information and Communications
-504,HS Optimus,Cyclical Consumer Products, Home Furnishings,Manufacturing
-EHG,Econ Healthcare,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
-AOF,Amplefield Ltd,Real Estate, Real Estate Development & Operations,"Professional, Scientific and Technical Activities"
-AP4,Riverstone,Healthcare Services, Medical Equipment,Manufacturing
-M05,MTQ,Energy - Fossil Fuels, Oil Related Services and Equipme,Financial and Insurance Activities
-532,DISA,Software & IT Services, Software,"Professional, Scientific and Technical Activities"
-541,Abundance Intl,Industrial & Commercial Services, Commercial Printing Services,Wholesale and Retail Trade
-AWC,Brook Crompton,Industrial Goods, Electrical Components & Equipment,Manufacturing
-O08,Ossia Intl,Retailers, Apparel & Accessories Retailers,Wholesale and Retail Trade
-AWI,Thakral,Real Estate, Real Estate Development & Operations,Wholesale and Retail Trade
-566,SHS,Industrial & Commercial Services, Construction & Engineering,Manufacturing
-AXB,Yongnam,Industrial & Commercial Services, Construction & Engineering,Construction
-P15,Pacific Century,Holding Companies, Investment Holding Companies,Financial and Insurance Activities
-1H2,Olive Tree,Real Estate, Real Estate Development & Operations,Real Estate Activities
-N0Z,Combine Will,Personal & Household Products & Services, Personal Products,Manufacturing
-P8Z,Bumitama Agri,Food & Beverages, Food Processing,Agriculture and Fishing
-579,Oceanus,Food & Drug Retailing, Food Retail & Distribution,Agriculture and Fishing
-5QR,MSM Intl,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
-B69,Broadway Ind,Industrial Goods, Industrial Machinery & Equipment,Manufacturing
-BAZ,Lion Asiapac,Mineral Resources, Construction Materials,Manufacturing
-595,GKE,Transportation, Air Freight & Logistics,Transportation and Storage
-STG,Sri Trang Gloves,Healthcare Services, Medical Equipment,Manufacturing
-BCD,China Yuanbang,Real Estate, Real Estate Development & Operations,Real Estate Activities
-BEC,BRC Asia,Cyclical Consumer Products, Construction Supplies & Fixtures,Manufacturing
-BCV,Qian Hu,Food & Beverages, Fishing & Farming,Agriculture and Fishing
-581,Sunrise Shares,Real Estate, Real Estate Services,Wholesale and Retail Trade
-S68,SGX,Banking & Investment Services, Financial & Commodity Market Operators,Financial and Insurance Activities
-5AL,Annica,Energy - Fossil Fuels, Oil Related Services and Equipme,Manufacturing
-5AU,AP Oil,Chemicals, Specialty Chemicals,Manufacturing
-S69,Serial System,Industrial Goods, Electrical Components & Equipment,Wholesale and Retail Trade
-T12,Tat Seng Pkg,Applied Resources, Paper Packaging,Manufacturing
-5DM,Ying Li Intl,Real Estate, Real Estate Development & Operations,Real Estate Activities
-5EF,Adventus,Real Estate, Real Estate Development & Operations,Administrative and Support Service Activities
-OTS,OTS Holdings,Food & Beverages, Food Processing,Manufacturing
-T82U,Suntec Reit,Real Estate, Commercial REITs,Real Estate Activities
-1AZ,Audience,Cyclical Consumer Services, Consumer Publishing,Information and Communications
-UD2,Japfa,Food & Beverages, Food Processing,Agriculture and Fishing
-5DO,Sakae,Cyclical Consumer Services, Restaurants & Bars,Accommodation and Food Service Activities
-Y06,Green Build,Industrial & Commercial Services, Construction & Engineering,"Professional, Scientific and Technical Activities"
-9CI,CapitaLandInvest,Real Estate, Real Estate Services,Financial and Insurance Activities
-WVJ,Ntegrator Hldg,Retailers, Apparel & Accessories Retailers,Information and Communications
-VI2,TC Auto,Automobiles & Auto Parts, Auto & Truck Manufacturers,Wholesale and Retail Trade
-DHLU,Daiwa Hse Log Tr,Real Estate, Commercial REITs,Real Estate Activities
-WPC,Vallianz,Transportation, Marine Freight & Logistics,Financial and Insurance Activities
-Z74,Singtel,Telecommunications Services, Integrated Telecommunications Services,Information and Communications
-Y35,AnAn Intl,Energy - Fossil Fuels, Oil & Gas Refining and Marketin,Wholesale and Retail Trade
-YF8,YZJ Fin Hldg,Banking & Investment Services, Investment Management & Fund Operators,Financial and Insurance Activities
-Z59,Yoma Strategic,Real Estate, Real Estate Development & Operations,Real Estate Activities
-BAI,Digilife Tech,Telecommunications Services, Integrated Telecommunications Services,Wholesale and Retail Trade
-B9S,CosmoSteel,Mineral Resources, Iron & Steel,Wholesale and Retail Trade
-BCY,Powermatic Data,Technology Equipment, Communications & Networking,Real Estate Activities
-BDX,GSH,Industrial & Commercial Services, Business Support Services,Real Estate Activities
-ENV,LS 2 Holdings,Industrial & Commercial Services, Environmental Services & Equipment,Financial and Insurance Activities
-BEI,LHT,Applied Resources, Forest & Wood Products,Manufacturing
-LVR,17LIVE GROUP,Software & IT Services, Internet Services,Financial and Insurance Activities
-BEZ,Beng Kuang,Industrial & Commercial Services, Construction & Engineering,Manufacturing
-NXR,iWOW Tech,Technology Equipment, Integrated Hardware & Software,Information and Communications
-BFU,Tye Soon,Automobiles & Auto Parts, Auto,Wholesale and Retail Trade
-VC2,Olam Group,Food & Beverages, Food Processing,Wholesale and Retail Trade
-BIP,Vibrant Group,Transportation, Air Freight & Logistics,Transportation and Storage
-BJV,Yamada Green Res,Food & Beverages, Food Processing,Agriculture and Fishing
-NIO,NIO Inc. USD OV,Automobiles & Auto Parts, Auto & Truck Manufacturers,Manufacturing
-NLC,5E Resources,Industrial & Commercial Services, Environmental Services & Equipment,"Water Supply; Sewerage, Waste Management and Remediation Activities"
-BLH,Hai Leck,Industrial & Commercial Services, Business Support Services,Mining and Quarrying
-EMI,Emperador Inc.,Food & Beverages, Distillers & Wineries,Manufacturing
-BKV,Shenshan,Food & Beverages, Fishing & Farming,Manufacturing
-BMGU,BHG Retail Reit,Real Estate, Commercial REITs,Real Estate Activities
-BQC,A-Smart,Industrial & Commercial Services, Commercial Printing Services,Manufacturing
-BKZ,Suntar Eco-City,Pharmaceuticals & Medical Research, Pharmaceuticals,Manufacturing
-V8Y,Quantum Health,Healthcare Services, Healthcare Facilities & Services,Financial and Insurance Activities
-SEJ,NoonTalk Media,Cyclical Consumer Services, Entertainment Production,Information and Communications
-YK9,YKGI,Cyclical Consumer Services, Restaurants & Bars,Financial and Insurance Activities
-T43,Yunnan Energy,Cyclical Consumer Products, Construction Supplies & Fixtures,Wholesale and Retail Trade
-BXE,CDW,Technology Equipment, Electronic Equipment & Parts,Manufacturing
-BQD,Envictus,Cyclical Consumer Services, Restaurants & Bars,Manufacturing
-BSL,Raffles Medical,Healthcare Services, Healthcare Facilities & Services,Health and Social Services
-TCPD,,,,
-TPED,,,,
-BVQ,Procurri,Software & IT Services, IT Services & Consulting,Wholesale and Retail Trade
-TATD,,,,
-UUK,Pasture Holdings,Healthcare Services, Advanced Medical Equipment & Technology,Wholesale and Retail Trade
-C70,CityDev,Real Estate, Real Estate Development & Operations,Real Estate Activities
-CC3,StarHub,Telecommunications Services, Wireless Telecommunications Services,Information and Communications
-C41,Cortina,Retailers, Apparel & Accessories Retailers,"Professional, Scientific and Technical Activities"
-CJLU,NetLink NBN Tr,Telecommunications Services, Integrated Telecommunications Services,Information and Communications
-NPL,Niks Prof,Personal & Household Products & Services, Personal Services,Health and Social Services
-CTO,Hong Lai Huat,Real Estate, Real Estate Development & Operations,Real Estate Activities
-9G2,,,,
-DCRU,DigiCore Reit USD,Real Estate, Specialized REITs,Real Estate Activities
-CWBU,Cromwell Reit EUR,Real Estate, Commercial REITs,Real Estate Activities
-D03,Del Monte Pac,Food & Beverages, Food Processing,Wholesale and Retail Trade
-F1E,Low Keng Huat,Industrial & Commercial Services, Construction & Engineering,Construction
-H22,Hong Leong Asia,Automobiles & Auto Parts, Auto,Manufacturing
-DU4,Mermaid Maritime,Energy - Fossil Fuels, Oil & Gas Exploration and Productio,Mining and Quarrying
-E5H,Golden Agri-Res,Food & Beverages, Food Processing,Agriculture and Fishing
-H02,Haw Par,Pharmaceuticals & Medical Research, Pharmaceuticals,Manufacturing
-L02,Metis Energy,Utilities, Electric Utilities,Administrative and Support Service Activities
-MZH,Nanofilm,Chemicals, Specialty Chemicals,Manufacturing
-J85,CDL HTrust,Real Estate, Specialized REITs,Real Estate Activities
-O9E,Parkson Retail,Retailers, Department Stores,Financial and Insurance Activities
-J2T,Hock Lian Seng,Industrial & Commercial Services, Construction & Engineering,Construction
-5OQ,Teho Intl,Industrial Goods, Industrial Machinery & Equipment,Wholesale and Retail Trade
-KUX,OIO,Financial Technology (Fintech) & Infrastructure, Blockchain & Cryptocurrency,Manufacturing
-LYY,SinoCloud Grp,Software & IT Services, IT Services & Consulting,Information and Communications
-LS9,Leader Env,Industrial & Commercial Services, Environmental Services & Equipment,"Professional, Scientific and Technical Activities"
-N01,NeraTel,Technology Equipment, Communications & Networking,Information and Communications
-MV4,Mewah Intl,Food & Beverages, Food Processing,Manufacturing
-P34,Delfi,Food & Beverages, Food Processing,Manufacturing
-OXMU,Prime US ReitUSD,Real Estate, Commercial REITs,Real Estate Activities
-P9D,Civmec,Industrial & Commercial Services, Construction & Engineering,Manufacturing
-O5RU,AIMS APAC Reit,Real Estate, Commercial REITs,Real Estate Activities
-OYY,PropNex,Real Estate, Real Estate Services,Real Estate Activities
-ODBU,UtdHampshReitUSD,Real Estate, Commercial REITs,Financial and Insurance Activities
-S20,Straits Trading,Mineral Resources, Specialty Mining & Metals,Real Estate Activities
-OTX,Medinex,Industrial & Commercial Services, Business Support Services,Health and Social Services
-P74,ChinaKangdaFood,Food & Beverages, Food Processing,Manufacturing
-QES,ChinaSunsine,Chemicals, Specialty Chemicals,Manufacturing
-QNS,SouthernAlliance,Mineral Resources, Iron & Steel,Mining and Quarrying
-RCU,Revez,Software & IT Services, IT Services & Consulting,Financial and Insurance Activities
-S29,Stamford Tyres,Automobiles & Auto Parts, Tires & Rubber Products,Manufacturing
-V7R,ResourcesGbl,Energy - Fossil Fuels, Coal,Transportation and Storage
-S19,SingShipping,Industrial Goods, Shipbuilding,Administrative and Support Service Activities
-UD1U,IREIT Global SGD,Real Estate, Commercial REITs,Real Estate Activities
-ZKX,Ever Glory,Industrial & Commercial Services, Construction & Engineering,Construction
-SGR,Sheffield Green,Industrial & Commercial Services, Employment Services,Administrative and Support Service Activities
-WKS,WinkingStudios,Industrial & Commercial Services, Business Support Services,Information and Communications
-LMS,LMS Compliance,Industrial & Commercial Services, Business Support Services,"Professional, Scientific and Technical Activities"
-STC,Comba,Technology Equipment, Communications & Networking,Information and Communications
+symbol,sector,sub_sector
+1A0,Cyclical Consumer Services, Restaurants & Bars
+1A1,Industrial Goods, Industrial Machinery & Equipment
+1A4,Holding Companies, Investment Holding Companies
+1AZ,Cyclical Consumer Services, Consumer Publishing
+1B0,Cyclical Consumer Services, Entertainment Production
+1B1,Healthcare Services, Healthcare Facilities & Services
+1B6,Industrial & Commercial Services, Construction & Engineering
+1D0,Cyclical Consumer Services, Restaurants & Bars
+1D1,Cyclical Consumer Services, Leisure & Recreation
+1D3,Cyclical Consumer Services, Restaurants & Bars
+1D4,Healthcare Services, Healthcare Facilities & Services
+1E3,Industrial & Commercial Services, Construction & Engineering
+1F0,Cyclical Consumer Services, Advertising & Marketing
+1F1,Software & IT Services, Internet Services
+1F2,Utilities, Natural Gas Utilities
+1F3,Real Estate, Real Estate Development & Operations
+1G1,Cyclical Consumer Services, Restaurants & Bars
+1H2,Real Estate, Real Estate Development & Operations
+1H3,Healthcare Services, Healthcare Facilities & Services
+1H8,Cyclical Consumer Products, Home Furnishings
+1J0,Real Estate, Real Estate Development & Operations
+1J4,Industrial & Commercial Services, Construction & Engineering
+1J5,Pharmaceuticals & Medical Research, Pharmaceuticals
+1J7,Applied Resources, Forest & Wood Products
+1MZ,Industrial Goods, Shipbuilding
+1R6,Technology Equipment, Semiconductors
+1V3,Mineral Resources, Iron & Steel
+1Y1,Industrial Goods, Industrial Machinery & Equipment
+40B,Cyclical Consumer Services, Hotels
+40E,Cyclical Consumer Services, Entertainment Production
+40N,Industrial & Commercial Services, Business Support Supplies
+40T,Healthcare Services, Healthcare Facilities & Services
+40V,Real Estate, Real Estate Development & Operations
+40W,Banking & Investment Services, Diversified Investment Services
+41B,Industrial & Commercial Services, Construction & Engineering
+41F,Industrial Goods, Industrial Machinery & Equipment
+41H,Energy - Fossil Fuels, Coal
+41O,Real Estate, Real Estate Development & Operations
+41T,Mineral Resources, Construction Materials
+42C,Pharmaceuticals & Medical Research, Pharmaceuticals
+42D,Cyclical Consumer Services, Restaurants & Bars
+42E,Industrial Goods, Electrical Components & Equipment
+42F,Financial Technology (Fintech) & Infrastructure, Financial Technology (Fintech)
+42L,Retailers, Apparel & Accessories Retailers
+42N,Technology Equipment, Communications & Networking
+42R,Cyclical Consumer Services, Restaurants & Bars
+42S,Real Estate, Real Estate Development & Operations
+42T,Banking & Investment Services, Investment Management & Fund Operators
+42W,Food & Beverages, Food Processing
+42Z,Industrial & Commercial Services, Environmental Services & Equipment
+43A,Cyclical Consumer Services, Restaurants & Bars
+43B,Industrial & Commercial Services, Business Support Services
+43E,Mineral Resources, Construction Materials
+43F,Industrial & Commercial Services, Construction & Engineering
+43Q,Industrial & Commercial Services, Employment Services
+49B,Industrial Goods, Industrial Machinery & Equipment
+500,Industrial Goods, Electrical Components & Equipment
+504,Cyclical Consumer Products, Home Furnishings
+505,Healthcare Services, Healthcare Facilities & Services
+508,Industrial Goods, Industrial Machinery & Equipment
+528,Retailers, Apparel & Accessories Retailers
+532,Software & IT Services, Software
+533,Food & Beverages, Food Processing
+540,Cyclical Consumer Services, Restaurants & Bars
+541,Industrial & Commercial Services, Commercial Printing Services
+543,Retailers, Miscellaneous Specialty Retailers
+544,Software & IT Services, IT Services & Consulting
+546,Healthcare Services, Medical Equipment
+554,Industrial & Commercial Services, Construction & Engineering
+558,Technology Equipment, Semiconductor Equipment & Testing
+564,Industrial Goods, Industrial Machinery & Equipment
+566,Industrial & Commercial Services, Construction & Engineering
+569,Healthcare Services, Medical Equipment
+570,Mineral Resources, Construction Materials
+575,Technology Equipment, Semiconductor Equipment & Testing
+579,Food & Drug Retailing, Food Retail & Distribution
+580,Industrial Goods, Industrial Machinery & Equipment
+581,Real Estate, Real Estate Services
+583,Industrial & Commercial Services, Construction & Engineering
+584,Healthcare Services, Advanced Medical Equipment & Technology
+585,Utilities, Natural Gas Utilities
+594,Energy - Fossil Fuels, Integrated Oil & Gas
+595,Transportation, Air Freight & Logistics
+596,Cyclical Consumer Services, Restaurants & Bars
+5AB,Technology Equipment, Computer Hardware
+5AE,Real Estate, Real Estate Development & Operations
+5AI,Cyclical Consumer Products, Home Furnishings
+5AL,Energy - Fossil Fuels, Oil Related Services and Equipme
+5AU,Chemicals, Specialty Chemicals
+5BI,Retailers, Computer & Electronics Retailers
+5CF,Industrial & Commercial Services, Construction & Engineering
+5CP,Financial Technology (Fintech) & Infrastructure, Financial Technology (Fintech)
+5CR,Industrial Goods, Industrial Machinery & Equipment
+5CT,Industrial & Commercial Services, Environmental Services & Equipment
+5DD,Technology Equipment, Semiconductor Equipment & Testing
+5DM,Real Estate, Real Estate Development & Operations
+5DO,Cyclical Consumer Services, Restaurants & Bars
+5DP,Real Estate, Real Estate Development & Operations
+5DS,Chemicals, Specialty Chemicals
+5DX,Mineral Resources, Iron & Steel
+5E2,Industrial Goods, Shipbuilding
+5EB,Industrial Goods, Industrial Machinery & Equipment
+5EF,Real Estate, Real Estate Development & Operations
+5EG,Food & Beverages, Food Processing
+5EV,Food & Drug Retailing, Food Retail & Distribution
+5F4,Real Estate, Real Estate Development & Operations
+5F7,Mineral Resources, Gold
+5FW,Industrial & Commercial Services, Environmental Services & Equipment
+5FX,Mineral Resources, Aluminum
+5G1,Retailers, Auto Vehicles
+5G2,Energy - Fossil Fuels, Oil Related Services and Equipme
+5G3,Healthcare Services, Healthcare Facilities & Services
+5G4,Real Estate, Real Estate Development & Operations
+5G9,Industrial & Commercial Services, Construction & Engineering
+5GD,Industrial Goods, Industrial Machinery & Equipment
+5GI,Energy - Fossil Fuels, Oil & Gas Exploration and Productio
+5GJ,Energy - Fossil Fuels, Oil Related Services and Equipme
+5GZ,Mineral Resources, Construction Materials
+5HG,Food & Beverages, Fishing & Farming
+5HH,Cyclical Consumer Services, Hotels
+5HT,Real Estate, Real Estate Development & Operations
+5HV,Industrial & Commercial Services, Construction & Engineering
+5I1,Real Estate, Real Estate Development & Operations
+5I4,Cyclical Consumer Services, Hotels
+5IC,Real Estate, Real Estate Development & Operations
+5IF,Industrial & Commercial Services, Construction & Engineering
+5IG,Utilities, Electric Utilities
+5JK,Real Estate, Real Estate Development & Operations
+5JS,Food & Beverages, Food Processing
+5KI,Cyclical Consumer Services, Restaurants & Bars
+5LE,Applied Resources, Forest & Wood Products
+5LY,Transportation, Marine Freight & Logistics
+5MD,Mineral Resources, Aluminum
+5ML,Cyclical Consumer Services, Restaurants & Bars
+5MZ,Industrial & Commercial Services, Business Support Services
+5NF,Industrial Goods, Shipbuilding
+5NV,Transportation, Ground Freight & Logistics
+5OC,Industrial & Commercial Services, Construction & Engineering
+5OI,Cyclical Consumer Services, Restaurants & Bars
+5OQ,Industrial Goods, Industrial Machinery & Equipment
+5OR,Industrial Goods, Electrical Components & Equipment
+5OX,Personal & Household Products & Services, Personal Services
+5PC,Real Estate, Real Estate Development & Operations
+5PD,Energy - Fossil Fuels, Oil & Gas Transportation Servic
+5PF,Technology Equipment, Communications & Networking
+5PO,Industrial & Commercial Services, Business Support Services
+5QR,Industrial Goods, Industrial Machinery & Equipment
+5QY,Banking & Investment Services, Corporate Financial Services
+5RA,Real Estate, Real Estate Development & Operations
+5RC,Industrial Goods, Shipbuilding
+5RE,Healthcare Services, Healthcare Facilities & Services
+5RF,Real Estate, Real Estate Development & Operations
+5SO,Retailers, Miscellaneous Specialty Retailers
+5SR,Retailers, Department Stores
+5SY,Real Estate, Real Estate Services
+5TI,Retailers, Home Furnishings Retailers
+5TJ,Industrial Goods, Electrical Components & Equipment
+5TP,Mineral Resources, Gold
+5TT,Industrial & Commercial Services, Construction & Engineering
+5TY,Technology Equipment, Semiconductor Equipment & Testing
+5UA,Banking & Investment Services, Consumer Lending
+5UF,Retailers, Apparel & Accessories Retailers
+5UL,Energy - Fossil Fuels, Oil Related Services and Equipme
+5UX,Real Estate, Real Estate Development & Operations
+5VC,Industrial & Commercial Services, Construction & Engineering
+5VI,Real Estate, Real Estate Development & Operations
+5VJ,Automobiles & Auto Parts, Tires & Rubber Products
+5VP,Cyclical Consumer Products, Construction Supplies & Fixtures
+5VS,Cyclical Consumer Products, Construction Supplies & Fixtures
+5WA,Healthcare Services, Healthcare Facilities & Services
+5WF,Industrial & Commercial Services, Construction & Engineering
+5WG,Cyclical Consumer Products, Appliances
+5WH,Energy - Fossil Fuels, Oil & Gas Exploration and Productio
+5WJ,Retailers, Apparel & Accessories Retailers
+5WV,Chemicals, Agricultural Chemicals
+600,Utilities, Water Utilities
+8A1,Industrial & Commercial Services, Business Support Services
+8AZ,Technology Equipment, Electronic Equipment & Parts
+8K7,Healthcare Services, Medical Equipment
+8YY,Healthcare Services, Advanced Medical Equipment & Technology
+9CI,Real Estate, Real Estate Services
+9G2,Healthcare,Healthcare Providers & Services
+9I7,Cyclical Consumer Services, Restaurants & Bars
+9QX,Healthcare Services, Healthcare Facilities & Services
+A04,Industrial Goods, Shipbuilding
+A05,Real Estate, Real Estate Development & Operations
+A17U,Real Estate, Commercial REITs
+A26,Industrial & Commercial Services, Business Support Services
+A30,Cyclical Consumer Products, Apparel & Accessories
+A31,Technology Equipment, Communications & Networking
+A33,Real Estate, Real Estate Development & Operations
+A34,Cyclical Consumer Services, Hotels
+A50,Healthcare Services, Healthcare Facilities & Services
+A52,Mineral Resources, Iron & Steel
+A55,Mineral Resources, Iron & Steel
+A78,Mineral Resources, Gold
+A7RU,Chemicals, Diversified Chemicals
+AAJ,Food & Beverages, Fishing & Farming
+ACV,Real Estate, Specialized REITs
+ADN,Real Estate, Real Estate Development & Operations
+AGS,Retailers, Apparel & Accessories Retailers
+AIY,Financial Technology (Fintech) & Infrastructure, Financial Technology (Fintech)
+AJ2,Energy - Fossil Fuels, Oil & Gas Refining and Marketin
+AJBU,Real Estate, Specialized REITs
+AOF,Real Estate, Real Estate Development & Operations
+AP4,Healthcare Services, Medical Equipment
+AU8U,Real Estate, Commercial REITs
+AVX,Cyclical Consumer Services, Hotels
+AW9U,Real Estate, Specialized REITs
+AWC,Industrial Goods, Electrical Components & Equipment
+AWG,Mineral Resources, Aluminum
+AWI,Real Estate, Real Estate Development & Operations
+AWK,Cyclical Consumer Products, Apparel & Accessories
+AWM,Industrial Goods, Industrial Machinery & Equipment
+AWV,Telecommunications Services, Wireless Telecommunications Services
+AWX,Technology Equipment, Semiconductors
+AWZ,Technology Equipment, Computer Hardware
+AXB,Industrial & Commercial Services, Construction & Engineering
+AYN,Technology Equipment, Semiconductor Equipment & Testing
+AYV,Industrial Goods, Industrial Machinery & Equipment
+AZA,Cyclical Consumer Services, Hotels
+AZR,Chemicals, Commodity Chemicals
+AZT,Food & Beverages, Food Processing
+B26,Technology Equipment, Computer Hardware
+B28,Cyclical Consumer Services, Hotels
+B49,Industrial Goods, Industrial Machinery & Equipment
+B58,Cyclical Consumer Services, Hotels
+B61,Real Estate, Real Estate Development & Operations
+B69,Industrial Goods, Industrial Machinery & Equipment
+B73,Collective Investments, Closed End Funds
+B9S,Mineral Resources, Iron & Steel
+BAI,Telecommunications Services, Integrated Telecommunications Services
+BAZ,Mineral Resources, Construction Materials
+BBP,Industrial & Commercial Services, Construction & Engineering
+BBW,Software & IT Services, IT Services & Consulting
+BCD,Real Estate, Real Estate Development & Operations
+BCV,Food & Beverages, Fishing & Farming
+BCY,Technology Equipment, Communications & Networking
+BCZ,Retailers, Apparel & Accessories Retailers
+BDA,Industrial Goods, Electrical Components & Equipment
+BDR,Technology Equipment, Electronic Equipment & Parts
+BDU,Energy - Fossil Fuels, Oil Related Services and Equipme
+BDX,Industrial & Commercial Services, Business Support Services
+BEC,Cyclical Consumer Products, Construction Supplies & Fixtures
+BEH,Industrial & Commercial Services, Construction & Engineering
+BEI,Applied Resources, Forest & Wood Products
+BEW,Food & Beverages, Food Processing
+BEZ,Industrial & Commercial Services, Construction & Engineering
+BFI,Industrial & Commercial Services, Construction & Engineering
+BFK,Pharmaceuticals & Medical Research, Pharmaceuticals
+BFT,Retailers, Home Improvement Products & Services Retailers
+BFU,Automobiles & Auto Parts, Auto
+BHD,Real Estate, Real Estate Development & Operations
+BHK,Utilities, Water Utilities
+BHU,Cyclical Consumer Services, Leisure & Recreation
+BIP,Transportation, Air Freight & Logistics
+BIX,Technology Equipment, Semiconductor Equipment & Testing
+BJD,Utilities, Electric Utilities
+BJV,Food & Beverages, Food Processing
+BJZ,Cyclical Consumer Products, Home Furnishings
+BKA,Industrial Goods, Heavy Machinery & Vehicles
+BKK,Chemicals, Specialty Chemicals
+BKV,Food & Beverages, Fishing & Farming
+BKW,Cyclical Consumer Services, Hotels
+BKX,Industrial Goods, Heavy Machinery & Vehicles
+BKZ,Pharmaceuticals & Medical Research, Pharmaceuticals
+BLH,Industrial & Commercial Services, Business Support Services
+BLR,Utilities, Water Utilities
+BLS,Banking & Investment Services, Investment Management & Fund Operators
+BLU,Automobiles & Auto Parts, Tires & Rubber Products
+BLZ,Energy - Fossil Fuels, Oil Related Services and Equipme
+BMGU,Real Estate, Commercial REITs
+BMT,Healthcare Services, Healthcare Facilities & Services
+BN2,Technology Equipment, Electronic Equipment & Parts
+BN4,Consumer Goods Conglomerates, Consumer Goods Conglomerates
+BNE,Food & Beverages, Fishing & Farming
+BPF,Automobiles & Auto Parts, Auto
+BQC,Industrial & Commercial Services, Commercial Printing Services
+BQD,Cyclical Consumer Services, Restaurants & Bars
+BQF,Industrial Goods, Electrical Components & Equipment
+BQM,Industrial Goods, Heavy Machinery & Vehicles
+BQN,Industrial Goods, Electrical Components & Equipment
+BQP,Applied Resources, Non-Paper Containers & Packaging
+BRD,Industrial & Commercial Services, Construction & Engineering
+BRS,Cyclical Consumer Products, Recreational Products
+BS6,Industrial Goods, Shipbuilding
+BSL,Healthcare Services, Healthcare Facilities & Services
+BTE,Real Estate, Real Estate Development & Operations
+BTG,Mineral Resources, Iron & Steel
+BTJ,Transportation, Air Freight & Logistics
+BTM,Transportation, Passenger Transportation
+BTOU,Real Estate, Commercial REITs
+BTP,Energy - Fossil Fuels, Oil Related Services and Equipme
+BTX,Industrial Goods, Industrial Machinery & Equipment
+BUOU,Real Estate, Commercial REITs
+BVA,Healthcare Services, Medical Equipment
+BVQ,Software & IT Services, IT Services & Consulting
+BWCU,Real Estate, Specialized REITs
+BWM,Renewable Energy, Renewable Energy Equipment & Services
+BXE,Technology Equipment, Electronic Equipment & Parts
+C04,Cyclical Consumer Products, Appliances
+C05,Chemicals, Commodity Chemicals
+C06,Industrial & Commercial Services, Construction & Engineering
+C07,Consumer Goods Conglomerates, Consumer Goods Conglomerates
+C09,Real Estate, Real Estate Development & Operations
+C13,Energy - Fossil Fuels, Oil Related Services and Equipme
+C2PU,Real Estate, Specialized REITs
+C33,Real Estate, Real Estate Development & Operations
+C38U,Real Estate, Commercial REITs
+C41,Retailers, Apparel & Accessories Retailers
+C52,Transportation, Passenger Transportation
+C6L,Transportation, Airlines
+C70,Real Estate, Real Estate Development & Operations
+C76,Technology Equipment, Computer Hardware
+C8R,Chemicals, Commodity Chemicals
+C9Q,Energy - Fossil Fuels, Oil & Gas Refining and Marketin
+CC3,Telecommunications Services, Wireless Telecommunications Services
+CEDU,Real Estate, Commercial REITs
+CGN,Personal & Household Products & Services, Personal Products
+CHJ,Industrial & Commercial Services, Business Support Services
+CHZ,Industrial & Commercial Services, Employment Services
+CIN,Transportation, Marine Freight & Logistics
+CJLU,Telecommunications Services, Integrated Telecommunications Services
+CLN,Real Estate, Real Estate Services
+CMOU,Real Estate, Commercial REITs
+CNE,Personal & Household Products & Services, Personal Services
+CRPU,Real Estate, Commercial REITs
+CTO,Real Estate, Real Estate Development & Operations
+CWBU,Real Estate, Commercial REITs
+CY6U,Real Estate, Commercial REITs
+CYW,Industrial Goods, Electrical Components & Equipment
+D01,Food & Drug Retailing, Food Retail & Distribution
+D03,Food & Beverages, Food Processing
+D05,Banking & Investment Services, Banks
+D5IU,Real Estate, Commercial REITs
+D8DU,Transportation, Marine Freight & Logistics
+DCRU,Real Estate, Specialized REITs
+DHLU,Real Estate, Commercial REITs
+DM0,Applied Resources, Paper Packaging
+DRX,Cyclical Consumer Services, Restaurants & Bars
+DU4,Energy - Fossil Fuels, Oil & Gas Exploration and Productio
+E27,Cyclical Consumer Services, Advertising & Marketing
+E28,Industrial Goods, Industrial Machinery & Equipment
+E3B,Industrial & Commercial Services, Construction & Engineering
+E5H,Food & Beverages, Food Processing
+E6R,Applied Resources, Forest & Wood Products
+E9L,Banking & Investment Services, Corporate Financial Services
+EB5,Food & Beverages, Food Processing
+EB7,Industrial Goods, Industrial Machinery & Equipment
+EH5,Real Estate, Real Estate Development & Operations
+EHG,Healthcare Services, Healthcare Facilities & Services
+EMI,Food & Beverages, Distillers & Wineries
+ENV,Industrial & Commercial Services, Environmental Services & Equipment
+ER0,Industrial & Commercial Services, Construction & Engineering
+F03,Food & Beverages, Food Processing
+F10,Retailers, Apparel & Accessories Retailers
+F13,Industrial Goods, Industrial Machinery & Equipment
+F17,Real Estate, Real Estate Development & Operations
+F1E,Industrial & Commercial Services, Construction & Engineering
+F34,Food & Beverages, Food Processing
+F83,Transportation, Marine Freight & Logistics
+F86,Real Estate, Real Estate Development & Operations
+F99,Food & Beverages, Food Processing
+F9D,Industrial & Commercial Services, Construction & Engineering
+FQ7,Transportation, Marine Freight & Logistics
+FRQ,Healthcare Services, Healthcare Facilities & Services
+G07,Insurance, Life & Health Insurance
+G0I,Cyclical Consumer Products, Construction Supplies & Fixtures
+G13,Cyclical Consumer Services, Casinos & Gaming
+G20,Industrial Goods, Electrical Components & Equipment
+G50,Cyclical Consumer Products, Recreational Products
+G92,Transportation, Airport Services
+GRQ,Food & Beverages, Fishing & Farming
+GU5,Chemicals, Commodity Chemicals
+H02,Pharmaceuticals & Medical Research, Pharmaceuticals
+H07,Cyclical Consumer Services, Hotels
+H12,Cyclical Consumer Services, Hotels
+H13,Real Estate, Real Estate Development & Operations
+H15,Cyclical Consumer Services, Hotels
+H18,Cyclical Consumer Services, Hotels
+H20,Industrial Goods, Industrial Machinery & Equipment
+H22,Automobiles & Auto Parts, Auto
+H30,Real Estate, Real Estate Development & Operations
+H78,Real Estate, Real Estate Development & Operations
+HKB,Banking & Investment Services, Investment Management & Fund Operators
+HMN,Real Estate, Specialized REITs
+HQU,Food & Beverages, Food Processing
+I06,Industrial & Commercial Services, Diversified Industrial Goods Wholesale
+I07,Industrial Goods, Electrical Components & Equipment
+I11,Utilities, Natural Gas Utilities
+I15,Retailers, Department Stores
+I49,Banking & Investment Services, Consumer Lending
+IX2,Energy - Fossil Fuels, Oil Related Services and Equipme
+J03,Technology Equipment, Semiconductors
+J2T,Industrial & Commercial Services, Construction & Engineering
+J36,Consumer Goods Conglomerates, Consumer Goods Conglomerates
+J69U,Real Estate, Commercial REITs
+J85,Real Estate, Specialized REITs
+J91U,Real Estate, Commercial REITs
+JLB,Industrial Goods, Industrial Machinery & Equipment
+JYEU,Real Estate, Commercial REITs
+K03,Food & Beverages, Food Processing
+K29,Technology Equipment, Computer Hardware
+K6S,Insurance, Life & Health Insurance
+K71U,Real Estate, Commercial REITs
+K75,Industrial & Commercial Services, Construction & Engineering
+KJ5,Industrial & Commercial Services, Construction & Engineering
+KUH,Cyclical Consumer Services, Restaurants & Bars
+KUO,Mineral Resources, Construction Materials
+KUX,Financial Technology (Fintech) & Infrastructure, Blockchain & Cryptocurrency
+L02,Utilities, Electric Utilities
+L19,Industrial & Commercial Services, Construction & Engineering
+L23,Industrial & Commercial Services, Environmental Services & Equipment
+L38,Cyclical Consumer Services, Hotels
+LJ3,Real Estate, Real Estate Development & Operations
+LMS,Industrial & Commercial Services, Business Support Services
+LS9,Industrial & Commercial Services, Environmental Services & Equipment
+LUY,Industrial & Commercial Services, Construction & Engineering
+LVR,Software & IT Services, Internet Services
+LYY,Software & IT Services, IT Services & Consulting
+M01,Retailers, Department Stores
+M03,Technology Equipment, Computer Hardware
+M04,Cyclical Consumer Services, Hotels
+M05,Energy - Fossil Fuels, Oil Related Services and Equipme
+M11,Technology Equipment, Semiconductor Equipment & Testing
+M14,Cyclical Consumer Products, Construction Supplies & Fixtures
+M15,Chemicals, Specialty Chemicals
+M1GU,Real Estate, Commercial REITs
+M44U,Real Estate, Commercial REITs
+ME8U,Real Estate, Commercial REITs
+MF6,Industrial & Commercial Services, Construction & Engineering
+MIJ,Healthcare Services, Healthcare Facilities & Services
+MR7,Industrial & Commercial Services, Construction & Engineering
+MV4,Food & Beverages, Food Processing
+MXNU,Real Estate, Commercial REITs
+MZH,Chemicals, Specialty Chemicals
+N01,Technology Equipment, Communications & Networking
+N02,Mineral Resources, Construction Materials
+N08,Applied Resources, Paper Packaging
+N0Z,Personal & Household Products & Services, Personal Products
+N2IU,Real Estate, Commercial REITs
+N32,Applied Resources, Paper Products
+NC2,Automobiles & Auto Parts, Tires & Rubber Products
+NEX,Industrial & Commercial Services, Environmental Services & Equipment
+NHD,Industrial Goods, Industrial Machinery & Equipment
+NIO,Automobiles & Auto Parts, Auto & Truck Manufacturers
+NLC,Industrial & Commercial Services, Environmental Services & Equipment
+NO4,Energy - Fossil Fuels, Oil Related Services and Equipme
+NPL,Personal & Household Products & Services, Personal Services
+NPW,Mineral Resources, Specialty Mining & Metals
+NR7,Academic & Educational Services, Professional & Business Education
+NS8U,Transportation, Marine Port Services
+NXR,Technology Equipment, Integrated Hardware & Software
+O08,Retailers, Apparel & Accessories Retailers
+O10,Real Estate, Real Estate Development & Operations
+O39,Banking & Investment Services, Banks
+O5RU,Real Estate, Commercial REITs
+O9E,Retailers, Department Stores
+OAJ,Mineral Resources, Iron & Steel
+ODBU,Real Estate, Commercial REITs
+OMK,Cyclical Consumer Services, Entertainment Production
+OTS,Food & Beverages, Food Processing
+OTX,Industrial & Commercial Services, Business Support Services
+OU8,Real Estate, Real Estate Development & Operations
+OV8,Food & Drug Retailing, Food Retail & Distribution
+OXMU,Real Estate, Commercial REITs
+OYY,Real Estate, Real Estate Services
+P15,Holding Companies, Investment Holding Companies
+P34,Food & Beverages, Food Processing
+P36,Real Estate, Real Estate Development & Operations
+P40U,Real Estate, Commercial REITs
+P52,Mineral Resources, Construction Materials
+P74,Food & Beverages, Food Processing
+P8A,Healthcare Services, Healthcare Facilities & Services
+P8Z,Food & Beverages, Food Processing
+P9D,Industrial & Commercial Services, Construction & Engineering
+PA3,Real Estate, Real Estate Development & Operations
+PH0,Real Estate, Real Estate Development & Operations
+PPC,Cyclical Consumer Services, Hotels
+PRH,Healthcare Services, Healthcare Facilities & Services
+Q01,Food & Beverages, Food Processing
+Q0F,Healthcare Services, Healthcare Facilities & Services
+Q0X,Industrial & Commercial Services, Construction & Engineering
+Q5T,Real Estate, Specialized REITs
+QC7,Healthcare Services, Healthcare Facilities & Services
+QES,Chemicals, Specialty Chemicals
+QNS,Mineral Resources, Iron & Steel
+QS9,Technology Equipment, Communications & Networking
+QSD,Energy - Fossil Fuels, Coal
+QZG,Technology Equipment, Computer Hardware
+R14,Energy - Fossil Fuels, Integrated Oil & Gas
+RCU,Software & IT Services, IT Services & Consulting
+RDR,Technology Equipment, Electronic Equipment & Parts
+RE4,Energy - Fossil Fuels, Coal
+RQ1,Academic & Educational Services, Miscellaneous Educational Service Providers
+RXS,Energy - Fossil Fuels, Oil & Gas Transportation Servic
+S07,Cyclical Consumer Services, Hotels
+S08,Transportation, Air Freight & Logistics
+S19,Industrial Goods, Shipbuilding
+S20,Mineral Resources, Specialty Mining & Metals
+S23,Banking & Investment Services, Banks
+S29,Automobiles & Auto Parts, Tires & Rubber Products
+S35,Banking & Investment Services, Banks
+S3N,Industrial & Commercial Services, Construction & Engineering
+S41,Banking & Investment Services, Corporate Financial Services
+S44,Mineral Resources, Construction Materials
+S56,Transportation, Marine Freight & Logistics
+S58,Transportation, Airport Services
+S59,Transportation, Airport Services
+S61,Transportation, Passenger Transportation
+S63,Industrial Goods, Aerospace & Defense
+S68,Banking & Investment Services, Financial & Commodity Market Operators
+S69,Industrial Goods, Electrical Components & Equipment
+S71,Technology Equipment, Semiconductor Equipment & Testing
+S7OU,Cyclical Consumer Services, Broadcasting
+S7P,Industrial & Commercial Services, Construction & Engineering
+S85,Cyclical Consumer Services, Leisure & Recreation
+S9B,Real Estate, Real Estate Development & Operations
+SEJ,Cyclical Consumer Services, Entertainment Production
+SES,Industrial & Commercial Services, Environmental Services & Equipment
+SGR,Industrial & Commercial Services, Employment Services
+SJY,Automobiles & Auto Parts, Auto
+SK6U,Real Estate, Commercial REITs
+STC,Technology Equipment, Communications & Networking
+STG,Healthcare Services, Medical Equipment
+T12,Applied Resources, Paper Packaging
+T13,Energy - Fossil Fuels, Oil & Gas Exploration and Productio
+T14,Pharmaceuticals & Medical Research, Pharmaceuticals
+T15,Transportation, Ground Freight & Logistics
+T24,Real Estate, Real Estate Development & Operations
+T41,Technology Equipment, Phones & Handheld Devices
+T43,Cyclical Consumer Products, Construction Supplies & Fixtures
+T55,Collective Investments, Closed End Funds
+T6I,Retailers, Apparel & Accessories Retailers
+T82U,Real Estate, Commercial REITs
+TATD,Industrials,Transport Infrastructure
+TCPD,Consumer Non-Cyclicals,Food & Drug Retailing
+TCU,Industrial & Commercial Services, Professional Information Services
+TPED,Energy,Oil & Gas
+TQ5,Real Estate, Real Estate Development & Operations
+TS0U,Real Estate, Diversified REITs
+TVV,Industrial & Commercial Services, Business Support Services
+TWL,Industrial & Commercial Services, Construction & Engineering
+U06,Real Estate, Real Estate Development & Operations
+U09,Cyclical Consumer Products, Construction Supplies & Fixtures
+U10,Banking & Investment Services, Investment Banking & Brokerage Services
+U11,Banking & Investment Services, Banks
+U13,Insurance, Multiline Insurance & Brokers
+U14,Real Estate, Real Estate Development & Operations
+U77,Industrial Goods, Industrial Machinery & Equipment
+U96,Utilities, Multiline Utilities
+U9E,Utilities, Water Utilities
+UD1U,Real Estate, Commercial REITs
+UD2,Food & Beverages, Food Processing
+UIX,Automobiles & Auto Parts, Auto & Truck Manufacturers
+URR,Cyclical Consumer Services, Leisure & Recreation
+UUK,Healthcare Services, Advanced Medical Equipment & Technology
+V03,Technology Equipment, Electronic Equipment & Parts
+V2Y,Insurance, Multiline Insurance & Brokers
+V3M,Industrial & Commercial Services, Environmental Services & Equipment
+V7R,Energy - Fossil Fuels, Coal
+V8Y,Healthcare Services, Healthcare Facilities & Services
+VC2,Food & Beverages, Food Processing
+VI2,Automobiles & Auto Parts, Auto & Truck Manufacturers
+VVL,Software & IT Services, IT Services & Consulting
+W05,Real Estate, Real Estate Development & Operations
+WJ9,Technology Equipment, Semiconductor Equipment & Testing
+WJP,Industrial & Commercial Services, Business Support Services
+WKS,Industrial & Commercial Services, Business Support Services
+WPC,Transportation, Marine Freight & Logistics
+WVJ,Retailers, Apparel & Accessories Retailers
+XCF,Cyclical Consumer Products, Apparel & Accessories
+XJB,Cyclical Consumer Services, Entertainment Production
+XVG,Industrial & Commercial Services, Construction & Engineering
+XZL,Real Estate, Specialized REITs
+Y03,Food & Beverages, Food Processing
+Y06,Industrial & Commercial Services, Construction & Engineering
+Y35,Energy - Fossil Fuels, Oil & Gas Refining and Marketin
+Y3D,Retailers, Computer & Electronics Retailers
+Y45,Transportation, Airport Services
+Y8E,Chemicals, Commodity Chemicals
+Y92,Food & Beverages, Distillers & Wineries
+YF8,Banking & Investment Services, Investment Management & Fund Operators
+YK9,Cyclical Consumer Services, Restaurants & Bars
+YYB,Industrial & Commercial Services, Employment Services
+YYN,Software & IT Services, IT Services & Consulting
+Z25,Real Estate, Real Estate Development & Operations
+Z4D,Healthcare Services, Healthcare Facilities & Services
+Z59,Real Estate, Real Estate Development & Operations
+Z74,Telecommunications Services, Integrated Telecommunications Services
+Z77,Telecommunications Services, Integrated Telecommunications Services
+ZB9,Mineral Resources, Iron & Steel
+ZKX,Industrial & Commercial Services, Construction & Engineering
+ZXY,Industrial & Commercial Services, Construction & Engineering
