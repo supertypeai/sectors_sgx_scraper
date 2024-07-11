@@ -1,6 +1,6 @@
 from scraper import scrap_function
 from combiner import combine_data
-from additional_scrapper import scrap_null_data
+from additional_scrapper_tv import scrap_null_data
 import pandas as pd
 from multiprocessing import Process
 import os
@@ -29,28 +29,28 @@ if __name__ == "__main__":
   start = time.time()
 
   # Divide to processes
-  # length_list = len(symbol_list)
-  # i1 = int(length_list / 4)
-  # i2 = 2 * i1
-  # i3 = 3 * i1
+  length_list = len(symbol_list)
+  i1 = int(length_list / 4)
+  i2 = 2 * i1
+  i3 = 3 * i1
 
-  # p1 = Process(target=scrap_function, args=(symbol_list[:i1], 1))
-  # p2 = Process(target=scrap_function, args=(symbol_list[i1:i2], 2))
-  # p3 = Process(target=scrap_function, args=(symbol_list[i2:i3], 3))
-  # p4 = Process(target=scrap_function, args=(symbol_list[i3:], 4))
+  p1 = Process(target=scrap_function, args=(symbol_list[:i1], 1))
+  p2 = Process(target=scrap_function, args=(symbol_list[i1:i2], 2))
+  p3 = Process(target=scrap_function, args=(symbol_list[i2:i3], 3))
+  p4 = Process(target=scrap_function, args=(symbol_list[i3:], 4))
 
-  # p1.start()
-  # p2.start()
-  # p3.start()
-  # p4.start()
+  p1.start()
+  p2.start()
+  p3.start()
+  p4.start()
 
-  # p1.join()
-  # p2.join()
-  # p3.join()
-  # p4.join()
+  p1.join()
+  p2.join()
+  p3.join()
+  p4.join()
 
   # Handle null data
-  scrap_null_data(df_db_data)
+  scrap_null_data()
 
   # Merge data
   df_final = combine_data(df_db_data)

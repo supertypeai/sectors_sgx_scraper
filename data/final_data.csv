@@ -180,7 +180,7 @@ symbol,sector,sub_sector
 8K7,Healthcare Services, Medical Equipment
 8YY,Healthcare Services, Advanced Medical Equipment & Technology
 9CI,Real Estate, Real Estate Services
-9G2,Healthcare,Healthcare Providers & Services
+9G2,Health Services,Hospital/Nursing Management
 9I7,Cyclical Consumer Services, Restaurants & Bars
 9QX,Healthcare Services, Healthcare Facilities & Services
 A04,Industrial Goods, Shipbuilding
@@ -339,7 +339,7 @@ DCRU,Real Estate, Specialized REITs
 DHLU,Real Estate, Commercial REITs
 DM0,Applied Resources, Paper Packaging
 DRX,Cyclical Consumer Services, Restaurants & Bars
-DU4,Energy - Fossil Fuels, Oil & Gas Exploration and Productio
+DU4,Energy - Fossil Fuels, Oil Related Services and Equipme
 E27,Cyclical Consumer Services, Advertising & Marketing
 E28,Industrial Goods, Industrial Machinery & Equipment
 E3B,Industrial & Commercial Services, Construction & Engineering
@@ -416,7 +416,7 @@ L38,Cyclical Consumer Services, Hotels
 LJ3,Real Estate, Real Estate Development & Operations
 LMS,Industrial & Commercial Services, Business Support Services
 LS9,Industrial & Commercial Services, Environmental Services & Equipment
-LUY,Industrial & Commercial Services, Construction & Engineering
+LUY,Software & IT Services, Software
 LVR,Software & IT Services, Internet Services
 LYY,Software & IT Services, IT Services & Consulting
 M01,Retailers, Department Stores
@@ -534,10 +534,10 @@ T43,Cyclical Consumer Products, Construction Supplies & Fixtures
 T55,Collective Investments, Closed End Funds
 T6I,Retailers, Apparel & Accessories Retailers
 T82U,Real Estate, Commercial REITs
-TATD,Industrials,Transport Infrastructure
-TCPD,Consumer Non-Cyclicals,Food & Drug Retailing
+TATD,Transportation,Other Transportation
+TCPD,Retail Trade,Food Retail
 TCU,Industrial & Commercial Services, Professional Information Services
-TPED,Energy,Oil & Gas
+TPED,Energy Minerals,Integrated Oil
 TQ5,Real Estate, Real Estate Development & Operations
 TS0U,Real Estate, Diversified REITs
 TVV,Industrial & Commercial Services, Business Support Services

@@ -906,8 +906,8 @@
   },
   {
     "symbol":"9G2",
-    "sector":"Healthcare",
-    "sub_sector":"Healthcare Providers & Services"
+    "sector":"Health Services",
+    "sub_sector":"Hospital\/Nursing Management"
   },
   {
     "symbol":"9I7",
@@ -1702,7 +1702,7 @@
   {
     "symbol":"DU4",
     "sector":"Energy - Fossil Fuels",
-    "sub_sector":" Oil & Gas Exploration and Productio"
+    "sub_sector":" Oil Related Services and Equipme"
   },
   {
     "symbol":"E27",
@@ -2086,8 +2086,8 @@
   },
   {
     "symbol":"LUY",
-    "sector":"Industrial & Commercial Services",
-    "sub_sector":" Construction & Engineering"
+    "sector":"Software & IT Services",
+    "sub_sector":" Software"
   },
   {
     "symbol":"LVR",
@@ -2676,13 +2676,13 @@
   },
   {
     "symbol":"TATD",
-    "sector":"Industrials",
-    "sub_sector":"Transport Infrastructure"
+    "sector":"Transportation",
+    "sub_sector":"Other Transportation"
   },
   {
     "symbol":"TCPD",
-    "sector":"Consumer Non-Cyclicals",
-    "sub_sector":"Food & Drug Retailing"
+    "sector":"Retail Trade",
+    "sub_sector":"Food Retail"
   },
   {
     "symbol":"TCU",
@@ -2691,8 +2691,8 @@
   },
   {
     "symbol":"TPED",
-    "sector":"Energy",
-    "sub_sector":"Oil & Gas"
+    "sector":"Energy Minerals",
+    "sub_sector":"Integrated Oil"
   },
   {
     "symbol":"TQ5",
